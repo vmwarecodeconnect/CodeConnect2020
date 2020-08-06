@@ -1,4 +1,3 @@
-# VMware CodeCon 2020
 ![](codeconlogofinal_dark.jpg)
 ## Day 1 (10/1/20):
 #### **vSphere and VMware Cloud on AWS Automation w/ William Lam**
