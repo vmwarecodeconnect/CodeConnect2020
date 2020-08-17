@@ -1,5 +1,5 @@
 <style>
-  
+  .wrapper {margin-top:60px;}
 </style>
 
 <div class="header"><img src="code-banner.jpg"></div>
