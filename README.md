@@ -1,7 +1,7 @@
 <style>
   .wrapper {margin-top:60px;}
   .header {margin-top:40px; margin-top:20px;}
-  .header-banner{width:600px;}
+  .header-banner{width:600px; max-width:200%!important;}
   .header-code{position:relative; top:-107px; left:-360px;}
   .session-wrapper{border:1px solid #238ece; border-radius:5px; padding:5px;}
   hr {margin-top:30px; margin-bottom:30px;}
