@@ -3,7 +3,7 @@
   .header {margin-top:40px;}
   .header-banner{width:600px;}
   .header-code{position:relative; top:-107px; left:-360px;}
-  .session-wrapper{border:1px solid #238ece; border-radius:5px; padding:5px;}
+  .session-wrapper{border:1px solid #238ece; border-radius:5px; padding:5px; margin-bottom:15px;}
 </style>
 
 <div class="header-code"><img src="code-banner.jpg" class="header-banner"></div>
