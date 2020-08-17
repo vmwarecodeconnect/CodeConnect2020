@@ -1,3 +1,11 @@
+<style>
+  
+</style>
+
+<div class="header"><img src="/CodeConnect2020/"></div>
+
+
+
 # Day 1 (10/1/20):
 <img src="codeconlogo_light.png">
 ### **vSphere and VMware Cloud on AWS Automation w/ William Lam**
