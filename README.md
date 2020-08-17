@@ -5,9 +5,10 @@
   .header-code{position:relative; top:-107px; left:-360px;}
   .session-wrapper{border:1px solid #238ece; border-radius:5px; padding:5px;}
   hr {margin-top:30px; margin-bottom:30px;}
+  .date {color:#abb7b7;}
 </style>
 
-<div class="header-code"><img src="code-banner.jpg" class="header-banner"></div>
+<div class="header-code"><img src="code-banner.jpg" class="header-banner"> <div class="date">Oct 1–2, 2020 9 AM - 6 PM PST</div></div>
 
 
 
