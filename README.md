@@ -3,28 +3,30 @@
   .header {margin-top:40px;}
   .header-banner{width:600px;}
   .header-code{position:relative; top:-107px; left:-360px;}
-  .session-wrapper{border:1px solid #238ece; radius:5px;}
+  .session-wrapper{border:1px solid #238ece; radius:5px; padding:5px;}
 </style>
 
 <div class="header-code"><img src="code-banner.jpg" class="header-banner"></div>
 
 
-<div class="session-wrapper">
+
 # Day 1 (10/1/20):
 <img src="codeconlogo_light.png">
 ### **vSphere and VMware Cloud on AWS Automation w/ William Lam**
 Do you work with vSphere or VMware Cloud AWS and wish to automate a particular task that you have not been able to figure out? Maybe you are just getting started and looking for some tips or tools on how best to approach a specific problem? Perhaps you are already automating using either vSphere SOAP/REST API or VMware Cloud REST API but you are having issues looking for a specific API? If you have answered yes to any of these questions, this live coding session is for you. I will be using PowerShell/PowerCLI as a way to quickly prototype code during the session, so bring your question and let’s write some code together to help solve your automation tasks!
   Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
-</div>
+
 
 
 # Day 2 (10/2/20):
 ## Tanzu Track
+<div class="session-wrapper">
 ### **Lets build a Kubernetes Operator in Go! w/ Michael Gasch**
 Kubernetes is quickly becoming the standard cloud API for deploying and managing modern workloads. 
 Fundamentally, end-users express their desired state (application) state which is then reconciled by individual controllers in the platform. The beauty of this approach, besides its simplicity and robustness, is that it can be extended and used beyond the core Kubernetes types. In fact, you can create your own APIs on top of Kubernetes for any resource by providing a custom controller logic to handle daily routine tasks or even complex lifecycle operations. This is also referred to as the "operator pattern". But how do you get started? What are the tools of the trade and basic primitives that you should understand before writing your first Kubernetes operator? Even if you are not a (Go) developer, in this session we will walk you through the steps of creating your first operator from scratch by explaining the fundamentals of the Kubernetes platform and applying our knowledge in a live coding session.
 
-Zoom Link: vmware.zoom.us/jsdkfslf
+Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+</div>
 
 ### **Writing a Kubernetes Validating Admission Controller w/ Eric Shanks**
 How do you control what goes into your Kubernetes cluster? How do you ensure that your users are following corporate guidelines for Kubernetes usage? How do you do all this without auditing the environment after the infraction occurred?This session by Eric Shanks, a Senior Field Engineer in the VMware Modern Application Platform Unit, will explore how to build a validating admission controller for use with a Kubernetes cluster. In this session, you’ll learn how to deploy a Python app that can validate Kubernetes API calls and either approve or deny them. You’ll learn how to setup a Kubernetes webhook and most importantly, you’ll learn why you might want to use an admission controller in your environment.
