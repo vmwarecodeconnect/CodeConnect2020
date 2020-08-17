@@ -3,7 +3,7 @@
   .header {margin-top:40px; margin-top:20px;}
   .header-banner{width:600px;}
   .header-code{position:relative; top:-107px; left:-360px;}
-  .session-wrapper{border:1px solid #238ece; border-radius:5px; padding:5px; margin-bottom:15px;}
+  .session-wrapper{border:1px solid #238ece; border-radius:5px; padding:5px; margin-bottom:50px;}
 </style>
 
 <div class="header-code"><img src="code-banner.jpg" class="header-banner"></div>
@@ -28,6 +28,8 @@ Fundamentally, end-users express their desired state (application) state which i
 
 Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
+
+<hr/>
 
 ### **Writing a Kubernetes Validating Admission Controller w/ Eric Shanks**
 How do you control what goes into your Kubernetes cluster? How do you ensure that your users are following corporate guidelines for Kubernetes usage? How do you do all this without auditing the environment after the infraction occurred?This session by Eric Shanks, a Senior Field Engineer in the VMware Modern Application Platform Unit, will explore how to build a validating admission controller for use with a Kubernetes cluster. In this session, you’ll learn how to deploy a Python app that can validate Kubernetes API calls and either approve or deny them. You’ll learn how to setup a Kubernetes webhook and most importantly, you’ll learn why you might want to use an admission controller in your environment.
