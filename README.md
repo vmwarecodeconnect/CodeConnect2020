@@ -1,7 +1,7 @@
 <style>
   .wrapper {margin-top:60px;}
   .header-banner{width:600px;}
-  .header-code{position:relative; top:110px; left:360px;}
+  .header-code{position:relative; top:-107px; left:-360px;}
 </style>
 
 <div class="header-code"><img src="code-banner.jpg" class="header-banner"></div>
