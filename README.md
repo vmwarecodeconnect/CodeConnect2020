@@ -1,8 +1,10 @@
 <style>
   .wrapper {margin-top:60px;}
+  .header-banner{width:600px;}
+  .header-code{position:absolute; top:5px; left:440px;}
 </style>
 
-<div class="header"><img src="code-banner.jpg"></div>
+<div class="header-code"><img src="code-banner.jpg" class="header-banner"></div>
 
 
 
