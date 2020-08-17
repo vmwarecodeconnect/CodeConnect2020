@@ -8,7 +8,7 @@
   .date {color:#abb7b7;}
 </style>
 
-<div class="header-code"><img src="code-banner.jpg" class="header-banner"></div><div class="date">Oct 1–2, 2020 9 AM - 6 PM PST</div>
+<div class="header-code"><img src="code-banner2.jpg" class="header-banner"></div><div class="date">Oct 1–2, 2020 9 AM - 6 PM PST</div>
 
 
 
