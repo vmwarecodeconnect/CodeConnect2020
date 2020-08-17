@@ -2,7 +2,7 @@
   
 </style>
 
-<div class="header"><img src="/CodeConnect2020/"></div>
+<div class="header"><img src="code-banner.jpg"></div>
 
 
 
