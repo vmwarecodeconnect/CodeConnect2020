@@ -1,5 +1,6 @@
 <style>
   .wrapper {margin-top:60px;}
+  .header {margin-top:40px;}
   .header-banner{width:600px;}
   .header-code{position:relative; top:-107px; left:-360px;}
 </style>
