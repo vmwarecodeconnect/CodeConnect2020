@@ -11,9 +11,9 @@
 
 <div class="header-code"><img src="code-banner4.jpg" class="header-banner"></div>
 
-Day 1 Sessions | Day 2 Sessions
+<a href="#day1">Day 1 Sessions</a> | <a href="#day2">Day 2 Sessions</a>
 
-
+<a name="day1"></a>
 # Day 1 (10/1/20):
 <img src="codeconlogo_light.png">
 ### **vSphere and VMware Cloud on AWS Automation w/ William Lam**
@@ -22,7 +22,7 @@ Do you work with vSphere or VMware Cloud AWS and wish to automate a particular t
   Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
-
+<a name="day2"></a>
 # Day 2 (10/2/20):
 ## Tanzu Track
 
