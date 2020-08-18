@@ -24,6 +24,8 @@ Do you work with vSphere or VMware Cloud AWS and wish to automate a particular t
   Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
+
+<br><br>
 <a name="day2"></a>
 # Day 2 (10/2/20):
 
