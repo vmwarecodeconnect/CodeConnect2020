@@ -81,4 +81,7 @@ Virtual Session - Horizon Automation: From 101 to Deepdive will provide the atte
 
 Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
+
+<hr/>
+
 ## Community Track
