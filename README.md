@@ -11,11 +11,13 @@
 
 <div class="header-code"><img src="code-banner4.jpg" class="header-banner"></div>
 
+<img src="codeconlogo_light.png">
+
 <a href="#day1">Day 1 Sessions</a> | <a href="#day2">Day 2 Sessions</a><br><br>
 
 <a name="day1"></a>
 # Day 1 (10/1/20):
-<img src="codeconlogo_light.png">
+
 ### **vSphere and VMware Cloud on AWS Automation w/ William Lam**
 <div class="session-wrapper">
 Do you work with vSphere or VMware Cloud AWS and wish to automate a particular task that you have not been able to figure out? Maybe you are just getting started and looking for some tips or tools on how best to approach a specific problem? Perhaps you are already automating using either vSphere SOAP/REST API or VMware Cloud REST API but you are having issues looking for a specific API? If you have answered yes to any of these questions, this live coding session is for you. I will be using PowerShell/PowerCLI as a way to quickly prototype code during the session, so bring your question and let’s write some code together to help solve your automation tasks!
@@ -24,6 +26,7 @@ Do you work with vSphere or VMware Cloud AWS and wish to automate a particular t
 
 <a name="day2"></a>
 # Day 2 (10/2/20):
+
 ## Tanzu Track
 
 <hr/>
