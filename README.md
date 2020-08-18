@@ -1,5 +1,5 @@
 <style>
-  .wrapper {margin-top:60px;}
+  .wrapper {margin-top:75px;}
   .header {margin-top:40px; margin-top:20px;}
   .header-banner img{width:600px;}
   .header-code img{position:relative; top:-107px; left:-360px; max-width:200%!important; height:50px;}
