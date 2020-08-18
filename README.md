@@ -4,7 +4,7 @@
   .header-banner img{width:600px;}
   .header-code img{position:relative; top:-107px; left:-360px; max-width:200%!important;}
   .session-wrapper{border:1px solid #238ece; border-radius:5px; padding:5px;}
-  hr {margin-top:30px; margin-bottom:30px;}
+  hr {margin-top:30px!important; margin-bottom:30px!important;}
   .date {color:#abb7b7;}
   .header h1 {margin-top:50px;}
 </style>
