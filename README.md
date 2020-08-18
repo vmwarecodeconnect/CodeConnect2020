@@ -6,6 +6,7 @@
   .session-wrapper{border:1px solid #238ece; border-radius:5px; padding:5px;}
   hr {margin-top:30px; margin-bottom:30px;}
   .date {color:#abb7b7;}
+  .header h1 {margin-top:50px;}
 </style>
 
 <div class="header-code"><img src="code-banner4.jpg" class="header-banner"></div>
