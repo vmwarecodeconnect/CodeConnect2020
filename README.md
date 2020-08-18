@@ -11,7 +11,7 @@
 
 <div class="header-code"><img src="code-banner4.jpg" class="header-banner"></div>
 
-<a href="#day1">Day 1 Sessions</a> | <a href="#day2">Day 2 Sessions</a>
+<a href="#day1">Day 1 Sessions</a> | <a href="#day2">Day 2 Sessions</a><br><br>
 
 <a name="day1"></a>
 # Day 1 (10/1/20):
