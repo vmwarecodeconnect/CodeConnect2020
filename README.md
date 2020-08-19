@@ -13,7 +13,7 @@
 
 <img src="codeconlogo_light.png">
 
-<a href="#day1">Day 1 Sessions</a> | <a href="#day2">Day 2 Sessions</a><br><br>
+<a href="#day1">Day 1 Sessions</a> | <a href="#day2">Day 2 Sessions</a>
 
 <a name="day1"></a>
 # Day 1 (10/1/20):
