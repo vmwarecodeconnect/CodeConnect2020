@@ -7,11 +7,12 @@
   hr {margin-top:30px!important; margin-bottom:30px!important;}
   .date {color:#abb7b7;}
   header h1 {margin-top:50px!important; margin-bottom:50px!important;}
+  .lrg-logo {display:none;}
 </style>
 
 <div class="header-code"><img src="code-banner6.jpg" class="header-banner"></div>
 
-<img src="codeconlogo_light.png">
+<img src="codeconlogo_light.png" class="lrg-logo"/>
 
 <a href="#day1">Day 1 Sessions</a><br> | <a href="#day2">Day 2 Sessions</a><br>Tracks: <a href="#tanzu">Tanzu</a>, <a href="#communtiy">Community</a>, <a href="traditional">Traditional</a>, <a href="hackathon">Hackathon</a>
 
