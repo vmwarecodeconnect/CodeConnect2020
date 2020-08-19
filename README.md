@@ -6,7 +6,6 @@
   .session-wrapper{border:1px solid #238ece; border-radius:5px; padding:20px; background-color:#eaeaea;}
   hr {margin-top:30px!important; margin-bottom:30px!important;}
   .date {color:#abb7b7;}
-  header h1 {top:-24px!important;}
   .lrg-logo {display:none;}
 </style>
 
