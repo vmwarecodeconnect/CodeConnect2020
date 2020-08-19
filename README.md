@@ -1,8 +1,8 @@
 <style>
   .wrapper {margin-top:75px;}
-  .header {margin-top:40px; margin-top:20px;}
+  .header {margin-top:-24px; margin-top:20px;}
   .header-banner img{width:600px;}
-  .header-code img{position:relative; top:-107px; left:-360px; max-width:2000px!important;}
+  .header-code img{position:relative; top:-107px; left:0px; max-width:2000px!important;}
   .session-wrapper{border:1px solid #238ece; border-radius:5px; padding:20px; background-color:#eaeaea;}
   hr {margin-top:30px!important; margin-bottom:30px!important;}
   .date {color:#abb7b7;}
