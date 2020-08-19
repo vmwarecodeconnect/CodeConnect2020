@@ -14,7 +14,7 @@
 
 <!--<img src="codeconlogo_light.png" class="lrg-logo"/>-->
 
-<a href="#day1">Day 1 Sessions</a><br><br> | <a href="#day2">Day 2 Sessions</a><br>Tracks: <a href="#tanzu">Tanzu</a>, <a href="#communtiy">Community</a>, <a href="traditional">Traditional</a>, <a href="hackathon">Hackathon</a>
+<a href="#day1">Day 1 Sessions</a><br><br> | <a href="#day2">Day 2 Sessions</a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tracks: <a href="#tanzu">Tanzu</a>, <a href="#communtiy">Community</a>, <a href="traditional">Traditional</a>, <a href="hackathon">Hackathon</a>
 
 <a name="day1"></a>
 # Day 1 (10/1/20):
