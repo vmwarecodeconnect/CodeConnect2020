@@ -12,7 +12,7 @@
 
 <div class="header-code"><img src="code-banner6.jpg" class="header-banner"></div>
 
-<img src="codeconlogo_light.png" class="lrg-logo"/>
+<!--<img src="codeconlogo_light.png" class="lrg-logo"/>-->
 
 <a href="#day1">Day 1 Sessions</a><br><br> | <a href="#day2">Day 2 Sessions</a><br>Tracks: <a href="#tanzu">Tanzu</a>, <a href="#communtiy">Community</a>, <a href="traditional">Traditional</a>, <a href="hackathon">Hackathon</a>
 
