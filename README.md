@@ -1,4 +1,5 @@
 <style>
+  section {width:570px!important;}
   .wrapper {margin-top:75px;}
   header {top:20px!important;}
   .header-banner img{width:600px;}
@@ -13,7 +14,8 @@
 
 <!--<img src="codeconlogo_light.png" class="lrg-logo"/>-->
 
-<a href="#day1">Day 1 Sessions</a><br>&nbsp;|&nbsp;<a href="#day2">Day 2 Sessions</a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tracks: <a href="#tanzu">Tanzu</a>, <a href="#communtiy">Community</a>, <a href="traditional">Traditional</a>, <a href="hackathon">Hackathon</a>
+<a href="#day1">Day 1 Sessions</a>&nbsp;|&nbsp;<a href="#day2">Day 2 Sessions</a>&nbsp;|&nbsp;<a href="hackathon">Hackathon</a>
+<br>Tracks: <a href="#tanzu">Tanzu</a>, <a href="#communtiy">Community</a>, <a href="traditional">Traditional</a>
 
 <a name="day1"></a>
 # Day 1 (10/1/20):
