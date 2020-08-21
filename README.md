@@ -16,12 +16,12 @@
 
 <table>
    <tr>
-     <td><a href="#day1">Day 1 Sessions</a></td>
-     <td><a href="#day2">Day 2 Sessions</a></td>
-     <td><a href="hackathon">Hackathon</a></td>
+     <td><a href="#day1" width="33%">Day 1 Sessions</a></td>
+     <td><a href="#day2" width="33%">Day 2 Sessions</a></td>
+     <td><a href="hackathon" width="33%">Hackathon</a></td>
   </tr>
   <tr>
-    <td rowspan="3">Tracks: <a href="#tanzu">Tanzu</a>, <a href="#communtiy">Community</a>, <a href="traditional">Traditional</a></td>
+    <td rowspan="3" width="100%">Tracks: <a href="#tanzu">Tanzu</a>, <a href="#communtiy">Community</a>, <a href="traditional">Traditional</a></td>
   </tr>
 </table>
 
