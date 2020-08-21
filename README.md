@@ -14,8 +14,17 @@
 
 <!--<img src="codeconlogo_light.png" class="lrg-logo"/>-->
 
-<div class="d1"><a href="#day1">Day 1 Sessions</a></div><div class="d2"><a href="#day2">Day 2 Sessions</a></div><div class="h"><a href="hackathon">Hackathon</a></div>
-<br>Tracks: <a href="#tanzu">Tanzu</a>, <a href="#communtiy">Community</a>, <a href="traditional">Traditional</a>
+<table>
+   <tr>
+     <td><a href="#day1">Day 1 Sessions</a></td>
+     <td><a href="#day2">Day 2 Sessions</a></td>
+     <td><a href="hackathon">Hackathon</a></td>
+  </tr>
+  <tr>
+    <td rowspan="3">Tracks: <a href="#tanzu">Tanzu</a>, <a href="#communtiy">Community</a>, <a href="traditional">Traditional</a></td>
+  </tr>
+</table>
+
 
 <a name="day1"></a>
 # Day 1 (10/1/20):
