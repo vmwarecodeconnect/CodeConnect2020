@@ -18,6 +18,7 @@
    <tr>
      <td><a href="#day1" width="33%">Day 1 Sessions</a></td>
      <td><a href="#day2" width="33%">Day 2 Sessions</a></td>
+     <td><a href="scriptcompetition" width="33%">Script Competition</a></td>
      <td><a href="hackathon" width="33%">Hackathon</a></td>
   </tr>
   <tr>
