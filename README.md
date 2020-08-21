@@ -29,20 +29,13 @@
 
 <a name="day1"></a>
 # Day 1 (10/1/20):
-
+<hr/>
 ### **vSphere and VMware Cloud on AWS Automation w/ William Lam**
 <div class="session-wrapper">
 Do you work with vSphere 7.1 or VMware Cloud AWS and wish to automate a particular task that you have not been able to figure out? Maybe you are just getting started and looking for some tips or tools on how best to approach a specific problem? Perhaps you are already automating using either vSphere SOAP/REST API or VMware Cloud REST API but you are having issues looking for a specific API? If you have answered yes to any of these questions, this live coding session is for you. I will be using PowerShell/PowerCLI as a way to quickly prototype code during the session, so bring your question and let’s write some code together to help solve your automation tasks!
   Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
-
-<br><br>
-<a name="day2"></a>
-# Day 2 (10/2/20):
-
-<a name="tanzu"></a>
-## Tanzu Track
 
 <hr/>
 
@@ -56,9 +49,21 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 
 <hr/>
 
-### **Writing a Kubernetes Validating Admission Controller w/ Eric Shanks**
+
+<br><br>
+<a name="day2"></a>
+# Day 2 (10/2/20):
+
+<a name="tanzu"></a>
+## Tanzu Track
+
+
+
+<hr/>
+
+### **Writing a Kubernetes Validating Admission Controller w/ Cora Iberkleid**
 <div class="session-wrapper">
-How do you control what goes into your Kubernetes cluster? How do you ensure that your users are following corporate guidelines for Kubernetes usage? How do you do all this without auditing the environment after the infraction occurred?This session by Eric Shanks, a Senior Field Engineer in the VMware Modern Application Platform Unit, will explore how to build a validating admission controller for use with a Kubernetes cluster. In this session, you’ll learn how to deploy a Python app that can validate Kubernetes API calls and either approve or deny them. You’ll learn how to setup a Kubernetes webhook and most importantly, you’ll learn why you might want to use an admission controller in your environment.
+How do you control what goes into your Kubernetes cluster? How do you ensure that your users are following corporate guidelines for Kubernetes usage? How do you do all this without auditing the environment after the infraction occurred?This session by Cora Iberkleid will explore how to build a validating admission controller for use with a Kubernetes cluster. In this session, you’ll learn how to deploy a Python app that can validate Kubernetes API calls and either approve or deny them. You’ll learn how to setup a Kubernetes webhook and most importantly, you’ll learn why you might want to use an admission controller in your environment.
 
 Zoom Link: vmware.zoom.us/jsdkfslf
 </div>
