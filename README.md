@@ -3,7 +3,7 @@
   .wrapper {margin-top:75px;}
   header {top:20px!important;}
   .header-banner img{width:600px;}
-  .header-code img{position:relative; top:-107px; left:0px; max-width:2000px!important;}
+  .header-code img{position:relative; top:-107px; left:0px; max-width:570px!important;}
   .session-wrapper{border:1px solid #238ece; border-radius:5px; padding:20px; background-color:#eaeaea;}
   hr {margin-top:30px!important; margin-bottom:30px!important;}
   .date {color:#abb7b7;}
@@ -14,7 +14,7 @@
 
 <!--<img src="codeconlogo_light.png" class="lrg-logo"/>-->
 
-<a href="#day1">Day 1 Sessions</a>&nbsp;|&nbsp;<a href="#day2">Day 2 Sessions</a>&nbsp;|&nbsp;<a href="hackathon">Hackathon</a>
+<div class="d1"><a href="#day1">Day 1 Sessions</a></div><div class="d2"><a href="#day2">Day 2 Sessions</a></div><div class="h"><a href="hackathon">Hackathon</a></div>
 <br>Tracks: <a href="#tanzu">Tanzu</a>, <a href="#communtiy">Community</a>, <a href="traditional">Traditional</a>
 
 <a name="day1"></a>
