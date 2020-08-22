@@ -4,7 +4,7 @@
   header {top:20px!important;}
   .header-banner img{width:570px;}
   .header-code img{position:relative;top:-107px;left:0px;max-width:570px!important;}
-  .session-wrapper{border:1px solid #36373b; border-radius:5px; padding:20px; background-color:#eaeaea;}
+  .session-wrapper{border:1px solid #36373b; border-radius:5px; padding:20px; background-color:#46454b;}
   hr {margin-top:30px!important; margin-bottom:30px!important;}
   .date {color:#abb7b7;}
   .lrg-logo {display:none;}
