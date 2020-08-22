@@ -1,5 +1,5 @@
 <style>
-  section {width:570px!important;}
+  section {width:800px!important;}
   .wrapper {margin-top:75px;}
   header {top:20px!important;}
   .header-banner img{width:600px;}
