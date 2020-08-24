@@ -1,13 +1,8 @@
 <style>
-  section {width:800px!important;}
   .wrapper {margin-top:75px;}
-  header {top:20px!important;}
-  .header-banner img{width:800px;}
-  .header-code img{position:relative;top:-10px;left:0px;max-width:800px!important;}
+  header {top:20px!important;
   .session-wrapper{border:1px solid #36373b; border-radius:5px; padding:20px; background-color:##D3D3D3;}
-  hr {margin-top:30px!important; margin-bottom:30px!important;}
-  .date {color:#abb7b7;}
-  .lrg-logo {display:none;}
+  
 </style>
 
 <table>
