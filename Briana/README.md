@@ -11,6 +11,7 @@
   <div class="session-wrapper">
   <p><img src="Briana_Augenreich.jpg" alt="briana" style="width:170px;height:170px;margin-left:15px;">Effectively managing multi-cloud, multi level application environments can be tricky. As our resource count, cloud providers, environment restrictions, and application complexity grows so can our headaches...unless you have the right tool set! Packer, Ansible, and Terraform have emerged as three of the top technologies for provisioning infrastructure in the cloud. They not only provide infrastructure as code but also offer elegant features to enable building streamlined multi-cloud and multi level environments. Join this session to learn how you can leverage these tools.
   <br>
+  <br>
   Zoom Link: vmware.zoom.us/jsdkfslf
 </p>
 </div>
