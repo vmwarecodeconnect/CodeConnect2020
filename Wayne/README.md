@@ -18,7 +18,7 @@
 <p>With so many different resources and custom resources within a Kubernetes cluster it can be difficult to understand how all of these resources are connected and their conditions. Octant is an extensible platform that enables users to better understand and work with their resources in the cluster along with providing a foundation for building custom UIs on top of the Kubernetes API.
 
 Wayne will show you around Octant and explore how you can build your own user interfaces using plugins.</p></td>
-     <td><img src="wayne_witzel.jpg"></td>
+     <td><img src="sophie.jpg"></td>
   </tr>
 </table>
 
