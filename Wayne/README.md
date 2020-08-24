@@ -4,16 +4,17 @@
   .session-wrapper{border:1px solid #36373b; border-radius:5px; padding:20px; background-color:##D3D3D3;}
   
 </style>
+<hr/>
 
-<table>
-   <tr>
-     <td><h2>Octant - An open source platform for building Kubernetes UIs w/ Wayne Witzel
-       Time: 9:00-9:30AM PDT</h2>
+### **Writing a Kubernetes Validating Admission Controller w/ Cora Iberkleid**
 <div class="session-wrapper">
-<p>With so many different resources and custom resources within a Kubernetes cluster it can be difficult to understand how all of these resources are connected and their conditions. Octant is an extensible platform that enables users to better understand and work with their resources in the cluster along with providing a foundation for building custom UIs on top of the Kubernetes API.
+How do you control what goes into your Kubernetes cluster? How do you ensure that your users are following corporate guidelines for Kubernetes usage? How do you do all this without auditing the environment after the infraction occurred?This session by Cora Iberkleid will explore how to build a validating admission controller for use with a Kubernetes cluster. In this session, you’ll learn how to deploy a Python app that can validate Kubernetes API calls and either approve or deny them. You’ll learn how to setup a Kubernetes webhook and most importantly, you’ll learn why you might want to use an admission controller in your environment.
 
-Wayne will show you around Octant and explore how you can build your own user interfaces using plugins.</p></td>
-     <td><img src="sophie.jpg"></td>
-  </tr>
-</table>
+Zoom Link: vmware.zoom.us/jsdkfslf
+</div>
+
+<hr/>
+     <td style="width:50%"><img src="wayne_witzel.jpg"></td>
+ 
+
 
