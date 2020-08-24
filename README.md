@@ -96,6 +96,8 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 
 <hr/>
 <br>
+
+<a name="ScriptCompetition"></a>
 ## Script Competition
 **Time: 3:30-5:00PM PDT**
 <hr/>
