@@ -16,7 +16,7 @@ Zoom Link: vmware.zoom.us/jsdkfslf
 </div>
 
 <hr/>
-<img src="william_lam.jpg" alt="William Lam" width="300" height="300" align="right">
+<img src="william_lam.jpg" alt="William Lam" width="25%" align="right">
     
 <p>Michael Gasch is a Application Platforms Architect, Kubernetes Specialist at VMware, Inc.</p>
 
