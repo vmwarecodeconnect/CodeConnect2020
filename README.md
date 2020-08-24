@@ -3,7 +3,7 @@
   .wrapper {margin-top:75px;}
   header {top:20px!important;}
   .header-banner img{width:800px;}
-  .header-code img{position:relative;top:-107px;left:0px;max-width:800px!important;}
+  .header-code img{position:relative;top:-10px;left:0px;max-width:800px!important;}
   .session-wrapper{border:1px solid #36373b; border-radius:5px; padding:20px; background-color:#eaeaea;}
   hr {margin-top:30px!important; margin-bottom:30px!important;}
   .date {color:#abb7b7;}
