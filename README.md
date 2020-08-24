@@ -34,7 +34,7 @@
 <hr/>
 
 
-<h2><a href="Wayne">Octant - An open source platform for building Kubernetes UIs w/ Wayne Witzel</a></h2>
+<h2 style="color:#B5E853;"><a href="Wayne">Octant - An open source platform for building Kubernetes UIs w/ Wayne Witzel</a></h2>
 ### **Time: 9:00-9:30AM PDT**
 <div class="session-wrapper">
 With so many different resources and custom resources within a Kubernetes cluster... <a href="Wayne">See More</a>
