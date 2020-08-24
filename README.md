@@ -95,6 +95,19 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 
 
 <hr/>
+<br>
+## Script Competition
+**Time: 3:30-5:00PM PDT**
+<hr/>
+
+
+<h2><a href="ScriptCompetition">Wouter Kursten & ControlUp- Script Based Competition </a></h2>
+### **Time: 3:00-3:30PM PDT**
+<div class="session-wrapper">
+Download Instructions <a href="ScriptCompetition">See More</a>
+<br>
+Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+</div>
 
 
 
