@@ -15,7 +15,7 @@ Zoom Link: vmware.zoom.us/jsdkfslf
 </div>
 
 <hr/>
-<img src="wayne_witzel.jpg" alt="Wayne Witzel" width="500" height="600">
+<img src="wayne_witzel.jpg" alt="Wayne Witzel" width="500" height="500">
     
  
 
