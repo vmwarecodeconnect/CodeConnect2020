@@ -18,8 +18,8 @@
    <tr>
      <td><a href="#day1" width="33%">Day 1 Sessions</a></td>
      <td><a href="#day2" width="33%">Day 2 Sessions</a></td>
-     <td><a href="ScriptCompetition" width="33%">Script Competition</a></td>
-     <td><a href="hackathon" width="33%">Hackathon</a></td>
+     <td><a href="#ScriptCompetition" width="33%">Script Competition</a></td>
+     <td><a href="#hackathon" width="33%">Hackathon</a></td>
   </tr>
   <tr>
     <td colspan="4" width="100%">Tracks: <a href="#tanzu">Tanzu</a>, <a href="#community">Community</a>, <a href="traditional">Traditional</a></td>
@@ -170,7 +170,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 
 <hr/>
 
-<a name="Communtiy"></a>
+<a name="Community"></a>
 ## Community Track
-
+<a name="hackathon"></a>
 ## Hackathon
