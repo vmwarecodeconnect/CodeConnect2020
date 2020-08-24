@@ -15,7 +15,7 @@ Zoom Link: vmware.zoom.us/jsdkfslf
 </div>
 
 <hr/>
-     <style="width:50%"><img src="wayne_witzel.jpg">
+     <p><style="width:50%"><img src="wayne_witzel.jpg"></p>
  
 
 
