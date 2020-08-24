@@ -15,8 +15,8 @@ Zoom Link: vmware.zoom.us/jsdkfslf
 </div>
 
 <hr/>
-<img src="wayne_witzel.jpg" alt="Wayne Witzel" width="300" height="300">
+<img src="wayne_witzel.jpg" alt="Wayne Witzel" width="300" height="300" align="right">
     
- 
+<p>Wayne Witzel is a Senior Member of Technical Staff at VMware, Inc.</p>
 
 
