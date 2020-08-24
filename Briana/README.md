@@ -13,4 +13,18 @@
   Zoom Link: vmware.zoom.us/jsdkfslf
   </p>
 
+<h2>Floating Images</h2>
+<p><strong>Float the image to the right:</strong></p>
+
+<p>
+<img src="Briana_Augenreich.jpg" alt="Smiley face" style="float:right;width:42px;height:42px;">
+A paragraph with a floating image. A paragraph with a floating image. A paragraph with a floating image.
+</p>
+
+<p><strong>Float the image to the left:</strong></p>
+<p>
+<img src="Briana_Augenreich.jpg" alt="Smiley face" style="float:left;width:42px;height:42px;">
+A paragraph with a floating image. A paragraph with a floating image. A paragraph with a floating image.  
+</p>
+
 <hr/>
