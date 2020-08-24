@@ -16,7 +16,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 
 
 <hr/>
-<img src="Efy5NvWXgAI_s3e.jpeg" alt="Sam McGeown" width="400" height="300" align="right">
+<img src="Efy5NvWXgAI_s3e.jpeg" alt="Sam McGeown" width="350" height="300" align="right">
     
 <p>Sam McGeown is a Senior Technical Marketing Manager at VMware, Inc.</p>
 
