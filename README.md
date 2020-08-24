@@ -51,7 +51,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 ### **Time: 10:00-10:30AM PDT**
 <div class="session-wrapper">
 Learn how to use HashiCorp Vault to manage secrets <a href="Sam">See More</a>
-
+<br>
 Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
