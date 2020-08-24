@@ -10,7 +10,7 @@
   .lrg-logo {display:none;}
 </style>
 
-<div class="header-code"><img src="CodeBan_v5.jpg" class="header-banner"></div>
+<div class="header-code"><img src="github-banner.jpg" class="header-banner"></div>
 
 <!--<img src="codeconlogo_light.png" class="lrg-logo"/>-->
 
