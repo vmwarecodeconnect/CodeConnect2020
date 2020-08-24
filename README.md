@@ -34,7 +34,7 @@
 <hr/>
 
 
-<h2 style="color:#B5E853;"><a href="Wayne">Octant - An open source platform for building Kubernetes UIs w/ Wayne Witzel</a></h2>
+<h2><a href="Wayne">Octant - An open source platform for building Kubernetes UIs w/ Wayne Witzel</a></h2>
 ### **Time: 9:00-9:30AM PDT**
 <div class="session-wrapper">
 With so many different resources and custom resources within a Kubernetes cluster... <a href="Wayne">See More</a>
@@ -59,7 +59,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 
 
 
-### **Monitoring K8s and TKGI in Modern Datacenter w/ Sajal Debnath**
+<h2><a href="Sajal">Monitoring K8s and TKGI in Modern Datacenter w/ Sajal Debnath</a></h2>
 ### **Time: 10:30-11:00AM PDT**
 <div class="session-wrapper">
 With the ever-increasing use of containerized applications, we see a significant proliferation of related technologies in modern datacenters...<a href="Sajal">See More</a><br>
