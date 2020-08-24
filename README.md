@@ -85,11 +85,11 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 <hr/>
 
 
-### **vSphere and VMware Cloud on AWS Automation Live Coding w/ William Lam**
+<h2><a href="William">vSphere and VMware Cloud on AWS Automation Live Coding w/ William Lam</a></h2>
 ### **Time: 1:30-3:00PM PDT**
 <div class="session-wrapper">
-Do you work with vSphere or VMware Cloud AWS and wish to automate a particular task that you have not been able to figure out? Maybe you are just getting started and looking for some tips or tools on how best to approach a specific problem? Perhaps you are already automating using either vSphere SOAP/REST API or VMware Cloud REST API but you are having issues looking for a specific API? If you have answered yes to any of these questions, this live coding session is for you. I will be using PowerShell/PowerCLI as a way to quickly prototype code during the session, so bring your question and let’s write some code together to help solve your automation tasks!
-
+Do you work with vSphere or VMware Cloud AWS and wish to automate a particular task that you have not been able to figure out? ... <a href="William">See More</a>
+<br>
 Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
