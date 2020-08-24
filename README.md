@@ -22,7 +22,7 @@
      <td><a href="hackathon" width="33%">Hackathon</a></td>
   </tr>
   <tr>
-    <td colspan="4" width="100%">Tracks: <a href="#tanzu">Tanzu</a>, <a href="#communtiy">Community</a>, <a href="traditional">Traditional</a></td>
+    <td colspan="4" width="100%">Tracks: <a href="#tanzu">Tanzu</a>, <a href="#community">Community</a>, <a href="traditional">Traditional</a></td>
   </tr>
 </table>
 
