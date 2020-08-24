@@ -37,7 +37,7 @@
 ### **Octant - An open source platform for building Kubernetes UIs w/ Wayne Witzel**
 ### **Time: 9:00-9:30AM PDT**
 <div class="session-wrapper">
-With so many different resources and custom resources within a Kubernetes cluster... <a href="code.vmware.com">See More</a>
+With so many different resources and custom resources within a Kubernetes cluster... <a href="Wayne">See More</a>
 
 
 Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
