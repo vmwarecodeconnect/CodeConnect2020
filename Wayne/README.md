@@ -12,13 +12,13 @@
 
 <table>
    <tr>
-     <td><a>### **Octant - An open source platform for building Kubernetes UIs w/ Wayne Witzel**
+     <td><p>### **Octant - An open source platform for building Kubernetes UIs w/ Wayne Witzel**
 ### **Time: 9:00-9:30AM PDT**
 <div class="session-wrapper">
 With so many different resources and custom resources within a Kubernetes cluster it can be difficult to understand how all of these resources are connected and their conditions. Octant is an extensible platform that enables users to better understand and work with their resources in the cluster along with providing a foundation for building custom UIs on top of the Kubernetes API.
 
-Wayne will show you around Octant and explore how you can build your own user interfaces using plugins.</a></td>
-     <td><a>Day 2 Sessions</a></td>
+Wayne will show you around Octant and explore how you can build your own user interfaces using plugins.</p></td>
+     <td><img src="wayne_witzel.jpg"></td>
   </tr>
 </table>
 
