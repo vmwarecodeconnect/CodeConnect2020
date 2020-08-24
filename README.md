@@ -29,17 +29,55 @@
 
 <a name="day1"></a>
 # Day 1 (10/1/20):
+
+
 <hr/>
-### **vSphere and VMware Cloud on AWS Automation w/ William Lam**
+
+
+### **Octant - An open source platform for building Kubernetes UIs w/ Wayne Witzel**
+### **Time: 9:00-9:30AM PDT**
 <div class="session-wrapper">
-Do you work with vSphere 7.1 or VMware Cloud AWS and wish to automate a particular task that you have not been able to figure out? Maybe you are just getting started and looking for some tips or tools on how best to approach a specific problem? Perhaps you are already automating using either vSphere SOAP/REST API or VMware Cloud REST API but you are having issues looking for a specific API? If you have answered yes to any of these questions, this live coding session is for you. I will be using PowerShell/PowerCLI as a way to quickly prototype code during the session, so bring your question and let’s write some code together to help solve your automation tasks!
-  Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+With so many different resources and custom resources within a Kubernetes cluster it can be difficult to understand how all of these resources are connected and their conditions. Octant is an extensible platform that enables users to better understand and work with their resources in the cluster along with providing a foundation for building custom UIs on top of the Kubernetes API.
+
+Wayne will show you around Octant and explore how you can build your own user interfaces using plugins.
+
+Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
 
 <hr/>
 
+
+### **Automating Secrets with HashiCorp Vault and vRealize Automation w/ Sam McGowen**
+### **Time: 10:00-10:30AM PDT**
+<div class="session-wrapper">
+Learn how to use HashiCorp Vault to manage secrets for your vRealize Automation environment. I will demonstrate how to leverage response wrapping, cubbyholes, approles and policies to ensure your secrets stay that way!
+
+Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+</div>
+
+<hr/>
+
+
+
+### **Monitoring K8s and TKGI in Modern Datacenter w/ Sajal Debnath**
+### **Time: 10:30-11:00AM PDT**
+<div class="session-wrapper">
+With the ever-increasing use of containerized applications, we see a significant proliferation of related technologies in modern datacenters. These latest technologies have brought newer responsibilities for the datacenter teams, for example, monitoring these environments for continuous operation and performance. Since the architecture of these related technologies is different hence their components and monitoring process is also different. One such example is VMware Tanzu Kubernetes Grid Integrated (TKGI), formerly known as Enterprise PKS. VMware Tanzu Kubernetes Grid Integrated or TKGI is a Kubernetes-based container solution with advanced networking, a private container registry, and life cycle management. TKGI simplifies the deployment and operation of Kubernetes clusters so you can run and manage containers at scale on private and public clouds. 
+
+The question under consideration is what to monitor for in the deployed TKGI environment and how to monitor these. The next question is what to do or how to react to the issues we face in the monitored components.
+
+This session will provide answers to all these questions. It will guide to what to monitor and how to monitor in a datacenter hosting TKGI environment. Also, this document provides best practices and general guidelines for monitoring such an environment. Though there are many ways we can monitor a TKGI environment, this document covers the VMware suite of products that is used to monitor TKGI environment including vRealize Network Insight, vRealize Operations Manager, and vRealize Log Insight.
+
+Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+</div>
+
+<hr/>
+
+
+
 ### **Lets build a Kubernetes Operator in Go! w/ Michael Gasch**
+### **Time: 11:00-12:30PM PDT**
 <div class="session-wrapper">
 Kubernetes is quickly becoming the standard cloud API for deploying and managing modern workloads. 
 Fundamentally, end-users express their desired state (application) state which is then reconciled by individual controllers in the platform. The beauty of this approach, besides its simplicity and robustness, is that it can be extended and used beyond the core Kubernetes types. In fact, you can create your own APIs on top of Kubernetes for any resource by providing a custom controller logic to handle daily routine tasks or even complex lifecycle operations. This is also referred to as the "operator pattern". But how do you get started? What are the tools of the trade and basic primitives that you should understand before writing your first Kubernetes operator? Even if you are not a (Go) developer, in this session we will walk you through the steps of creating your first operator from scratch by explaining the fundamentals of the Kubernetes platform and applying our knowledge in a live coding session.
@@ -47,7 +85,22 @@ Fundamentally, end-users express their desired state (application) state which i
 Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
+
+
 <hr/>
+
+
+### **vSphere and VMware Cloud on AWS Automation Live Coding w/ William Lam**
+### **Time: 1:30-3:00PM PDT**
+<div class="session-wrapper">
+Do you work with vSphere or VMware Cloud AWS and wish to automate a particular task that you have not been able to figure out? Maybe you are just getting started and looking for some tips or tools on how best to approach a specific problem? Perhaps you are already automating using either vSphere SOAP/REST API or VMware Cloud REST API but you are having issues looking for a specific API? If you have answered yes to any of these questions, this live coding session is for you. I will be using PowerShell/PowerCLI as a way to quickly prototype code during the session, so bring your question and let’s write some code together to help solve your automation tasks!
+
+Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+</div>
+
+
+<hr/>
+
 
 
 <br><br>
