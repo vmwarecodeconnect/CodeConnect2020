@@ -382,7 +382,7 @@ With the advent of IoT devices, it has become essential to utilize their data an
 Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
-</hr>
+<hr/>
 
 <h2><a href="Troy2">Building hybrid solutions with VMware, AWS, & Terraform w/ Troy Lindsay </a></h2>
 ### **Time: 1:30-2:00PM PDT**
@@ -392,7 +392,7 @@ End-to-end demonstration of how to build and deploy a LAMP stack in vSphere and.
 Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
-</hr>
+<hr/>
 
 <a name="hackathon"></a>
 ## Hackathon
