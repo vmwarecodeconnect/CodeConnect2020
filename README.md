@@ -420,3 +420,5 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 <a name="hackathon"></a>
 ## Hackathon
 ## Partners
+
+<img src="github.png" alt="GitHub" width="25%">
