@@ -143,8 +143,15 @@ Serverless is a paradigm for enabling development teams... <a href="Evan">See Mo
 Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
+<hr/>
 
-
+<h2><a href="Patrick">Skills modernization for the Virtual Infrastructure Admin w/ Patrick Kremer</a></h2>
+### **Time: 11:00-11:30AM PDT**
+<div class="session-wrapper">
+Code is for everybody! As the world moves toward containers and Kubernetes... <a href="Patrick">See More</a>
+<br>
+Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+</div>
 
 <hr/>
 
