@@ -188,12 +188,23 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 <h2><a href="DavidS">Managing vSphere with Tanzu with a Custom PowerCLI Module w/ David Stamen</a></h2>
 ### **Time: 2:00-2:30PM PDT**
 <div class="session-wrapper">
-Learn how to leverage VMware PowerCLI to build your own PowerShell module to manage your VMware vSphere with Tanzu environment.
-
+Learn how to leverage VMware PowerCLI to build your own PowerShell module to manage your VMware vSphere with Tanzu environment. <a href="DavidS">See More</a>
+<br>
 Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
 <hr/>
+
+<h2><a href="Mark">Deep dive on Instrumenting your code for distributed tracing w/ Mark Foley</a></h2>
+### **Time: 3:00-4:00PM PDT**
+<div class="session-wrapper">
+In this session we’ll look what distributed tracing is and how it can help you manage performance and find bugs in your code. Topics covered will include... <a href="Mark">See More</a>
+<br>
+Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+</div>
+
+<hr/>
+
 <a name="traditional"></a>
 ## Traditional Track
 ### **Administration Modernization: Building and Deploying Containers to vSphere Integrated Containers w/ Justin Sider**
