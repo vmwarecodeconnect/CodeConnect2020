@@ -6,7 +6,7 @@
 </style>
 <hr/>
 
-### **#Building VM templates programmatically with Packe w/ Troy Lindsay**
+### **Building VM templates programmatically with Packer w/ Troy Lindsay**
 ### **Time: 11:00-11:30AM PDT**
 <div class="session-wrapper">
 End-to-end demonstration of how to build Linux and Windows VM templates programmatically with Packer.
