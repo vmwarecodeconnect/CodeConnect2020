@@ -394,5 +394,15 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 
 <hr/>
 
+<h2><a href="Joe">GitHub Actions to Automate Multi-Cloud Deployments w/ Joe Houghes </a></h2>
+### **Time: 3:00-3:30PM PDT**
+<div class="session-wrapper">
+This is about showing everyone how quickly they can get up to speed with GitHub Actions...<a href="Joe">See More</a>
+<br>
+Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+</div>
+
+<hr/>
+
 <a name="hackathon"></a>
 ## Hackathon
