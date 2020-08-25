@@ -15,6 +15,6 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 
 
 <hr/>
-<img src="kyle_ruddy.jpeg" alt="Kyle Ruddy" width="25%" align="right">
+<img src="kyle_ruddy.jpg" alt="Kyle Ruddy" width="25%" align="right">
     
 <p>Kyle Ruddy is a Senior Technical Marketing Architect working for VMware R&D in the Cloud Platform Business Unit. Kyle currently focuses on vSphere and VMware Cloud on AWS automation and the associated automation frameworks including all things API, CLI, and SDK. Kyle is also a Microsoft MVP and long-term vExpert. Kyle holds the unofficial record for the most unique sessions given during a single VMworld event at 16! He also has a a fan account for his beard on twitter! (@kyleruddybeard)</p>
