@@ -155,6 +155,16 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 
 <hr/>
 
+<h2><a href="Sam-Tanzu">Tanzu Kubernetes Grid (TKG) Clusters-as-a-Service w/ Sam McGeown</a></h2>
+### **Time: 11:30AM-12PM PDT**
+<div class="session-wrapper">
+Learn how to automate the deployment of Tanzu Kubernetes Grid Clusters to...<a href="Sam-Tanzu">See More</a>
+<br>
+Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+</div>
+
+<hr/>
+
 ### **Managing vSphere with Tanzu with a Custom PowerCLI Module w/ David Stamen**
 <div class="session-wrapper">
 Learn how to leverage VMware PowerCLI to build your own PowerShell module to manage your VMware vSphere with Tanzu environment.
