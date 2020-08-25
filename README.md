@@ -35,6 +35,9 @@
   <tr>
     <td colspan="4" width="100%">Tracks: <a href="#tanzu">Tanzu</a>, <a href="#traditional">Traditional</a>, <a href="#community">Community</a></td>
   </tr>
+  </table>
+  
+  <table>
   <tr>
     <td width="100%"><a href="#partners">Partners</a></td>
   </tr>
