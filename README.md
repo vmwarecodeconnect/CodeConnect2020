@@ -38,7 +38,7 @@
   </table>
   <table>
   <tr>
-    <td width="100%"><a href="#partners">Partners</a></td>
+    <td colspan="5" width="100%"><a href="#partners">Partners</a></td>
   </tr>
 </table>
 
