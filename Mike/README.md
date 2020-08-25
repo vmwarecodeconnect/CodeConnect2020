@@ -14,6 +14,6 @@ Zoom Link: vmware.zoom.us/jsdkfslf
 </div>
 
 <hr/>
-<img src="mike.jpeg" alt="Mike Garuccio" width="25%" align="right">
+<img src="mike.jpg" alt="Mike Garuccio" width="25%" align="right">
     
 <p>Mike Garuccio is a Product Strategy Engineer at Expedient. He is an experienced server administrator and Powershell developer working on utility module creation and infrastructure automation. Currently he is focused on building test-validated modules and scripts that can be used in a continuous integration build process, primarily to automate Windows infrastructure provisioning. </p>
