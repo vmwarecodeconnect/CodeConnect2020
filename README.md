@@ -249,6 +249,16 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 
 <hr/>
 
+<h2><a href="Kyle">Power CLI Code on the Fly w/ Kyle Ruddy</a></h2>
+### **Time: 12:30-1:30PM PDT**
+<div class="session-wrapper">
+Join us for a Power CLI Code on the Fly Session... <a href="Kyle">See More</a>
+<br>
+Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+</div>
+
+<hr/>
+
 
 <a name="Community"></a>
 ## Community Track
