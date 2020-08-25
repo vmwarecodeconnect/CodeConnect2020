@@ -132,6 +132,8 @@ How do you control what goes into your Kubernetes cluster? How do you ensure tha
 Zoom Link: vmware.zoom.us/jsdkfslf
 </div>
 
+<hr/>
+
 <h2><a href="Evan">Serverless on your own terms with Knative w/ Evan Anderson</a></h2>
 ### **Time: 10:00-11:00AM PDT**
 <div class="session-wrapper">
@@ -142,7 +144,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
 
-<hr/>
+
 
 <hr/>
 
