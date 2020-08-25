@@ -219,6 +219,16 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 
 <hr/>
 
+<h2><a href="Sidney">Fully Automated App Volumes 4 Application Package Creation w/ Sidney Laan</a></h2>
+### **Time: 10-10:30AM PDT**
+<div class="session-wrapper">
+As a consultant I see a lot of our customers struggling with application packaging for their VDI environment... <a href="Sidney">See More</a>
+<br>
+Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+</div>
+
+<hr/>
+
 
 <a name="Community"></a>
 ## Community Track
