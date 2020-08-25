@@ -422,3 +422,4 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 ## Partners
 
 <img src="github.png" alt="GitHub" width="25%">
+<img src="ibm.png" alt="IBM" width="25%">
