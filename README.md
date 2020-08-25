@@ -289,6 +289,16 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 
 <hr/>
 
+<h2><a href="Bill">Testing VMware ESXi Infrastructure With PowerShell/PowerCLI & Pester w/ Bill Kindle</a></h2>
+### **Time: 3:30-4:00PM PDT**
+<div class="session-wrapper">
+This would be a revised  session of a talk I gave at my local VMUG but would run through more VMware focused testing using Pester. ... <a href="Bill">See More</a>
+<br>
+Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+</div>
+
+<hr/>
+
 
 <a name="Community"></a>
 ## Community Track
