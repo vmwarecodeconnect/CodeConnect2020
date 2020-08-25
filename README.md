@@ -239,6 +239,16 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 
 <hr/>
 
+<h2><a href="Sam-Traditional">Automating Secrets with HashiCorp Vault and vRealize Automation</a></h2>
+### **Time: 11:00-11:30AM PDT**
+<div class="session-wrapper">
+Learn how to use HashiCorp Vault to manage secrets for your vRealize Automation environment... <a href="Sam-Traditional">See More</a>
+<br>
+Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+</div>
+
+<hr/>
+
 
 <a name="Community"></a>
 ## Community Track
