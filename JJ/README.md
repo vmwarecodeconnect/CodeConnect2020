@@ -6,7 +6,7 @@
 </style>
 <hr/>
 
-### **#Deploying a simple Python app to Kubernetes w/ JJ Asghar**
+### **Deploying a simple Python app to Kubernetes w/ JJ Asghar**
 ### **Time: 10:00-10:30AM PDT**
 <div class="session-wrapper">
 JJ will walk you through deploying a simple python application to Kubernetes. We'll start from the ground up, then get a complete automated build. The goal is to enable your developers to focus on code not the infrastructure!
