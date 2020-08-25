@@ -24,4 +24,4 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 <hr/>
 <img src="chris_arceneaux.jpeg" alt="Chris Arceneaux" width="25%" align="right">
     
-<p>Sam McGeown is a Solutions Architext at Veeam Software.</p>
+<p>Chris Arceneaux is a Solutions Architext at Veeam Software.</p>
