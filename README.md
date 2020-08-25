@@ -404,5 +404,15 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 
 <hr/>
 
+<h2><a href="Chandra">Unified CloudWatch monitoring for VMC workloads with AWS native services. w/ Chandra Avutu </a></h2>
+### **Time: 3:30-4:00PM PDT**
+<div class="session-wrapper">
+Amazon CloudWatch is a monitoring and observability service provides you with data and actionable insights...<a href="Chandra">See More</a>
+<br>
+Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+</div>
+
+<hr/>
+
 <a name="hackathon"></a>
 ## Hackathon
