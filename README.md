@@ -363,5 +363,15 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
 <hr/>
+
+<h2><a href="Archana">TinyML for Solar Panels: Bringing Edge Computing Applications to Solar Energy Systems w/ Archana Vaidheeswaran </a></h2>
+### **Time: 1:00-1:30PM PDT**
+<div class="session-wrapper">
+With the advent of IoT devices, it has become essential to utilize their data and run inference on the edge...<a href="Archana">See More</a>
+<br>
+Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+</div>
+
+</hr>
 <a name="hackathon"></a>
 ## Hackathon
