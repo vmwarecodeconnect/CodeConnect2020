@@ -16,7 +16,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 
 
 <hr/>
-<img src="ivaylo_ivanov.jpg" alt="Billy Korando" width="25%" align="right">
+<img src="billy.jpg" alt="Billy Korando" width="25%" align="right">
     
 <p>Billy is a developer advocate with IBM and has over a decade of experience. Billy is passionate about helping developers find ways to reduce mental capacity waste from tedious work; such as project initiation, deployment, testing and validation, and so on through automation and good management practices. Outside of work Billy enjoy traveling, playing kickball, and having his heartbroken by cheering on the Kansas City Chiefs. Billy also co-organizes the Kansas City Java users group.</p>
 
