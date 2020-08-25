@@ -49,7 +49,7 @@
 
 <hr/>
 
-<h3> Session: COD401 </h3>
+<h3> Session: CODE4101 </h3>
 <h3><a href="Wayne">Octant - An open source platform for building Kubernetes UIs w/ Wayne Witzel</a></h3>
 ### **Time: 9:00-9:30AM PDT**
 <div class="session-wrapper">
@@ -62,7 +62,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 
 <hr/>
 
-
+<h3> Session: CODE4102 </h3>
 <h3><a href="Sam">Automating Secrets with HashiCorp Vault and vRealize Automation w/ Sam McGeown</a></h3>
 ### **Time: 10:00-10:30AM PDT**
 <div class="session-wrapper">
@@ -74,7 +74,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 <hr/>
 
 
-
+<h3> Session: CODE4103 </h3>
 <h3><a href="Sajal">Monitoring K8s and TKGI in Modern Datacenter w/ Sajal Debnath</a></h3>
 ### **Time: 10:30-11:00AM PDT**
 <div class="session-wrapper">
@@ -86,7 +86,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 <hr/>
 
 
-
+<h3> Session: CODE4104 </h3>
 <h3><a href="MichaelG">Let's build a Kubernetes Operator in Go! w/ Michael Gasch</a></h3>
 ### **Time: 11:00-12:30PM PDT**
 <div class="session-wrapper">
@@ -100,7 +100,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 
 <hr/>
 
-
+<h3> Session: CODE4105 </h3>
 <h3><a href="William">vSphere and VMware Cloud on AWS Automation Live Coding w/ William Lam</a></h3>
 ### **Time: 1:30-3:00PM PDT**
 <div class="session-wrapper">
@@ -118,7 +118,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 **Time: 3:30-5:00PM PDT**
 <hr/>
 
-
+<h3> Session: CODE4106 </h3>
 <h3><a href="ScriptCompetition">Wouter Kursten & ControlUp- Script Based Competition </a></h3>
 ### **Time: 3:00-3:30PM PDT**
 <div class="session-wrapper">
@@ -139,7 +139,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 
 
 <hr/>
-
+<h3> Session: CODE4211 </h3>
 ### **Writing a Kubernetes Validating Admission Controller w/ Cora Iberkleid**
 ### **Time: 9:30-10:00AM PDT**
 <div class="session-wrapper">
@@ -149,7 +149,7 @@ Zoom Link: vmware.zoom.us/jsdkfslf
 </div>
 
 <hr/>
-
+<h3> Session: CODE4212 </h3>
 <h3><a href="Evan">Serverless on your own terms with Knative w/ Evan Anderson</a></h3>
 ### **Time: 10:00-11:00AM PDT**
 <div class="session-wrapper">
@@ -160,7 +160,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
 <hr/>
-
+<h3> Session: CODE4213 </h3>
 <h3><a href="Patrick">Skills modernization for the Virtual Infrastructure Admin w/ Patrick Kremer</a></h3>
 ### **Time: 11:00-11:30AM PDT**
 <div class="session-wrapper">
@@ -170,7 +170,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
 <hr/>
-
+<h3> Session: CODE4214 </h3>
 <h3><a href="Sam-Tanzu"> Tanzu Kubernetes Grid (TKG) Clusters-as-a-Service w/ Sam McGeown</a></h3>
 ### **Time: 11:30AM-12PM PDT**
 <div class="session-wrapper">
@@ -180,7 +180,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
 <hr/>
-
+<h3> Session: CODE4215 </h3>
 <h3><a href="MichaelR">Local Kubernetes and Container development with Fusion and Workstation w/ Michael Roy</a></h3>
 ### **Time: 12:30-1:00PM PDT**
 <div class="session-wrapper">
@@ -190,7 +190,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
 <hr/>
-
+<h3> Session: CODE4216 </h3>
 <h3><a href="Chris">Exploring API-only Features of First Class Disks w/ Chris Arceneaux</a></h3>
 ### **Time: 1:00-1:30PM PDT**
 <div class="session-wrapper">
@@ -200,7 +200,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
 <hr/>
-
+<h3> Session: CODE4217 </h3>
 <h3><a href="DavidS">Managing vSphere with Tanzu with a Custom PowerCLI Module w/ David Stamen</a></h3>
 ### **Time: 2:00-2:30PM PDT**
 <div class="session-wrapper">
@@ -210,7 +210,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
 <hr/>
-
+<h3> Session: CODE4218 </h3>
 <h3><a href="Mark">Deep dive on Instrumenting your code for distributed tracing w/ Mark Foley</a></h3>
 ### **Time: 3:00-4:00PM PDT**
 <div class="session-wrapper">
@@ -224,7 +224,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 <a name="traditional"></a>
 ## Traditional Track
 <hr/>
-
+<h3> Session: CODE4221 </h3>
 <h3><a href="Luc">PowerCLI and the Art of the API w/ Luc Dekens</a></h3>
 ### **Time: 9:30-10:00AM PDT**
 <div class="session-wrapper">
@@ -234,7 +234,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
 <hr/>
-
+<h3> Session: CODE4222 </h3>
 <h3><a href="Sidney">Fully Automated App Volumes 4 Application Package Creation w/ Sidney Laan</a></h3>
 ### **Time: 10:00-10:30AM PDT**
 <div class="session-wrapper">
@@ -244,7 +244,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
 <hr/>
-
+<h3> Session: CODE4223 </h3>
 <h3><a href="Wouter">Horizon Automation: From 101 to Deepdive w/ Wouter Kursten</a></h3>
 ### **Time: 10:30-11:00AM PDT**
 <div class="session-wrapper">
@@ -254,7 +254,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
 <hr/>
-
+<h3> Session: CODE4224 </h3>
 <h3><a href="Sam-Traditional">Automating Secrets with HashiCorp Vault and vRealize Automation w/ Sam McGeown</a></h3>
 ### **Time: 11:00-11:30AM PDT**
 <div class="session-wrapper">
@@ -264,7 +264,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
 <hr/>
-
+<h3> Session: CODE4225 </h3>
 <h3><a href="Justin">Administration Modernization: Building and Deploying Containers to vSphere Integrated Containers w/ Justin Sider</a></h3>
 ### **Time: 11:30-12:00PM PDT**
 <div class="session-wrapper">
@@ -274,7 +274,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
 <hr/>
-
+<h3> Session: CODE4226</h3>
 <h3><a href="Kyle">Power CLI Code on the Fly w/ Kyle Ruddy</a></h3>
 ### **Time: 12:30-2:00PM PDT**
 <div class="session-wrapper">
@@ -284,7 +284,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
 <hr/>
-
+<h3> Session: CODE4227 </h3>
 <h3><a href="Jake">The Infrastructure Automation Landscape w/ Jake Robinson</a></h3>
 ### **Time: 2:00-2:30PM PDT**
 <div class="session-wrapper">
@@ -294,7 +294,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
 <hr/>
-
+<h3> Session: CODE4228 </h3>
 <h3><a href="AJ">How To Automate Across Enterprise and Hyperscale Clouds with Terraform and Ansible w/ AJ Kuftic</a></h3>
 ### **Time: 2:30-3:00PM PDT**
 <div class="session-wrapper">
@@ -304,7 +304,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
 <hr/>
-
+<h3> Session: CODE4229 </h3>
 <h3><a href="Mike">Making every engineer an automation engineer w/ Mike Garuccio</a></h3>
 ### **Time: 3:00-3:30PM PDT**
 <div class="session-wrapper">
@@ -314,7 +314,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
 <hr/>
-
+<h3> Session: CODE4220 </h3>
 <h3><a href="Bill">Testing VMware ESXi Infrastructure With PowerShell/PowerCLI & Pester w/ Bill Kindle</a></h3>
 ### **Time: 3:30-4:00PM PDT**
 <div class="session-wrapper">
@@ -329,7 +329,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 <a name="community"></a>
 ## Community Track
 <hr/>
-
+<h3> Session: CODE4231 </h3>
 <h3><a href="Johan">An introduction to AI/ML w/ Johan van Amersfoort</a></h3>
 ### **Time: 9:30-10:00AM PDT**
 <div class="session-wrapper">
@@ -339,7 +339,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
 <hr/>
-
+<h3> Session: CODE4232 </h3>
 <h3><a href="Ivaylo">#100DaysOfCode challenge - building code skills and habits w/ Ivaylo Ivanov</a></h3>
 ### **Time: 10:00-10:30AM PDT**
 <div class="session-wrapper">
@@ -349,7 +349,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
 <hr/>
-
+<h3> Session: CODE4233 </h3>
 <h3><a href="Briana">Discover the automation tricks and tools to managing multi-cloud environments w/ Briana Augenreich</a></h3>
 ### **Time: 10:30-11:00AM PDT**
 <div class="session-wrapper">
@@ -359,7 +359,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
 <hr/>
-
+<h3> Session: CODE4234 </h3>
 <h3><a href="Troy1">Building VM templates programmatically with Packer w/ Troy Lindsay</a></h3>
 ### **Time: 11:00-11:30AM PDT**
 <div class="session-wrapper">
@@ -369,7 +369,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
 <hr/>
-
+<h3> Session: CODE4235 </h3>
 <h3><a href="JJ">Deploying a simple Python app to Kubernetes w/ JJ Asghar</a></h3>
 ### **Time: 11:30-12:00PM PDT**
 <div class="session-wrapper">
@@ -379,7 +379,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
 <hr/>
-
+<h3> Session: CODE4236 </h3>
 <h3><a href="Billy">Upgrade Your Automated Tests with JUnit 5 w/ Billy Korando</a></h3>
 ### **Time: 12:30-1:00PM PDT**
 <div class="session-wrapper">
@@ -389,7 +389,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
 <hr/>
-
+<h3> Session: CODE4237 </h3>
 <h3><a href="Archana">TinyML for Solar Panels: Bringing Edge Computing Applications to Solar Energy Systems w/ Archana Vaidheeswaran </a></h3>
 ### **Time: 1:00-1:30PM PDT**
 <div class="session-wrapper">
@@ -399,7 +399,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
 <hr/>
-
+<h3> Session: CODE4238 </h3>
 <h3><a href="Troy2">Building hybrid solutions with VMware, AWS, & Terraform w/ Troy Lindsay </a></h3>
 ### **Time: 1:30-2:00PM PDT**
 <div class="session-wrapper">
@@ -409,7 +409,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
 <hr/>
-
+<h3> Session: CODE4239 </h3>
 <h3><a href="Joe">GitHub Actions to Automate Multi-Cloud Deployments w/ Joe Houghes </a></h3>
 ### **Time: 3:00-3:30PM PDT**
 <div class="session-wrapper">
@@ -419,7 +419,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
 <hr/>
-
+<h3> Session: CODE4230 </h3>
 <h3><a href="Chandra">Unified CloudWatch monitoring for VMC workloads with AWS native services. w/ Chandra Avutu </a></h3>
 ### **Time: 3:30-4:00PM PDT**
 <div class="session-wrapper">
