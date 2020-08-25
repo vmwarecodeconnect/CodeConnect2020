@@ -125,11 +125,24 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 <hr/>
 
 ### **Writing a Kubernetes Validating Admission Controller w/ Cora Iberkleid**
+### **Time: 9:30-10:00AM PDT**
 <div class="session-wrapper">
 How do you control what goes into your Kubernetes cluster? How do you ensure that your users are following corporate guidelines for Kubernetes usage? How do you do all this without auditing the environment after the infraction occurred?This session by Cora Iberkleid will explore how to build a validating admission controller for use with a Kubernetes cluster. In this session, you’ll learn how to deploy a Python app that can validate Kubernetes API calls and either approve or deny them. You’ll learn how to setup a Kubernetes webhook and most importantly, you’ll learn why you might want to use an admission controller in your environment.
 
 Zoom Link: vmware.zoom.us/jsdkfslf
 </div>
+
+<h2><a href="Evan">Serverless on your own terms with Knative w/ Evan Anderson</a></h2>
+### **Time: 10:00-11:00AM PDT**
+<div class="session-wrapper">
+Serverless is a paradigm for enabling development teams... <a href="Evan">See More</a>
+<br>
+
+Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+</div>
+
+
+<hr/>
 
 <hr/>
 
