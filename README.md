@@ -373,5 +373,16 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
 </hr>
+
+<h2><a href="Troy2">Building hybrid solutions with VMware, AWS, & Terraform w/ Troy Lindsay </a></h2>
+### **Time: 1:30-2:00PM PDT**
+<div class="session-wrapper">
+End-to-end demonstration of how to build and deploy a LAMP stack in vSphere and...<a href="Troy2">See More</a>
+<br>
+Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+</div>
+
+</hr>
+
 <a name="hackathon"></a>
 ## Hackathon
