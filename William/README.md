@@ -18,7 +18,7 @@ Zoom Link: vmware.zoom.us/jsdkfslf
 <hr/>
 <img src="william_lam.jpg" alt="William Lam" width="25%" align="right">
     
-<p>Michael Gasch is a Application Platforms Architect, Kubernetes Specialist at VMware, Inc.</p>
+<p>Meet our {code} coach William. William Lam is a Senior Staff Solution Architect working in the VMware Cloud team within the Cloud Platform Business Unit (CPBU) at VMware. He focuses on Automation, Integration and Operation of the VMware Software Defined Datacenter (SDDC). William also has his own website where he shares his knowledge https://www.virtuallyghetto.com/ On weekends, you can see William running Spartan races!</p>
 
 
 
