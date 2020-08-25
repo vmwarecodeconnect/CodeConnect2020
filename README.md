@@ -439,6 +439,6 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
     <img src="ibm.png" alt="IBM" style="width:100%">
   </div>
   <div class="column">
-    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
+    <img src="zoom.png" alt="zoom" style="width:100%">
   </div>
 </div>
