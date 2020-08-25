@@ -18,7 +18,7 @@ In this session, we'll dive into an intro to First Class Disks, Improved Virtual
 We'll explore API-only features, do a live demo of features using pyvmomi, outside the box thinking:
   <ul>
     <li>Using FCD to present production data to a QA/Dev environment</li>
-    <li>Live demo demonstrating the concept"</li>
+    <li>Live demo demonstrating the concept</li>
   </ul>
 <br>
 Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
