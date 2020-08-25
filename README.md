@@ -220,9 +220,19 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 <hr/>
 
 <h2><a href="Sidney">Fully Automated App Volumes 4 Application Package Creation w/ Sidney Laan</a></h2>
-### **Time: 10-10:30AM PDT**
+### **Time: 10:00-10:30AM PDT**
 <div class="session-wrapper">
 As a consultant I see a lot of our customers struggling with application packaging for their VDI environment... <a href="Sidney">See More</a>
+<br>
+Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+</div>
+
+<hr/>
+
+<h2><a href="Wouter">Horizon Automation: From 101 to Deepdive w/ Wouter Kursten</a></h2>
+### **Time: 10:30-11:00AM PDT**
+<div class="session-wrapper">
+Virtual Session - Horizon Automation: From 101 to Deepdive will provide... <a href="Wouter">See More</a>
 <br>
 Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
