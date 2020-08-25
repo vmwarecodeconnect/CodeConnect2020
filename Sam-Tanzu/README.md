@@ -6,7 +6,7 @@
 </style>
 <hr/>
 
-### *Tanzu Kubernetes Grid (TKG) Clusters-as-a-Service w/ Sam McGeown**
+### **Tanzu Kubernetes Grid (TKG) Clusters-as-a-Service w/ Sam McGeown**
 ### **Time: 11:30AM-12PM PDT**
 <div class="session-wrapper">
 Learn how to automate the deployment of Tanzu Kubernetes Grid Clusters to provide TKG-as-a-Service with vRealize Automation.
