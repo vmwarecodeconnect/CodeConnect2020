@@ -249,8 +249,18 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 
 <hr/>
 
+<h2><a href="Justin">Administration Modernization: Building and Deploying Containers to vSphere Integrated Containers w/ Justin Sider</a></h2>
+### **Time: 11:30-12:00PM PDT**
+<div class="session-wrapper">
+Join me as I teach you how to migrate your PowerCLI scripts to run in vSphere... <a href="Justin">See More</a>
+<br>
+Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+</div>
+
+<hr/>
+
 <h2><a href="Kyle">Power CLI Code on the Fly w/ Kyle Ruddy</a></h2>
-### **Time: 12:30-1:30PM PDT**
+### **Time: 12:30-2:00PM PDT**
 <div class="session-wrapper">
 Join us for a Power CLI Code on the Fly Session... <a href="Kyle">See More</a>
 <br>
