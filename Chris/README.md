@@ -9,13 +9,17 @@
 ### **Exploring API-only Features of First Class Disks w/ Chris Arceneaux**
 ### **Time: 1:00-1:30PM PDT**
 <div class="session-wrapper">
-In this session, we'll dive into an intro to First Class Disks, Improved Virtual Disks, Managed Virtual Disks: <br>
-  - What are they? <br>
-  - How do they differ from VM Hard Disks? <br>
-  - Use Cases<br>
-We'll explore API-only features, do a live demo of features using pyvmomi, outside the box thinking: <br>
-  - Using FCD to present production data to a QA/Dev environment <br>
-  - Live demo demonstrating the concept"<br>
+In this session, we'll dive into an intro to First Class Disks, Improved Virtual Disks, Managed Virtual Disks:
+  <ul> 
+    <li> What are they?</li>
+    <li> How do they differ from VM Hard Disks?</li>
+    <li> Use Cases</li>
+  </ul>
+We'll explore API-only features, do a live demo of features using pyvmomi, outside the box thinking:
+  <ul>
+    <li>Using FCD to present production data to a QA/Dev environment</li>
+    <li>Live demo demonstrating the concept"</li>
+  </ul>
 <br>
 Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
