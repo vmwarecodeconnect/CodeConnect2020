@@ -334,10 +334,20 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 
 <hr/>
 
-<h2><a href="Briana">Discover the automation tricks and tools to managing multi-cloud environments</a></h2>
+<h2><a href="Briana">Discover the automation tricks and tools to managing multi-cloud environments w/ Briana Augenreich</a></h2>
 ### **Time: 10:30-11:00AM PDT**
 <div class="session-wrapper">
 Effectively managing multi-cloud, multi level application environments can be tricky...<a href="Briana">See More</a>
+<br>
+Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+</div>
+
+<hr/>
+
+<h2><a href="Troy1">Building VM templates programmatically with Packer w/ Troy Lindsay</a></h2>
+### **Time: 11:00-11:30AM PDT**
+<div class="session-wrapper">
+End-to-end demonstration of how to build...<a href="Troy1">See More</a>
 <br>
 Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
