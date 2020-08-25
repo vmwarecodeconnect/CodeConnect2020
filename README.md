@@ -447,6 +447,6 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
     <img src="wwc2.png" alt="Women Who Code" style="width:100%">
   </div>
   <div class="column">
-    <img src="control-up.png" alt="Control Up" style="width:100%">
+    <img src="cu2.png" alt="Control Up" style="width:100%">
   </div>
 </div>
