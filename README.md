@@ -207,6 +207,18 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 
 <a name="traditional"></a>
 ## Traditional Track
+<hr/>
+
+<h2><a href="Luc">PowerCLI and the Art of the API w/ Luc Dekens</a></h2>
+### **Time: 9:30-10:00AM PDT**
+<div class="session-wrapper">
+To up your PowerCLI game, you ultimately can't avoid... <a href="Luc">See More</a>
+<br>
+Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+</div>
+
+<hr/>
+
 
 <a name="Community"></a>
 ## Community Track
