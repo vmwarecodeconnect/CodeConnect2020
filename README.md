@@ -312,5 +312,16 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 
 <a name="community"></a>
 ## Community Track
+<hr/>
+
+<h2><a href="Ivaylo">#100DaysOfCode challenge - building code skills and habits w/ Ivaylo Ivanov</a></h2>
+### **Time: 10:00-10:30AM PDT**
+<div class="session-wrapper">
+By the time of the Conference, I'll have completed my 100DaysOfCode challenge. I would like to share... <a href="Ivaylo">See More</a>
+<br>
+Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+</div>
+
+<hr/>
 <a name="hackathon"></a>
 ## Hackathon
