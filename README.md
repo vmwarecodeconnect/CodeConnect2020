@@ -183,6 +183,8 @@ Get an intro to First Class Disks / Improved Virtual Disks / Managed Virtual Dis
 Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
+<hr/>
+
 ### **Managing vSphere with Tanzu with a Custom PowerCLI Module w/ David Stamen**
 <div class="session-wrapper">
 Learn how to leverage VMware PowerCLI to build your own PowerShell module to manage your VMware vSphere with Tanzu environment.
