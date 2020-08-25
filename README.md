@@ -310,7 +310,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 <hr/>
 
 
-<a name="Community"></a>
+<a name="community"></a>
 ## Community Track
 <a name="hackathon"></a>
 ## Hackathon
