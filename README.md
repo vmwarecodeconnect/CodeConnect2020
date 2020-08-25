@@ -269,6 +269,16 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 
 <hr/>
 
+<h2><a href="Jake">The Infrastructure Automation Landscape w/ Jake Robinson</a></h2>
+### **Time: 2:00-2:30PM PDT**
+<div class="session-wrapper">
+There are many tools and solutions for automating infrastructure, and the choices can... <a href="Jake">See More</a>
+<br>
+Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+</div>
+
+<hr/>
+
 
 <a name="Community"></a>
 ## Community Track
