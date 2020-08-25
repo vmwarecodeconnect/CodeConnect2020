@@ -10,7 +10,7 @@
   .lrg-logo {display:none;}
   .column {
   float: left;
-  width: 25%;
+  width: 20%;
   padding: 5px;
 }
 
@@ -445,5 +445,8 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
   </div>
   <div class="column">
     <img src="wwc.png" alt="Women Who Code" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="control-up.png" alt="Control Up" style="width:100%">
   </div>
 </div>
