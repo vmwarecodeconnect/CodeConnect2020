@@ -353,5 +353,15 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
 <hr/>
+
+<h2><a href="JJ">Deploying a simple Python app to Kubernetes w/ JJ Asghar</a></h2>
+### **Time: 11:30-12:00PM PDT**
+<div class="session-wrapper">
+JJ will walk you through deploying a simple python ...<a href="JJ">See More</a>
+<br>
+Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+</div>
+
+<hr/>
 <a name="hackathon"></a>
 ## Hackathon
