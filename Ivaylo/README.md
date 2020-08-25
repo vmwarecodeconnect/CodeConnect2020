@@ -7,7 +7,7 @@
 <hr/>
 
 ### **#100DaysOfCode challenge - building code skills and habits w/ Ivaylo Ivanov**
-### **Time: 1:00-1:30PM PDT**
+### **Time: 10:00-10:30AM PDT**
 <div class="session-wrapper">
 By the time of the Conference, I'll have completed my 100DaysOfCode challenge. I would like to share the idea behind, how to get started and what can one achieve during the challenge. One of the most important things to shape a new habit is persistence and consistency. The 100DaysOfCode, even if it sounds tough, aims to help you along the way.
 <br>
