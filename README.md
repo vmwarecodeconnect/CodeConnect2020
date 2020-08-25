@@ -49,7 +49,7 @@
 
 <hr/>
 
-
+<h3> Session: COD401 </h3>
 <h3><a href="Wayne">Octant - An open source platform for building Kubernetes UIs w/ Wayne Witzel</a></h3>
 ### **Time: 9:00-9:30AM PDT**
 <div class="session-wrapper">
