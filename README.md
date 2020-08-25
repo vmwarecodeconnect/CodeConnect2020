@@ -185,7 +185,8 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 
 <hr/>
 
-### **Managing vSphere with Tanzu with a Custom PowerCLI Module w/ David Stamen**
+<h2><a href="DavidS">Managing vSphere with Tanzu with a Custom PowerCLI Module w/ David Stamen</a></h2>
+### **Time: 2:00-2:30PM PDT**
 <div class="session-wrapper">
 Learn how to leverage VMware PowerCLI to build your own PowerShell module to manage your VMware vSphere with Tanzu environment.
 
