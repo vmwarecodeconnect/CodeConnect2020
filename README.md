@@ -289,6 +289,16 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 
 <hr/>
 
+<h2><a href="Mike">Making every engineer an automation engineer w/ Mike Garuccio</a></h2>
+### **Time: 3:00-3:30PM PDT**
+<div class="session-wrapper">
+The traditional approach to IT automation has been to build out an... <a href="Mike">See More</a>
+<br>
+Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+</div>
+
+<hr/>
+
 <h2><a href="Bill">Testing VMware ESXi Infrastructure With PowerShell/PowerCLI & Pester w/ Bill Kindle</a></h2>
 ### **Time: 3:30-4:00PM PDT**
 <div class="session-wrapper">
