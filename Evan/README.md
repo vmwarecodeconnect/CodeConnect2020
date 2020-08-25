@@ -14,6 +14,6 @@ Zoom Link: vmware.zoom.us/jsdkfslf
 </div>
 
 <hr/>
-<img src="evan.jpg" alt="Evan Anderson" width="25%" align="right">
+<img src="evan.jpeg" alt="Evan Anderson" width="25%" align="right">
     
 <p>Evan Anderson is a Senior Member of Technical Staff at VMware, Inc.</p>
