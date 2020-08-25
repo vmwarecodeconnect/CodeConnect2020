@@ -8,6 +8,17 @@
   hr {margin-top:30px!important; margin-bottom:30px!important;}
   .date {color:#abb7b7;}
   .lrg-logo {display:none;}
+  .column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 </style>
 
 <div class="header-code"><img src="github-banner.jpg" class="header-banner"></div>
