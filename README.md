@@ -162,6 +162,7 @@ Learn how to automate the deployment of Tanzu Kubernetes Grid Clusters to...<a h
 <br>
 Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
+
 <hr/>
 
 <h2><a href="MichaelR">Local Kubernetes and Container development with Fusion and Workstation w/ Michael Roy</a></h2>
@@ -172,9 +173,15 @@ Learn how new capabilities in Fusion and Workstation ... <a href="MichaelR">See 
 Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
-
-
 <hr/>
+
+<h2><a href="Chris">Exploring API-only Features of First Class Disks w/ Chris Arceneaux</a></h2>
+### **Time: 1:00-1:30PM PDT**
+<div class="session-wrapper">
+Get an intro to First Class Disks / Improved Virtual Disks / Managed Virtual Disks... <a href="Chris">See More</a>
+<br>
+Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+</div>
 
 ### **Managing vSphere with Tanzu with a Custom PowerCLI Module w/ David Stamen**
 <div class="session-wrapper">
