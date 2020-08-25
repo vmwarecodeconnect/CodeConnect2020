@@ -364,6 +364,16 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 
 <hr/>
 
+<h2><a href="Billy">Upgrade Your Automated Tests with JUnit 5 w/ Billy Korando</a></h2>
+### **Time: 12:30-1:00PM PDT**
+<div class="session-wrapper">
+JUnit 5 is the latest version of the popular JUnit testing framework Java. JUnit 5, released in 2017, brought  ...<a href="Billy">See More</a>
+<br>
+Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+</div>
+
+<hr/>
+
 <h2><a href="Archana">TinyML for Solar Panels: Bringing Edge Computing Applications to Solar Energy Systems w/ Archana Vaidheeswaran </a></h2>
 ### **Time: 1:00-1:30PM PDT**
 <div class="session-wrapper">
