@@ -433,7 +433,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 ## Partners
 <div class="row">
   <div class="column">
-    <img src="github.png" alt="GitHub" style="width:100%">
+    <img src="github1.png" alt="GitHub" style="width:100%">
   </div>
   <div class="column">
     <img src="ibm.png" alt="IBM" style="width:100%">
