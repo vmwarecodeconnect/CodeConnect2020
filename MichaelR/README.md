@@ -14,7 +14,7 @@ Zoom Link: vmware.zoom.us/jsdkfslf
 </div>
 
 <hr/>
-<img src="wayne_witzel.jpg" alt="Michael Roy" width="300" height="300" align="right">
+<img src="mike_beardy_smile.jpg" alt="Michael Roy" width="300" height="300" align="right">
     
 <p>In his own words, “By day I manage the VMware Fusion and Workstation product line, by night I am a cancan dancer.” Michael has been a part of the VMware family for over 10 years now and is Responsible for Product Management of VMware Desktop Hypervisor technology products including VMware Fusion, Workstation and Player. He focuses on developer productivity, Kubernetes, and cloud native application development</p>
 
