@@ -314,10 +314,30 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 ## Community Track
 <hr/>
 
+<h2><a href="Johan">An introduction to AI/ML w/ Johan van Amersfoort</a></h2>
+### **Time: 9:30-10:00AM PDT**
+<div class="session-wrapper">
+In this session, Johan van Amersfoort will present an introduction into Artificial Intelligence, Machine Learning and Deep Learning...<a href="Johan">See More</a>
+<br>
+Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+</div>
+
+<hr/>
+
 <h2><a href="Ivaylo">#100DaysOfCode challenge - building code skills and habits w/ Ivaylo Ivanov</a></h2>
 ### **Time: 10:00-10:30AM PDT**
 <div class="session-wrapper">
 By the time of the Conference, I'll have completed my 100DaysOfCode challenge. I would like to share... <a href="Ivaylo">See More</a>
+<br>
+Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+</div>
+
+<hr/>
+
+<h2><a href="Briana">Discover the automation tricks and tools to managing multi-cloud environments</a></h2>
+### **Time: 10:30-11:00AM PDT**
+<div class="session-wrapper">
+Effectively managing multi-cloud, multi level application environments can be tricky...<a href="Briana">See More</a>
 <br>
 Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
