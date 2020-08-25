@@ -41,7 +41,23 @@
     <td colspan="5" width="100%"><a href="#partners">Partners</a></td>
   </tr>
 </table>
-
+<div class="row">
+  <div class="column">
+    <img src="github2.png" alt="GitHub" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="ibm2.png" alt="IBM" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="zoom2.png" alt="zoom" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="wwc2.png" alt="Women Who Code" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="cu2.png" alt="Control Up" style="width:100%">
+  </div>
+</div>
 
 <a name="day1"></a>
 # Day 1 (10/1/20):
