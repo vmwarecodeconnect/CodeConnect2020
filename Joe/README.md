@@ -18,6 +18,7 @@ In this session, we’ll run through some basics of Terraform and GitHub Actions
   <li>Leveraging GitHub Actions for workflows to validate & plan our Terraform configurations </li>
   <li>Apply the validated Teraform configurations for deployment </li>
   <li>Destroy these test environments once our testing is complete </li>
+</ul>
 <br><br>
 All of these steps are done with your existing Terraform configurations, and we will show how to configure these to be performed by any pull request (for the validate/plan steps) or push (for the apply step) to a GitHub repository, or with a manual trigger of a workflow (used to destroy in our example).
 <br><br>
@@ -28,7 +29,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 
 
 <hr/>
-<img src="joe_houghes.jpg" alt="Joe Houghes" width="25%" align="right">
+<img src="joe_houghes.png" alt="Joe Houghes" width="25%" align="right">
     
 <p>Joe Houghes is a Solutions Architect at Veeam Software.</p>
 
