@@ -279,6 +279,16 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 
 <hr/>
 
+<h2><a href="AJ">How To Automate Across Enterprise and Hyperscale Clouds with Terraform and Ansible w/ AJ Kuftic</a></h2>
+### **Time: 2:30-3:00PM PDT**
+<div class="session-wrapper">
+Companies are being asked to do more with less and turning to automation to deliver on those requests... <a href="AJ">See More</a>
+<br>
+Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+</div>
+
+<hr/>
+
 
 <a name="Community"></a>
 ## Community Track
