@@ -155,13 +155,24 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 
 <hr/>
 
-<h2><a href="Sam-Tanzu">Tanzu Kubernetes Grid (TKG) Clusters-as-a-Service w/ Sam McGeown</a></h2>
+<h2><a href="Sam-Tanzu"> Tanzu Kubernetes Grid (TKG) Clusters-as-a-Service w/ Sam McGeown</a></h2>
 ### **Time: 11:30AM-12PM PDT**
 <div class="session-wrapper">
 Learn how to automate the deployment of Tanzu Kubernetes Grid Clusters to...<a href="Sam-Tanzu">See More</a>
 <br>
 Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
+<hr/>
+
+<h2><a href="MichaelR">Local Kubernetes and Container development with Fusion and Workstation w/ Michael Roy</a></h2>
+### **Time: 12:30-1:00PM PDT**
+<div class="session-wrapper">
+Learn how new capabilities in Fusion and Workstation ... <a href="MichaelR">See More</a>
+<br>
+Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+</div>
+
+
 
 <hr/>
 
