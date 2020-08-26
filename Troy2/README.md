@@ -12,7 +12,7 @@
 End-to-end demonstration of how to build and deploy a LAMP stack in vSphere and an AWS Storage Gateway VM + Amazon S3 bucket for storing backups using Terraform.
 <br>
 <br> 
-  <a title="Add to Calendar" class="addeventatc" data-id="xR5085542" href="https://www.addevent.com/event/xR5085542" target="_blank" rel="nofollow">Add to Calendar</a>
+<a title="Add to Calendar" class="addeventatc" data-id="tb5085543" href="https://www.addevent.com/event/tb5085543" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
 <br> 
