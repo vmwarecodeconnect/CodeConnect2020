@@ -20,7 +20,8 @@
   display: table;
 }
 </style>
-<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 
 <div class="header-code"><img src="github-banner.jpg" class="header-banner"></div>
 <div class="header-code"><img src="welcome-banner.png" class="header-banner"></div>
