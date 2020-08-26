@@ -15,11 +15,12 @@ In this session we’ll look what distributed tracing is and how it can help you
   <li>How to go about instrumenting your code with the minimum amount of effort for the maximum return</li>
   <li>Monitoring performance and troubleshooting issues using Tanzu Observability tracing capabilities</li>
 </ul>
-<br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br><br> 
+<a title="Add to Calendar" class="addeventatc" data-id="lq5085504" href="https://www.addevent.com/event/lq5085504" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
 
-
+<br> 
 <hr/>
 <img src="mark_foley.jpeg" alt="Mark Foley" width="25%" align="right">
     
