@@ -235,9 +235,11 @@ Learn how new capabilities in Fusion and Workstation ... <a href="MichaelR">See 
 ### **Time: 1:00-1:30PM PDT**
 <div class="session-wrapper">
 Get an intro to First Class Disks / Improved Virtual Disks / Managed Virtual Disks... <a href="Chris">See More</a>
-<br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br><br> 
+<a title="Add to Calendar" class="addeventatc" data-id="TZ5085497" href="https://www.addevent.com/event/TZ5085497" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
+<br> 
 
 <hr/>
 <h3> Session: CODE4217 </h3>
@@ -245,20 +247,24 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 ### **Time: 2:00-2:30PM PDT**
 <div class="session-wrapper">
 Learn how to leverage VMware PowerCLI to build your own PowerShell module to manage your VMware vSphere with Tanzu environment. <a href="DavidS">See More</a>
-<br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br><br> 
+<a title="Add to Calendar" class="addeventatc" data-id="lP5085502" href="https://www.addevent.com/event/lP5085502" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
+<br>
 
 <hr/>
+
 <h3> Session: CODE4218 </h3>
 <h3><a href="Mark">Deep dive on Instrumenting your code for distributed tracing w/ Mark Foley</a></h3>
 ### **Time: 3:00-4:00PM PDT**
 <div class="session-wrapper">
 In this session we’ll look what distributed tracing is and how it can help you manage performance and find bugs in your code. Topics covered will include... <a href="Mark">See More</a>
-<br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br><br> 
+<a title="Add to Calendar" class="addeventatc" data-id="lq5085504" href="https://www.addevent.com/event/lq5085504" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
-
+<br> 
 <hr/>
 
 <a name="traditional"></a>
