@@ -83,9 +83,12 @@ With so many different resources and custom resources within a Kubernetes cluste
 <div class="session-wrapper">
 Learn how to use HashiCorp Vault to manage secrets <a href="Sam">See More</a>
 <br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br> 
+	<a title="Add to Calendar" class="addeventatc" data-id="by5085447" href="https://www.addevent.com/event/by5085447" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
 
+<br>
 <hr/>
 
 
