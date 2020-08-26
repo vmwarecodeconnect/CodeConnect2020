@@ -12,9 +12,12 @@
 This would be a revised session of a talk I gave at my local VMUG but would run through more VMware focused testing using Pester (see talk <a href="https://youtu.be/qbm8Y7ctKHw">here</a>). <br>
 
 The main goal would be to demonstrate to administrators how they can leverage more PowerCLI and PowerShell to perform systems testing and validation using Pester. Testing ESXi host, VM guest, storage, networking configuration are in line with expectations prior to production launch.
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br>
+<br> 
+<a title="Add to Calendar" class="addeventatc" data-id="QY5085534" href="https://www.addevent.com/event/QY5085534" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
-
+<br> 
 
 <hr/>
 <img src="bill_kindle.jpeg" alt="Bill Kindle" width="25%" align="right">
