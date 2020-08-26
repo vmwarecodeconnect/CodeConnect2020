@@ -20,9 +20,10 @@ Even if you are not a (Go) developer, in this session we will walk you through t
 and applying our knowledge in a live coding session.
 <br>
 <br>
-Zoom Link: vmware.zoom.us/jsdkfslf 
+<a title="Add to Calendar" class="addeventatc" data-id="Yh5085465" href="https://www.addevent.com/event/Yh5085465" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
-
+<br>
 <hr/>
 <img src="michael_gasch.png" alt="Michael Gasch" width="25%" align="right">
     
