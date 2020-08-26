@@ -20,6 +20,7 @@
   display: table;
 }
 </style>
+<link rel="shortcut icon" type="image/x-icon" href="code-favicon.png">
 
 <div class="header-code"><img src="github-banner.jpg" class="header-banner"></div>
 <div class="header-code"><img src="welcome-banner.png" class="header-banner"></div>
