@@ -22,6 +22,11 @@
 </style>
 
 <div class="header-code"><img src="github-banner.jpg" class="header-banner"></div>
+Welcome to VMware {code} Connect! On October 1st & 2nd from 9AM PDT to 5PM PDT, we have two days packed with hands on learning, traditional sessions and 100% *LIVE* interactions to bring the {code} community together to learn, code, and connect with each other. <br>
+To Register for a session and receive your zoom link, simply click "Add to Calendar"<br>
+
+
+
 
 <!--<img src="codeconlogo_light.png" class="lrg-logo"/>-->
 Partners:
@@ -62,7 +67,7 @@ Partners:
 
 <hr/>
 
-<h3> Session: CODE4101 (To Register for this session & receive the zoom link "Add to Calendar") </h3>
+<h3> Session: CODE4101 </h3>
 <h3><a href="Wayne">Octant - An open source platform for building Kubernetes UIs w/ Wayne Witzel</a></h3>
 ### **Time: 9:00-9:30AM PDT**
 <div class="session-wrapper">
