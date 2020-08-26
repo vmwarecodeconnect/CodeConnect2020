@@ -9,11 +9,13 @@
 ### **Women Who Code Panel**
 ### **Time: 2:30-3:00PM PDT**
 <div class="session-wrapper">
-Join Women Who Code, an international non-profit organization that provides services for women pursuing technology careers and a job board for companies seeking coding professionals. The company aims to provide an avenue into the technology world by evaluating and assisting women developing technical skills.They will be hosting a panel of three Sr. City Directors to discuss the efforts they've made in shaping the organization 
+Join Women Who Code, an international non-profit organization that provides services for women pursuing technology careers and a job board for companies seeking coding professionals. The company aims to provide an avenue into the technology world by evaluating and assisting women developing technical skills. They will be hosting a panel of three Sr. City Directors to discuss the efforts they've made in shaping the organization. 
 <br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br> 
+<a title="Add to Calendar" class="addeventatc" data-id="Li5085556" href="https://www.addevent.com/event/Li5085556" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
-
+<br> 
 
 <hr/>
 <img src="caterina.png" alt="Caterina Paun" width="25%" align="right">
