@@ -51,7 +51,7 @@ Partners:
      <td><a href="#hackathon" width="33%">Hackathon</a></td>
   </tr>
   <tr>
-    <td colspan="4" width="100%">Tracks: <a href="#tanzu">Tanzu</a>, <a href="#traditional">Traditional</a>, <a href="#community">Community</a></td>
+    <td colspan="4" width="100%">Tracks: <a href="#kubernetes">Kubernetes</a>, <a href="#automation">IT Automation</a>, <a href="#community">Community</a></td>
   </tr>
   </table>
   
@@ -162,8 +162,8 @@ Download Instructions <a href="ScriptCompetition">See More</a>
 <a name="day2"></a>
 # Day 2 (10/2/20):
 
-<a name="tanzu"></a>
-## Tanzu Track
+<a name="kubernetes"></a>
+## Kubernetes Track
 
 
 
@@ -267,8 +267,8 @@ In this session we’ll look what distributed tracing is and how it can help you
 <br> 
 <hr/>
 
-<a name="traditional"></a>
-## Traditional Track
+<a name="automation"></a>
+## IT Automation Track
 <hr/>
 <h3> Session: CODE4221 </h3>
 <h3><a href="Luc">PowerCLI and the Art of the API w/ Luc Dekens</a></h3>
