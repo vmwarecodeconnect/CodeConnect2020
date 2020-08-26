@@ -12,7 +12,8 @@
 With so many different resources and custom resources within a Kubernetes cluster it can be difficult to understand how all of these resources are connected and their conditions. Octant is an extensible platform that enables users to better understand and work with their resources in the cluster along with providing a foundation for building custom UIs on top of the Kubernetes API.
 
 Wayne will show you around Octant and explore how you can build your own user interfaces using plugins.<br>
-Zoom Link: vmware.zoom.us/jsdkfslf 
+<a title="Add to Calendar" class="addeventatc" data-id="GS5085426" href="https://www.addevent.com/event/GS5085426" target="_blank" rel="nofollow">Add to Calendar</a>
+	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
 
 <hr/>
