@@ -10,10 +10,11 @@
 ### **Time: 10:00-10:30AM PDT**
 <div class="session-wrapper">
 As a consultant I see a lot of our customers struggling with application packaging for their VDI environment. What if we could automate the biggest part of this process? It reduces the application package time, manual clicks, human errors,  and reinventing the wheel over and over again. With the use of PowerShell including PowerCLI and App Volumes REST API's the magic happens.
-<br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br><br> 
+<a title="Add to Calendar" class="addeventatc" data-id="Qb5085509" href="https://www.addevent.com/event/Qb5085509" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
-
+<br> 
 
 <hr/>
 <img src="sidney_laan.jpg" alt="Sidney Laan" width="25%" align="right">
