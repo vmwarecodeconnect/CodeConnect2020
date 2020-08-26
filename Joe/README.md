@@ -23,9 +23,11 @@ All of these steps are done with your existing Terraform configurations, and we 
 <br><br>
 The same platform can also be used to run any PowerShell, Python, or bash scripts for your environment.  We'll demonstrate this by running a simple PowerShell script to tag a VM deployed by our earlier Terraform code through GitHub Actions as well.
 <br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br> 
+<a title="Add to Calendar" class="addeventatc" data-id="Dj5085561" href="https://www.addevent.com/event/Dj5085561" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
-
+<br>
 <hr/>
 <img src="joe_houghes.png" alt="Joe Houghes" width="25%" align="right">
     
