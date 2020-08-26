@@ -10,9 +10,9 @@
 ### **Time: 12:30-2:00PM PDT**
 <div class="session-wrapper">
 Kyle Ruddy is a well-known subject matter expert of PowerShell and Power CLI. Join us for this Code on the Fly sessions and make sure to bring all your automation questions, and Kyle will make sure to provide real-time solutions!
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
-</div>
-
+<br><br> 
+<a title="Add to Calendar" class="addeventatc" data-id="On5085521" href="https://www.addevent.com/event/On5085521" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script></div>
 
 <hr/>
 <img src="kyle_ruddy.jpg" alt="Kyle Ruddy" width="25%" align="right">
