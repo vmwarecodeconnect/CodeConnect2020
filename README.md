@@ -424,7 +424,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 <hr/>
 <h3> Session: CODE4239 </h3>
 <h3><a href="WWC">Women Who Code Leaders Panel </a></h3>
-### **Time: 2:30-3:30PM PDT**
+### **Time: 2:30-3:00PM PDT**
 <div class="session-wrapper">
 Join Women Who Code, an international non-profit organization that provides services for women pursuing technology careers and a job board for companies seeking coding professionals....<a href="WWC">See More</a>
 <br>
