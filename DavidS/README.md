@@ -10,9 +10,11 @@
 ### **Time: 12:30-1:00PM PDT**
 <div class="session-wrapper">
 Learn how to leverage VMware PowerCLI to build your own PowerShell module to manage your VMware vSphere with Tanzu environment.<br>
-Zoom Link: vmware.zoom.us/jsdkfslf 
+<br> 
+  <a title="Add to Calendar" class="addeventatc" data-id="lP5085502" href="https://www.addevent.com/event/lP5085502" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
-
+<br> 
 <hr/>
 <img src="davidstamen.jpeg" alt="David Stamen" width="25%" align="right">
     
