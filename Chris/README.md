@@ -20,10 +20,11 @@ We'll explore API-only features, do a live demo of features using pyvmomi, outsi
     <li>Using FCD to present production data to a QA/Dev environment</li>
     <li>Live demo demonstrating the concept</li>
   </ul>
-<br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br><br> 
+<a title="Add to Calendar" class="addeventatc" data-id="TZ5085497" href="https://www.addevent.com/event/TZ5085497" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
-
+<br> 
 
 <hr/>
 <img src="chris_arceneaux.jpeg" alt="Chris Arceneaux" width="25%" align="right">
