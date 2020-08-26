@@ -406,40 +406,52 @@ This would be a revised  session of a talk I gave at my local VMUG but would run
 <div class="session-wrapper">
 In this session, Johan van Amersfoort will present an introduction into Artificial Intelligence, Machine Learning and Deep Learning...<a href="Johan">See More</a>
 <br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br> 
+<a title="Add to Calendar" class="addeventatc" data-id="qj5085535" href="https://www.addevent.com/event/qj5085535" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
-
+<br> 
 <hr/>
+
 <h3> Session: CODE4232 </h3>
 <h3><a href="Ivaylo">#100DaysOfCode challenge - building code skills and habits w/ Ivaylo Ivanov</a></h3>
 ### **Time: 10:00-10:30AM PDT**
 <div class="session-wrapper">
 By the time of the Conference, I'll have completed my 100DaysOfCode challenge. I would like to share... <a href="Ivaylo">See More</a>
 <br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br> 
+<a title="Add to Calendar" class="addeventatc" data-id="hb5085538" href="https://www.addevent.com/event/hb5085538" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
-
 <hr/>
+<br> 
+
 <h3> Session: CODE4233 </h3>
 <h3><a href="Briana">Discover the automation tricks and tools to managing multi-cloud environments w/ Briana Augenreich</a></h3>
 ### **Time: 10:30-11:00AM PDT**
 <div class="session-wrapper">
 Effectively managing multi-cloud, multi level application environments can be tricky...<a href="Briana">See More</a>
 <br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br> 
+	<a title="Add to Calendar" class="addeventatc" data-id="kT5085540" href="https://www.addevent.com/event/kT5085540" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
-
+<br> 
 <hr/>
+
 <h3> Session: CODE4234 </h3>
 <h3><a href="Troy1">Building VM templates programmatically with Packer w/ Troy Lindsay</a></h3>
 ### **Time: 11:00-11:30AM PDT**
 <div class="session-wrapper">
 End-to-end demonstration of how to build...<a href="Troy1">See More</a>
 <br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br> 
+<a title="Add to Calendar" class="addeventatc" data-id="xR5085542" href="https://www.addevent.com/event/xR5085542" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
-
+<br> 
 <hr/>
+
 <h3> Session: CODE4235 </h3>
 <h3><a href="JJ">Deploying a simple Python app to Kubernetes w/ JJ Asghar</a></h3>
 ### **Time: 11:30AM-12:00PM PDT**
@@ -476,30 +488,39 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 <div class="session-wrapper">
 End-to-end demonstration of how to build and deploy a LAMP stack in vSphere and...<a href="Troy2">See More</a>
 <br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br> 
+<a title="Add to Calendar" class="addeventatc" data-id="tb5085543" href="https://www.addevent.com/event/tb5085543" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
-
+<br>
 <hr/>
+
 <h3> Session: CODE4239 </h3>
 <h3><a href="WWC">Women Who Code Leaders Panel </a></h3>
 ### **Time: 2:30-3:00PM PDT**
 <div class="session-wrapper">
 Join Women Who Code, an international non-profit organization that provides services for women pursuing technology careers and a job board for companies seeking coding professionals....<a href="WWC">See More</a>
 <br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br> 
+<a title="Add to Calendar" class="addeventatc" data-id="Li5085556" href="https://www.addevent.com/event/Li5085556" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
-
+<br> 
 <hr/>
+
 <h3> Session: CODE4230 </h3>
 <h3><a href="Joe">GitHub Actions to Automate Multi-Cloud Deployments w/ Joe Houghes </a></h3>
 ### **Time: 3:00-3:30PM PDT**
 <div class="session-wrapper">
 This is about showing everyone how quickly they can get up to speed with GitHub Actions...<a href="Joe">See More</a>
 <br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br> 
+<a title="Add to Calendar" class="addeventatc" data-id="Dj5085561" href="https://www.addevent.com/event/Dj5085561" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
-
+<br> 
 <hr/>
+
 <h3> Session: CODE42301 </h3>
 <h3><a href="Chandra">Unified CloudWatch monitoring for VMC workloads with AWS native services. w/ Chandra Avutu </a></h3>
 ### **Time: 3:30-4:00PM PDT**
