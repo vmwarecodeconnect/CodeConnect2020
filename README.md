@@ -114,10 +114,12 @@ With the ever-increasing use of containerized applications, we see a significant
 Kubernetes is quickly becoming the standard cloud API for deploying and managing modern workloads...
 <a href="MichaelG">See More</a>
 <br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br> 
+	<a title="Add to Calendar" class="addeventatc" data-id="Yh5085465" href="https://www.addevent.com/event/Yh5085465" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
 
-
+<br> 
 
 <hr/>
 
@@ -127,9 +129,12 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 <div class="session-wrapper">
 Do you work with vSphere or VMware Cloud AWS and wish to automate a particular task that you have not been able to figure out? ... <a href="William">See More</a>
 <br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br> 
+<a title="Add to Calendar" class="addeventatc" data-id="Qv5085467" href="https://www.addevent.com/event/Qv5085467" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
 
+<br>
 
 <hr/>
 <br>
