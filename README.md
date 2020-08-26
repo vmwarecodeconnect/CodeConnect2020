@@ -184,19 +184,25 @@ Zoom Link: vmware.zoom.us/jsdkfslf
 <div class="session-wrapper">
 Serverless is a paradigm for enabling development teams... <a href="Evan">See More</a>
 <br>
-
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br>
+<a title="Add to Calendar" class="addeventatc" data-id="ZL5085481" href="https://www.addevent.com/event/ZL5085481" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
+<br> 
 
 <hr/>
+
 <h3> Session: CODE4213 </h3>
 <h3><a href="Patrick">Skills modernization for the Virtual Infrastructure Admin w/ Patrick Kremer</a></h3>
 ### **Time: 11:00-11:30AM PDT**
 <div class="session-wrapper">
 Code is for everybody! As the world moves toward containers and Kubernetes... <a href="Patrick">See More</a>
 <br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br> 
+<a title="Add to Calendar" class="addeventatc" data-id="Rs5085486" href="https://www.addevent.com/event/Rs5085486" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
+<br>
 
 <hr/>
 <h3> Session: CODE4214 </h3>
@@ -205,8 +211,11 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 <div class="session-wrapper">
 Learn how to automate the deployment of Tanzu Kubernetes Grid Clusters to...<a href="Sam-Tanzu">See More</a>
 <br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br> 
+<a title="Add to Calendar" class="addeventatc" data-id="pH5085488" href="https://www.addevent.com/event/pH5085488" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
+<br>
 
 <hr/>
 <h3> Session: CODE4215 </h3>
@@ -214,11 +223,13 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 ### **Time: 12:30-1:00PM PDT**
 <div class="session-wrapper">
 Learn how new capabilities in Fusion and Workstation ... <a href="MichaelR">See More</a>
-<br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br><br> 
+<a title="Add to Calendar" class="addeventatc" data-id="MZ5085491" href="https://www.addevent.com/event/MZ5085491" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
-
+<br> 
 <hr/>
+
 <h3> Session: CODE4216 </h3>
 <h3><a href="Chris">Exploring API-only Features of First Class Disks w/ Chris Arceneaux</a></h3>
 ### **Time: 1:00-1:30PM PDT**
