@@ -24,23 +24,6 @@
 <div class="header-code"><img src="github-banner.jpg" class="header-banner"></div>
 
 <!--<img src="codeconlogo_light.png" class="lrg-logo"/>-->
-
-<table>
-   <tr>
-     <td><a href="#day1" width="33%">Day 1 Sessions</a></td>
-     <td><a href="#day2" width="33%">Day 2 Sessions</a></td>
-     <td><a href="#ScriptCompetition" width="33%">Script Competition</a></td>
-     <td><a href="#hackathon" width="33%">Hackathon</a></td>
-  </tr>
-  <tr>
-    <td colspan="4" width="100%">Tracks: <a href="#tanzu">Tanzu</a>, <a href="#traditional">Traditional</a>, <a href="#community">Community</a></td>
-  </tr>
-  </table>
-  <table>
-  <tr>
-    <td colspan="5" width="100%"><a href="#partners">Partners</a></td>
-  </tr>
-</table>
 <div class="row">
   <div class="column">
     <img src="github2.png" alt="GitHub" style="width:100%">
@@ -58,6 +41,23 @@
     <img src="cu2.png" alt="Control Up" style="width:100%">
   </div>
 </div>
+
+<table>
+   <tr>
+     <td><a href="#day1" width="33%">Day 1 Sessions</a></td>
+     <td><a href="#day2" width="33%">Day 2 Sessions</a></td>
+     <td><a href="#ScriptCompetition" width="33%">Script Competition</a></td>
+     <td><a href="#hackathon" width="33%">Hackathon</a></td>
+  </tr>
+  <tr>
+    <td colspan="4" width="100%">Tracks: <a href="#tanzu">Tanzu</a>, <a href="#traditional">Traditional</a>, <a href="#community">Community</a></td>
+  </tr>
+  </table>
+  <table>
+  <tr>
+    <td colspan="5" width="100%"><a href="#partners">Partners</a></td>
+  </tr>
+</table>
 
 <a name="day1"></a>
 # Day 1 (10/1/20):
