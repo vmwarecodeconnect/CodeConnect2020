@@ -10,7 +10,7 @@
   .lrg-logo {display:none;}
   .column {
   float: left;
-  width: 15%;
+  width: 18%;
   padding: 5px;
 }
 
