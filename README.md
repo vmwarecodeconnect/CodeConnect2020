@@ -24,7 +24,7 @@
 <div class="header-code"><img src="github-banner.jpg" class="header-banner"></div>
 
 <!--<img src="codeconlogo_light.png" class="lrg-logo"/>-->
-Sponsors
+Partners:
 <div class="row">
   <div class="column">
     <img src="github2.png" alt="GitHub" style="width:100%">
@@ -446,5 +446,5 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 <a name="hackathon"></a>
 ## Hackathon
 <hr/>
-## Partners
+
 
