@@ -10,8 +10,11 @@
 ### **Time: 3:00-3:30PM PDT**
 <div class="session-wrapper">
 The traditional approach to IT automation has been to build out an “automation team” who owns the creation/maintenance of all automation workflows across the IT organization.  This is a great way to concentrate those skillsets and get early wins, but tends to break down at scale since it’s impossible for those teams to be experts at everything they’re being asked to automate.  This talk will explore Expedient’s journey of helping all of their infrastructure engineers become automation engineers who leverage their expertise within their specialty to create useful automation workflows that improve their day-to-day productivity and experience.<br>
-Zoom Link: vmware.zoom.us/jsdkfslf 
+<br> 
+  <a title="Add to Calendar" class="addeventatc" data-id="fu5085532" href="https://www.addevent.com/event/fu5085532" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
+<br> 
 
 <hr/>
 <img src="mike.jpg" alt="Mike Garuccio" width="25%" align="right">
