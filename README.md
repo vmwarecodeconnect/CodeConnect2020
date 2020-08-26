@@ -22,8 +22,8 @@
 </style>
 
 <div class="header-code"><img src="github-banner.jpg" class="header-banner"></div>
-Welcome to VMware {code} Connect! On October 1st & 2nd from 9AM PDT to 5PM PDT, we have two days packed with hands on learning, traditional sessions and 100% *LIVE* interactions to bring the {code} community together to learn, code, and connect with each other. <br>
-To Register for a session and receive your zoom link, simply click "Add to Calendar"<br>
+<h3>Welcome to VMware {code} Connect! On October 1st & 2nd from 9AM PDT to 5PM PDT, we have two days packed with hands on learning, traditional sessions and 100% *LIVE* interactions to bring the {code} community together to learn, code, and connect with each other.</h3> <br>
+<h3><b>To Register for a session and receive your zoom link, simply click "Add to Calendar."</b><h/3><br>
 
 
 
