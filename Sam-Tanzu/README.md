@@ -10,10 +10,12 @@
 ### **Time: 11:30AM-12PM PDT**
 <div class="session-wrapper">
 Learn how to automate the deployment of Tanzu Kubernetes Grid Clusters to provide TKG-as-a-Service with vRealize Automation.
-
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br><br>
+<a title="Add to Calendar" class="addeventatc" data-id="pH5085488" href="https://www.addevent.com/event/pH5085488" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
 
+<br> 
 
 <hr/>
 <img src="sam_mcgeown.jpeg" alt="Sam McGeown" width="25%" align="right">
