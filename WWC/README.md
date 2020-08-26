@@ -36,6 +36,8 @@ Joey Rosenberg serves as Chief Leadership Officer for Women Who Code, a global m
 Jane is an entrepreneur focused on building a global community for tech professionals, especially for women in tech. She spent 6 years in Silicon Valley at eBay before moving to Taiwan and starting WeTogether.co, a hub for career development for women in tech so industry veterans and newbies to interact with each other, and grow, succeed together. She's currently also serving as the Sr Director of Women Who Code Taipei and Director of APAC, Ladies that UX. 
 </p>
 <br>
+<br>
+<br>
 
 <img src="shwetha.jpeg" alt="Shwetha Lakshman Rao" width="25%" align="right">
     
