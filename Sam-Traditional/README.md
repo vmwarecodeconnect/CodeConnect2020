@@ -11,9 +11,11 @@
 <div class="session-wrapper">
 Learn how to use HashiCorp Vault to manage secrets for your vRealize Automation environment. I will demonstrate how to leverage response wrapping, cubbyholes, approles and policies to ensure your secrets stay that way!
 <br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br> 
+  <a title="Add to Calendar" class="addeventatc" data-id="VM5085513" href="https://www.addevent.com/event/VM5085513" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
-
+<br> 
 
 <hr/>
 <img src="sam_mcgeown.jpeg" alt="Sam McGeown" width="25%" align="right">
