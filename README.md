@@ -62,7 +62,7 @@ Partners:
 
 <hr/>
 
-<h3> Session: CODE4101 </h3>
+<h3> Session: CODE4101 (To Register for this session & receive the zoom link "Add to Calendar") </h3>
 <h3><a href="Wayne">Octant - An open source platform for building Kubernetes UIs w/ Wayne Witzel</a></h3>
 ### **Time: 9:00-9:30AM PDT**
 <div class="session-wrapper">
