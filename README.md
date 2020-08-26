@@ -350,40 +350,50 @@ Join us for a Power CLI Code on the Fly Session... <a href="Kyle">See More</a>
 ### **Time: 2:00-2:30PM PDT**
 <div class="session-wrapper">
 There are many tools and solutions for automating infrastructure, and the choices can... <a href="Jake">See More</a>
-<br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br><br> 
+<a title="Add to Calendar" class="addeventatc" data-id="OK5085523" href="https://www.addevent.com/event/OK5085523" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
-
+<br> 
 <hr/>
+
 <h3> Session: CODE4228 </h3>
 <h3><a href="AJ">How To Automate Across Enterprise and Hyperscale Clouds with Terraform and Ansible w/ AJ Kuftic</a></h3>
 ### **Time: 2:30-3:00PM PDT**
 <div class="session-wrapper">
 Companies are being asked to do more with less and turning to automation to deliver on those requests... <a href="AJ">See More</a>
 <br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br> 
+	<a title="Add to Calendar" class="addeventatc" data-id="YC5085530" href="https://www.addevent.com/event/YC5085530" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
-
+<br> 
 <hr/>
+
 <h3> Session: CODE4229 </h3>
 <h3><a href="Mike">Making every engineer an automation engineer w/ Mike Garuccio</a></h3>
 ### **Time: 3:00-3:30PM PDT**
 <div class="session-wrapper">
 The traditional approach to IT automation has been to build out an... <a href="Mike">See More</a>
 <br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br> 
+<a title="Add to Calendar" class="addeventatc" data-id="fu5085532" href="https://www.addevent.com/event/fu5085532" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
-
+<br> 
 <hr/>
+
 <h3> Session: CODE4220 </h3>
 <h3><a href="Bill">Testing VMware ESXi Infrastructure With PowerShell/PowerCLI & Pester w/ Bill Kindle</a></h3>
 ### **Time: 3:30-4:00PM PDT**
 <div class="session-wrapper">
 This would be a revised  session of a talk I gave at my local VMUG but would run through more VMware focused testing using Pester. ... <a href="Bill">See More</a>
 <br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br> 
+<a title="Add to Calendar" class="addeventatc" data-id="QY5085534" href="https://www.addevent.com/event/QY5085534" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
-
+<br> 
 <hr/>
 
 
