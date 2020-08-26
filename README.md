@@ -10,7 +10,7 @@
   .lrg-logo {display:none;}
   .column {
   float: left;
-  width: 19%;
+  width: 18%;
   padding: 5px;
 }
 
@@ -100,8 +100,8 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 
 
 <h3> Session: CODE4104 </h3>
-<h3><a href="MichaelG">Let's build a Kubernetes Operator in Go! w/ Michael Gasch</a></h3>
-### **Time: 11:00-12:30PM PDT**
+<h3><a href="MichaelG">Let's build a Kubernetes Operator in Go! w/ Michael Gasch & Rafael Brito</a></h3>
+### **Time: 11:00AM-12:30PM PDT**
 <div class="session-wrapper">
 Kubernetes is quickly becoming the standard cloud API for deploying and managing modern workloads...
 <a href="MichaelG">See More</a>
@@ -279,7 +279,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 <hr/>
 <h3> Session: CODE4225 </h3>
 <h3><a href="Justin">Administration Modernization: Building and Deploying Containers to vSphere Integrated Containers w/ Justin Sider</a></h3>
-### **Time: 11:30-12:00PM PDT**
+### **Time: 11:30AM-12:00PM PDT**
 <div class="session-wrapper">
 Join me as I teach you how to migrate your PowerCLI scripts to run in vSphere... <a href="Justin">See More</a>
 <br>
@@ -384,7 +384,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 <hr/>
 <h3> Session: CODE4235 </h3>
 <h3><a href="JJ">Deploying a simple Python app to Kubernetes w/ JJ Asghar</a></h3>
-### **Time: 11:30-12:00PM PDT**
+### **Time: 11:30AM-12:00PM PDT**
 <div class="session-wrapper">
 JJ will walk you through deploying a simple python ...<a href="JJ">See More</a>
 <br>
