@@ -10,9 +10,11 @@
 ### **Time: 2:00-2:30PM PDT**
 <div class="session-wrapper">
 There are many tools and solutions for automating infrastructure, and the choices can be very ambiguous. We'll discuss the different types of automation tools and frameworks, their strengths and weaknesses, and  what it means to the Infrastructure Administrator in the new world of Cloud, DevOps, and Code. We'll also dive in to what your learning track should look like based on your role, and how to level up your career using Automation..<br>
-Zoom Link: vmware.zoom.us/jsdkfslf 
+<br> 
+  <a title="Add to Calendar" class="addeventatc" data-id="OK5085523" href="https://www.addevent.com/event/OK5085523" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
-
+<br> 
 <hr/>
 <img src="jake.jpg" alt="Jake Robinson" width="25%" align="right">
     
