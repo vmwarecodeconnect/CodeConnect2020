@@ -14,9 +14,13 @@ With the ever-increasing use of containerized applications, we see a significant
 The question under consideration is what to monitor for in the deployed TKGI environment and how to monitor these. The next question is what to do or how to react to the issues we face in the monitored components.
 
 This session will provide answers to all these questions. It will guide to what to monitor and how to monitor in a datacenter hosting TKGI environment. Also, this document provides best practices and general guidelines for monitoring such an environment. Though there are many ways we can monitor a TKGI environment, this document covers the VMware suite of products that is used to monitor TKGI environment including vRealize Network Insight, vRealize Operations Manager, and vRealize Log Insight.
-<br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br><br> 
+<a title="Add to Calendar" class="addeventatc" data-id="jA5085462" href="https://www.addevent.com/event/jA5085462" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
+   
 </div>
+
+<br> 
 
 <hr/>
 <img src="sajal_debnath.jpg" alt="Sajal Debnath" width="300" height="300" align="right">
