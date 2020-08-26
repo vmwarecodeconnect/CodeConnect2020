@@ -24,6 +24,7 @@
 <div class="header-code"><img src="github-banner.jpg" class="header-banner"></div>
 
 <!--<img src="codeconlogo_light.png" class="lrg-logo"/>-->
+Sponsors
 <div class="row">
   <div class="column">
     <img src="github2.png" alt="GitHub" style="width:100%">
@@ -53,11 +54,7 @@
     <td colspan="4" width="100%">Tracks: <a href="#tanzu">Tanzu</a>, <a href="#traditional">Traditional</a>, <a href="#community">Community</a></td>
   </tr>
   </table>
-  <table>
-  <tr>
-    <td colspan="5" width="100%"><a href="#partners">Partners</a></td>
-  </tr>
-</table>
+  
 
 <a name="day1"></a>
 # Day 1 (10/1/20):
@@ -450,20 +447,4 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 ## Hackathon
 <hr/>
 ## Partners
-<div class="row">
-  <div class="column">
-    <img src="github2.png" alt="GitHub" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="ibm2.png" alt="IBM" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="zoom2.png" alt="zoom" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="wwc2.png" alt="Women Who Code" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="cu2.png" alt="Control Up" style="width:100%">
-  </div>
-</div>
+
