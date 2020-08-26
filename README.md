@@ -23,7 +23,7 @@
 
 <div class="header-code"><img src="github-banner.jpg" class="header-banner"></div>
 <h3>Welcome to VMware {code} Connect! On October 1st & 2nd from 9AM PDT to 5PM PDT, we have two days packed with hands on learning, traditional sessions and 100% *LIVE* interactions to bring the {code} community together to learn, code, and connect with each other.</h3> <br>
-<br>
+
 <h3><b>To Register for a session and receive your zoom link, simply click "Add to Calendar."</b><h/3><br>
 
 
@@ -73,6 +73,7 @@ Partners:
 ### **Time: 9:00-9:30AM PDT**
 <div class="session-wrapper">
 With so many different resources and custom resources within a Kubernetes cluster... <a href="Wayne">See More</a>
+<br>
 <br>
 <a title="Add to Calendar" class="addeventatc" data-id="GS5085426" href="https://www.addevent.com/event/GS5085426" target="_blank" rel="nofollow">Add to Calendar</a>
 	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
