@@ -11,9 +11,11 @@
 <div class="session-wrapper">
 By the time of the Conference, I'll have completed my 100DaysOfCode challenge. I would like to share the idea behind, how to get started and what can one achieve during the challenge. One of the most important things to shape a new habit is persistence and consistency. The 100DaysOfCode, even if it sounds tough, aims to help you along the way.
 <br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br> 
+<a title="Add to Calendar" class="addeventatc" data-id="hb5085538" href="https://www.addevent.com/event/hb5085538" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
-
+<br> 
 
 <hr/>
 <img src="ivaylo_ivanov.jpg" alt="Ivaylo Ivanov" width="25%" align="right">
