@@ -275,9 +275,11 @@ In this session we’ll look what distributed tracing is and how it can help you
 ### **Time: 9:30-10:00AM PDT**
 <div class="session-wrapper">
 To up your PowerCLI game, you ultimately can't avoid... <a href="Luc">See More</a>
-<br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br><br> 
+<a title="Add to Calendar" class="addeventatc" data-id="gO5085507" href="https://www.addevent.com/event/gO5085507" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
+<br> 
 
 <hr/>
 <h3> Session: CODE4222 </h3>
@@ -286,8 +288,11 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 <div class="session-wrapper">
 As a consultant I see a lot of our customers struggling with application packaging for their VDI environment... <a href="Sidney">See More</a>
 <br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br> 
+<a title="Add to Calendar" class="addeventatc" data-id="Qb5085509" href="https://www.addevent.com/event/Qb5085509" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
+<br> 
 
 <hr/>
 <h3> Session: CODE4223 </h3>
@@ -295,39 +300,49 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 ### **Time: 10:30-11:00AM PDT**
 <div class="session-wrapper">
 Virtual Session - Horizon Automation: From 101 to Deepdive will provide... <a href="Wouter">See More</a>
-<br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br><br> 
+<a title="Add to Calendar" class="addeventatc" data-id="qp5085512" href="https://www.addevent.com/event/qp5085512" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
-
+<br> 
 <hr/>
+
 <h3> Session: CODE4224 </h3>
 <h3><a href="Sam-Traditional">Automating Secrets with HashiCorp Vault and vRealize Automation w/ Sam McGeown</a></h3>
 ### **Time: 11:00-11:30AM PDT**
 <div class="session-wrapper">
 Learn how to use HashiCorp Vault to manage secrets for your vRealize Automation environment... <a href="Sam-Traditional">See More</a>
-<br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br><br>
+<a title="Add to Calendar" class="addeventatc" data-id="VM5085513" href="https://www.addevent.com/event/VM5085513" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
-
+<br>
 <hr/>
+
 <h3> Session: CODE4225 </h3>
 <h3><a href="Justin">Administration Modernization: Building and Deploying Containers to vSphere Integrated Containers w/ Justin Sider</a></h3>
 ### **Time: 11:30AM-12:00PM PDT**
 <div class="session-wrapper">
 Join me as I teach you how to migrate your PowerCLI scripts to run in vSphere... <a href="Justin">See More</a>
 <br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br> 
+	<a title="Add to Calendar" class="addeventatc" data-id="qy5085518" href="https://www.addevent.com/event/qy5085518" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
-
+<br>
 <hr/>
+
 <h3> Session: CODE4226</h3>
 <h3><a href="Kyle">Power CLI Code on the Fly w/ Kyle Ruddy</a></h3>
 ### **Time: 12:30-2:00PM PDT**
 <div class="session-wrapper">
 Join us for a Power CLI Code on the Fly Session... <a href="Kyle">See More</a>
 <br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br> 
+<a title="Add to Calendar" class="addeventatc" data-id="On5085521" href="https://www.addevent.com/event/On5085521" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
+<br> 
 
 <hr/>
 <h3> Session: CODE4227 </h3>
