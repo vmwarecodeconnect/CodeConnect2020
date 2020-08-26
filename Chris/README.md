@@ -29,4 +29,4 @@ We'll explore API-only features, do a live demo of features using pyvmomi, outsi
 <hr/>
 <img src="chris_arceneaux.jpeg" alt="Chris Arceneaux" width="25%" align="right">
     
-<p>Chris Arceneaux is a Solutions Architext at Veeam Software.</p>
+<p>Chris Arceneaux is a Solutions Architect at Veeam Software.</p>
