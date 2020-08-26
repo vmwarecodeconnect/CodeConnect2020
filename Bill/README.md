@@ -22,4 +22,4 @@ The main goal would be to demonstrate to administrators how they can leverage mo
 <hr/>
 <img src="bill_kindle.jpeg" alt="Bill Kindle" width="25%" align="right">
     
-<p>Bill Kindle is an experienced IT SysOps Administrator with a demonstrated history of working in the information technology and b2b services industry. He is a Cyber Security Systems Engineer at Corsica Technologies.</p>
+<p>Bill Kindle is an experienced IT SysOps Administrator with a demonstrated history of working in the information technology and b2b services industry.<br> He is a Cyber Security Systems Engineer at Corsica Technologies.</p>
