@@ -6,7 +6,7 @@
 </style>
 <hr/>
 
-### **Let's build a Kubernetes Operator in Go! w/ Michael Gasch**
+### **Let's build a Kubernetes Operator in Go! w/ Michael Gasch & Rafael Brito**
 ### **Time: 11:00AM-12:30PM PDT**
 <div class="session-wrapper">
 Kubernetes is quickly becoming the standard cloud API for deploying and managing modern workloads. 
@@ -28,5 +28,10 @@ Zoom Link: vmware.zoom.us/jsdkfslf
     
 <p margin-right="30 px">Meet our {code} coach Michael! Michael Gasch is a Staff Engineer in the Office of the CTO at VMware with a focus on event-driven systems, Kubernetes and service mesh. When asked what motivates him to do the work he does, Michael said, ” Growing up in communism (East Germany) before the wall came down I had to wait for my first computer (C64) until the age of 10. I was super curious and there was so much to learn but I never thought I was “smart” enough to learn a programming language like C or Java. So I doubled down on the “ops” side of IT (which is equally important of course). Many years later, when I heard about the Go programming language in the context of Kubernetes, I <br> pushed myself to learn that language because the Kubernetes docs were missing/incomplete/outdated. Fast forward, I am a distributed systems engineer <br> at VMware working on Service Mesh. This personal journey drives me to help <br> everyone with a similar story and background to not be afraid and learn to code”.</p>
 
+<br> 
+
+<img src="rafael_brito.jpeg" alt="Rafael Brito" width="25%" align="right">
+    
+<p margin-right="30 px">Rafael Brito is an Application Platform Architect in the Office of the CTO at VMware, Inc. He has over 25 years of IT experience, including 15+ years of broad-based management in Cloud and Systems Engineering, Client Management & Sales Engineering.</p>
 
 
