@@ -423,6 +423,16 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 
 <hr/>
 <h3> Session: CODE4239 </h3>
+<h3><a href="WWC">Women Who Code Leaders Panel </a></h3>
+### **Time: 2:30-3:30PM PDT**
+<div class="session-wrapper">
+Join Women Who Code, an international non-profit organization that provides services for women pursuing technology careers and a job board for companies seeking coding professionals....<a href="WWC">See More</a>
+<br>
+Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+</div>
+
+<hr/>
+<h3> Session: CODE4230 </h3>
 <h3><a href="Joe">GitHub Actions to Automate Multi-Cloud Deployments w/ Joe Houghes </a></h3>
 ### **Time: 3:00-3:30PM PDT**
 <div class="session-wrapper">
@@ -432,7 +442,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 </div>
 
 <hr/>
-<h3> Session: CODE4230 </h3>
+<h3> Session: CODE42301 </h3>
 <h3><a href="Chandra">Unified CloudWatch monitoring for VMC workloads with AWS native services. w/ Chandra Avutu </a></h3>
 ### **Time: 3:30-4:00PM PDT**
 <div class="session-wrapper">
