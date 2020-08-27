@@ -63,7 +63,6 @@ Partners:
 <br><br>
 <a name="day1"></a>
 # Day 1 (10/1/20):
-<br>
 <hr/>
 
 <div class="session-wrapper">
@@ -161,7 +160,6 @@ Download Instructions <a href="ScriptCompetition">See More</a>
 
 <a name="kubernetes"></a>
 ## Kubernetes Track
-<br>
 <hr/>
 
 <div class="session-wrapper">
