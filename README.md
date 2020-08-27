@@ -19,6 +19,9 @@
   clear: both;
   display: table;
 }
+
+.code-left {float:left;}
+.code-right {float-right;}
 </style>
 
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -66,9 +69,9 @@ Partners:
 <hr/>
 
 <div class="session-wrapper">
-<h3> Session: CODE4101 (9:00-9:30AM PDT)</h3>
+<div class="code-left"><h3> Session: CODE4101</h3></div><div class="code-right"><h3>Time: 9:00-9:30AM PDT</h3>
 <h3><a href="Wayne">Octant - An open source platform for building Kubernetes UIs w/ Wayne Witzel</a></h3>
-<h3>Time: 9:00-9:30AM PDT</h3>
+
 With so many different resources and custom resources within a Kubernetes cluster... <a href="Wayne">See More</a>
 <br>
 <br>
