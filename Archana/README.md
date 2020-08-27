@@ -14,6 +14,8 @@ With the advent of IoT devices, it has become essential to utilize their data an
 <br> 
   <a title="Add to Calendar" class="addeventatc" data-id="LI5088765" href="https://www.addevent.com/event/LI5088765" target="_blank" rel="nofollow">Add to Calendar</a>
 	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
+<br> 
+<br> 
 </div>
 
 <hr/>
