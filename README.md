@@ -69,9 +69,9 @@ Partners:
 
 <div class="session-wrapper">
 <span class="left">Session: CODE4101</span><span class="right">Time: 9:30-10:00AM PDT</span>
-<br>
+<br><br> 
 <h3><a href="Wayne">Octant - An open source platform for building Kubernetes UIs</a></h3>
-<h3 style="color:white">Presenter: <b>Wayne Witzel III</b>, Senior Member of Technical Staff at VMware</h3>
+<h4 style="color:white">Presenter: <b>Wayne Witzel III</b>, Senior Member of Technical Staff at VMware</h4>
 With so many different resources and custom resources within a Kubernetes cluster... <a href="Wayne">See More</a>
 <br>
 <br>
@@ -83,9 +83,9 @@ With so many different resources and custom resources within a Kubernetes cluste
 
 <div class="session-wrapper">
 <span class="left">Session: CODE4102</span><span class="right">Time: 10:00-10:30AM PDT</span>
-<br>
+<br><br> 
 <h3><a href="Sam">Automating Secrets with HashiCorp Vault and vRealize Automation</a></h3>
-<h3 style="color:white">Presenter: <b>Sam McGeown</b>, Senior Technical Marketing Manager at VMware</h3>
+<h4 style="color:white">Presenter: <b>Sam McGeown</b>, Senior Technical Marketing Manager at VMware</h4>
 Learn how to use HashiCorp Vault to manage secrets <a href="Sam">See More</a>
 <br>
 <br> 
@@ -96,9 +96,10 @@ Learn how to use HashiCorp Vault to manage secrets <a href="Sam">See More</a>
 <hr/>
 
 <div class="session-wrapper">
-<h3> Session: CODE4103 </h3>
-<h3><a href="Sajal">Monitoring K8s and TKGI in Modern Datacenter w/ Sajal Debnath</a></h3>
-<h3>Time: 10:30-11:00AM PDT</h3>
+<span class="left">Session: CODE4103</span><span class="right">Time: 10:30-11:00AM PDT</span>
+<br><br> 
+<h3><a href="Sajal">Monitoring K8s and TKGI in Modern Datacenter</a></h3>
+<h4 style="color:white">Presenter: <b>Sajal Debnath</b>, Staff Architect at VMware</h4>
 With the ever-increasing use of containerized applications, we see a significant proliferation of related technologies in modern datacenters...<a href="Sajal">See More</a>
 <br>
 <br> 
@@ -109,9 +110,10 @@ With the ever-increasing use of containerized applications, we see a significant
 <hr/>
 
 <div class="session-wrapper">
-<h3> Session: CODE4104 </h3>
-<h3><a href="MichaelG">Let's build a Kubernetes Operator in Go! w/ Michael Gasch & Rafael Brito</a></h3>
-<h3>Time: 11:00AM-12:30PM PDT</h3>
+<span class="left">Session: CODE4104</span><span class="right">Time: 11:00AM-12:30PM PDT</span>
+<br><br> 
+<h3><a href="MichaelG">Let's build a Kubernetes Operator in Go!</a></h3>
+<h4 style="color:white">Presenters: <b>Michael Gasch</b>, Staff Engineer & <b>Rafael Brito</b>, Application Platform Architect at VMware</h4>
 Kubernetes is quickly becoming the standard cloud API for deploying and managing modern workloads...
 <a href="MichaelG">See More</a>
 <br>
@@ -123,9 +125,10 @@ Kubernetes is quickly becoming the standard cloud API for deploying and managing
 <hr/>
 
 <div class="session-wrapper">
-<h3> Session: CODE4105 </h3>
-<h3><a href="William">vSphere and VMware Cloud on AWS Automation Live Coding w/ William Lam</a></h3>
-<h3>Time: 1:30-3:00PM PDT</h3>
+<span class="left">Session: CODE4105</span><span class="right">Time: 1:30PM-3:00PM PDT</span>
+<br><br> 
+<h3><a href="William">vSphere and VMware Cloud on AWS Automation Live Coding</a></h3>
+<h4 style="color:white">Presenter: <b>William Lam</b>, Senior Staff Solution Architect at VMware</h4>
 Do you work with vSphere or VMware Cloud AWS and wish to automate a particular task that you have not been able to figure out? ... <a href="William">See More</a>
 <br>
 <br> 
@@ -145,10 +148,11 @@ Do you work with vSphere or VMware Cloud AWS and wish to automate a particular t
 <hr/>
 
 <div class="session-wrapper">
-<h3> Session: CODE4106 </h3>
-<h3><a href="ScriptCompetition">Wouter Kursten & ControlUp- Script Based Competition </a></h3>
-<h3>Time: 3:00-3:30PM PDT</h3>
-Download Instructions <a href="ScriptCompetition">See More</a>
+<span class="left">Session: CODE4106</span><span class="right">Time: 3:00-5:00PM PDT</span>
+<br><br>
+<h3><a href="ScriptCompetition">Script Based Competition </a></h3>
+<h4 style="color:white">Presenter: <b>Wouter Kursten</b>, Professional Services Engineer at ControlUp</h4>
+Click see more to download competition instructions: <a href="ScriptCompetition">See More</a>
 <br>
 <br> 
 <a title="Add to Calendar" class="addeventatc" data-id="ML5085475" href="https://www.addevent.com/event/ML5085475" target="_blank" rel="nofollow">Add to Calendar</a>
