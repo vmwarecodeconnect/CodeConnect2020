@@ -66,7 +66,7 @@ Partners:
 <hr/>
 
 <div class="session-wrapper">
-<h3> Session: CODE4101 </h3>
+<h3> Session: CODE4101 (9:00-9:30AM PDT)</h3>
 <h3><a href="Wayne">Octant - An open source platform for building Kubernetes UIs w/ Wayne Witzel</a></h3>
 <h3>Time: 9:00-9:30AM PDT</h3>
 With so many different resources and custom resources within a Kubernetes cluster... <a href="Wayne">See More</a>
