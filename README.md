@@ -70,7 +70,7 @@ Partners:
 <div class="session-wrapper">
 <span class="left">Session: CODE4101</span><span class="right">Time: 9:00-9:30AM PDT</span>
 <h3><a href="Wayne">Octant - An open source platform for building Kubernetes UIs</a></h3>
-<h4 style="color:white">Presenter: Wayne Witzel III</h4>
+<h3 style="color:white">Presenter: <b>Wayne Witzel III</b>, Senior Member of Technical Staff at VMware</h3>
 With so many different resources and custom resources within a Kubernetes cluster... <a href="Wayne">See More</a>
 <br>
 <br>
