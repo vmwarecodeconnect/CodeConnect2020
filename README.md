@@ -526,10 +526,11 @@ This is about showing everyone how quickly they can get up to speed with GitHub 
 <br> 
 <hr/>
 
+<div class="session-wrapper">
 <h3> Session: CODE42301 </h3>
 <h3><a href="Chandra">Unified CloudWatch monitoring for VMC workloads with AWS native services. w/ Chandra Avutu </a></h3>
 ### **Time: 3:30-4:00PM PDT**
-<div class="session-wrapper">
+
 Amazon CloudWatch is a monitoring and observability service provides you with data and actionable insights...<a href="Chandra">See More</a>
 <br>
 Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
