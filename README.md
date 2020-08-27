@@ -150,15 +150,14 @@ Download Instructions <a href="ScriptCompetition">See More</a>
 <a title="Add to Calendar" class="addeventatc" data-id="ML5085475" href="https://www.addevent.com/event/ML5085475" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
-
 <br>
 <hr/>
 
 <br><br>
 <a name="day2"></a>
 # Day 2 (10/2/20):
-
 <a name="kubernetes"></a>
+<br>
 ## Kubernetes Track
 <hr/>
 
