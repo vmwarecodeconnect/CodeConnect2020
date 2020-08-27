@@ -113,7 +113,7 @@ With the ever-increasing use of containerized applications, we see a significant
 <span class="left">Session: CODE4104</span><span class="right">Time: 11:00AM-12:30PM PDT</span>
 <br><br> 
 <h3><a href="MichaelG">Let's build a Kubernetes Operator in Go!</a></h3>
-<h4 style="color:white">Presenters: <b>Michael Gasch</b>, Staff Engineer & <b>Rafael Brito</b>, Application Platform Architect at VMware</h4>
+<h4 style="color:white">Presenters: <b>Michael Gasch</b>, Staff Engineer at VMware & <b>Rafael Brito</b>, Application Platform Architect at VMware</h4>
 Kubernetes is quickly becoming the standard cloud API for deploying and managing modern workloads...
 <a href="MichaelG">See More</a>
 <br>
@@ -171,12 +171,14 @@ Click see more to download competition instructions: <a href="ScriptCompetition"
 <hr/>
 
 <div class="session-wrapper">
-<h3> Session: CODE4211 </h3>
-<h3>Writing a Kubernetes Validating Admission Controller w/ Cora Iberkleid**
-<h3>Time: 9:30-10:00AM PDT</h3>
-How do you control what goes into your Kubernetes cluster? How do you ensure that your users are following corporate guidelines for Kubernetes usage? How do you do all this without auditing the environment after the infraction occurred?This session by Cora Iberkleid will explore how to build a validating admission controller for use with a Kubernetes cluster. In this session, you’ll learn how to deploy a Python app that can validate Kubernetes API calls and either approve or deny them. You’ll learn how to setup a Kubernetes webhook and most importantly, you’ll learn why you might want to use an admission controller in your environment.
-
-Zoom Link: vmware.zoom.us/jsdkfslf
+<span class="left">Session: CODE4211</span><span class="right">Time: 9:30-10:00AM PDT</span>
+<br><br>
+<h3><a href="Cora">Writing a Kubernetes Validating Admission Controller</a></h3>
+<h4 style="color:white">Presenter: <b>Cora Iberkleid</b>, Advisory Solutions Engineer at VMware</h4>
+How do you control what goes into your Kubernetes cluster? How... <a href="Cora">See More</a>
+<br>
+<br> 
+<! -- INSERT CORA ADDEVENT HERE -->
 </div>
 <br>
 <hr/>
