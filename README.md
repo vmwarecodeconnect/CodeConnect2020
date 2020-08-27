@@ -156,6 +156,7 @@ Download Instructions <a href="ScriptCompetition">See More</a>
 <br><br>
 <a name="day2"></a>
 # Day 2 (10/2/20):
+<br><br>
 <a name="kubernetes"></a>
 <br>
 ## Kubernetes Track
