@@ -60,7 +60,7 @@ Partners:
   </tr>
   </table>
   
-
+<br><br>
 <a name="day1"></a>
 # Day 1 (10/1/20):
 <br>
