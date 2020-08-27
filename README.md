@@ -515,7 +515,9 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 <h4 style="color:white">Presenter: <b>Chandra Avutu</b>, Architect at Amazon Web Services</h4>
 Amazon CloudWatch is a monitoring and observability service provides you with data and actionable insights to...<a href="Chandra">See More</a>
 <br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br> 
+<a title="Add to Calendar" class="addeventatc" data-id="ZN5088761" href="https://www.addevent.com/event/ZN5088761" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
 <br>
 <hr/>
@@ -569,7 +571,9 @@ This is about showing everyone how quickly they can get up to speed with GitHub 
 <h4 style="color:white">Presenter: <b>Archana Vaidheeswaran</b>, Fellow at Women Who Code</h4>
 With the advent of IoT devices, it has become essential to utilize their data and run inference on the edge...<a href="Archana">See More</a>
 <br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br> 
+<a title="Add to Calendar" class="addeventatc" data-id="LI5088765" href="https://www.addevent.com/event/LI5088765" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
 <br>
 <hr/>
