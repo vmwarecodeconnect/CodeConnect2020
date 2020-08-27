@@ -18,6 +18,6 @@ Code is for everybody! As the world moves toward containers and Kubernetes, the 
 <hr/>
 <img src="patrick_kremer.jpg" alt="Patrick Kremer" width="25%" align="right">
     
-<p>Patrick Kremer is a Staff VMware Cloud Solution Engineer at VMware, Inc.</p>
+<p>Patrick Kremer is a Staff Cloud Solution Architect at VMware, Inc.</p>
 
 
