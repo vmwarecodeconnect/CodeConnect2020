@@ -392,7 +392,7 @@ This would be a revised  session of a talk I gave at my local VMUG but would run
 <br> 
 <hr/>
 
-
+<br>
 <a name="community"></a>
 ## Community Track
 <hr/>
@@ -536,6 +536,7 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 <br>
 <hr/>
 
+<br>
 <a name="hackathon"></a>
 ## Hackathon
 <hr/>
