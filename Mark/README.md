@@ -24,4 +24,4 @@ In this session we’ll look what distributed tracing is and how it can help you
 <hr/>
 <img src="mark_foley.jpeg" alt="Mark Foley" width="25%" align="right">
     
-<p>Mark Foley is a Senior Solution Engineer at VMware, Inc.</p>
+<p>Mark Foley is a Senior System Engineer at VMware, Inc.</p>
