@@ -171,9 +171,24 @@ Click see more to download competition instructions: <a href="ScriptCompetition"
 <hr/>
 
 <div class="session-wrapper">
-<h3> Session: CODE4212 </h3>
-<h3><a href="Evan">Serverless on your own terms with Knative w/ Evan Anderson</a></h3>
-<h3>Time: 10:00-11:00AM PDT</h3>
+<span class="left">Session: CODE4211</span><span class="right">Time: 9:30-10:00AM PDT</span>
+<br><br>
+<h3><a href="Cora">Writing a Kubernetes Validating Admission Controller</a></h3>
+<h4 style="color:white">Presenter: <b>Cora Iberkleid</b>, Advisory Solutions Engineer at VMware</h4>
+How do you control what goes into your Kubernetes cluster? How... <a href="Cora">See More</a>
+<br>
+<br>
+<!--<INSERT CORA'S ADDEVENT HERE/>-->
+</div>
+<br> 
+<hr/>
+
+
+<div class="session-wrapper">
+<span class="left">Session: CODE4212</span><span class="right">Time: 10:00-11:00PM PDT</span>
+<br><br>
+<h3><a href="Evan">Serverless on your own terms with Knative</a></h3>
+<h4 style="color:white">Presenter: <b>Evan Anderson</b>, Staff Software Engineer at VMware</h4>
 Serverless is a paradigm for enabling development teams... <a href="Evan">See More</a>
 <br>
 <br>
@@ -184,9 +199,10 @@ Serverless is a paradigm for enabling development teams... <a href="Evan">See Mo
 <hr/>
 
 <div class="session-wrapper">
-<h3> Session: CODE4213 </h3>
-<h3><a href="Patrick">Skills modernization for the Virtual Infrastructure Admin w/ Patrick Kremer</a></h3>
-<h3>Time: 11:00-11:30AM PDT</h3>
+<span class="left">Session: CODE4213</span><span class="right">Time: 11:00-11:30AM PDT</span>
+<br><br>
+<h3><a href="Patrick">Skills modernization for the Virtual Infrastructure Admin</a></h3>
+<h4 style="color:white">Presenter: <b>Patrick Kremer</b>, Staff Cloud Solution Architect at VMware</h4>
 Code is for everybody! As the world moves toward containers and Kubernetes... <a href="Patrick">See More</a>
 <br>
 <br> 
@@ -197,9 +213,10 @@ Code is for everybody! As the world moves toward containers and Kubernetes... <a
 <hr/>
 
 <div class="session-wrapper">
-<h3> Session: CODE4214 </h3>
-<h3><a href="Sam-Tanzu"> Tanzu Kubernetes Grid (TKG) Clusters-as-a-Service w/ Sam McGeown</a></h3>
-<h3>Time: 11:30AM-12PM PDT</h3>
+<span class="left">Session: CODE4214</span><span class="right">Time: 11:30AM-12:00PM PDT</span>
+<br><br>
+<h3><a href="Sam-Tanzu"> Tanzu Kubernetes Grid (TKG) Clusters-as-a-Service</a></h3>
+<h4 style="color:white">Presenter: <b>Sam McGeown</b>, Senior Technical Marketing Manager at VMware</h4>
 Learn how to automate the deployment of Tanzu Kubernetes Grid Clusters to...<a href="Sam-Tanzu">See More</a>
 <br>
 <br> 
@@ -210,9 +227,10 @@ Learn how to automate the deployment of Tanzu Kubernetes Grid Clusters to...<a h
 <hr/>
 
 <div class="session-wrapper">
-<h3> Session: CODE4215 </h3>
-<h3><a href="MichaelR">Local Kubernetes and Container development with Fusion and Workstation w/ Michael Roy</a></h3>
-<h3>Time: 12:30-1:00PM PDT</h3>
+<span class="left">Session: CODE4215</span><span class="right">Time: 12:30-1:00PM PDT</span>
+<br><br>
+<h3><a href="MichaelR">Local Kubernetes and Container development with Fusion and Workstation</a></h3>
+<h4 style="color:white">Presenter: <b>Michael Roy</b>, Product Line Manager at VMware</h4>
 Learn how new capabilities in Fusion and Workstation ... <a href="MichaelR">See More</a>
 <br><br> 
 <a title="Add to Calendar" class="addeventatc" data-id="MZ5085491" href="https://www.addevent.com/event/MZ5085491" target="_blank" rel="nofollow">Add to Calendar</a>
@@ -222,9 +240,10 @@ Learn how new capabilities in Fusion and Workstation ... <a href="MichaelR">See 
 <hr/>
 
 <div class="session-wrapper">
-<h3> Session: CODE4216 </h3>
+<span class="left">Session: CODE4216</span><span class="right">Time: 1:00-1:30PM PDT</span>
+<br><br>
 <h3><a href="Chris">Exploring API-only Features of First Class Disks w/ Chris Arceneaux</a></h3>
-<h3>Time: 1:00-1:30PM PDT</h3>
+<h4 style="color:white">Presenter: <b>Chris Arceneaux</b>, Solutions Architect at Veeam Software</h4>
 Get an intro to First Class Disks / Improved Virtual Disks / Managed Virtual Disks... <a href="Chris">See More</a>
 <br><br> 
 <a title="Add to Calendar" class="addeventatc" data-id="TZ5085497" href="https://www.addevent.com/event/TZ5085497" target="_blank" rel="nofollow">Add to Calendar</a>
@@ -234,9 +253,10 @@ Get an intro to First Class Disks / Improved Virtual Disks / Managed Virtual Dis
 <hr/>
 
 <div class="session-wrapper">
-<h3> Session: CODE4217 </h3>
-<h3><a href="DavidS">Managing vSphere with Tanzu with a Custom PowerCLI Module w/ David Stamen</a></h3>
-<h3>Time: 2:00-2:30PM PDT</h3>
+<span class="left">Session: CODE4217</span><span class="right">Time: 2:00-2:30PM PDT</span>
+<br><br>
+<h3><a href="DavidS">Managing vSphere with Tanzu with a Custom PowerCLI Module</a></h3>
+<h4 style="color:white">Presenter: <b>David Stamen</b>, Field Solutions Architect at Pure Storage</h4>
 Learn how to leverage VMware PowerCLI to build your own PowerShell module to manage your VMware vSphere with Tanzu environment. <a href="DavidS">See More</a>
 <br><br> 
 <a title="Add to Calendar" class="addeventatc" data-id="lP5085502" href="https://www.addevent.com/event/lP5085502" target="_blank" rel="nofollow">Add to Calendar</a>
@@ -247,9 +267,10 @@ Learn how to leverage VMware PowerCLI to build your own PowerShell module to man
 <hr/>
 
 <div class="session-wrapper">
-<h3> Session: CODE4218 </h3>
-<h3><a href="Mark">Deep dive on Instrumenting your code for distributed tracing w/ Mark Foley</a></h3>
-<h3>Time: 3:00-4:00PM PDT</h3>
+<span class="left">Session: CODE4218</span><span class="right">Time: 3:00-4:00PM PDT</span>
+<br><br>
+<h3><a href="Mark">Deep dive on Instrumenting your code for distributed tracing</a></h3>
+<h4 style="color:white">Presenter: <b>Mark Foley</b>, Senior System Engineer at VMware</h4>
 In this session we’ll look what distributed tracing is and how it can help you manage performance and find bugs in your code. Topics covered will include... <a href="Mark">See More</a>
 <br><br> 
 <a title="Add to Calendar" class="addeventatc" data-id="lq5085504" href="https://www.addevent.com/event/lq5085504" target="_blank" rel="nofollow">Add to Calendar</a>
