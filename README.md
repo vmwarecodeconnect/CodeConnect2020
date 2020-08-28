@@ -76,7 +76,7 @@ With so many different resources and custom resources within a Kubernetes cluste
 <br>
 <br>
 <a title="Add to Calendar" class="addeventatc" data-id="GS5085426" href="https://www.addevent.com/event/GS5085426" target="_blank" rel="nofollow">Add to Calendar</a>
-	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> Add to calendar to register for this session</i>
+	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">This is smaller text.Add to calendar to register for this session></font></i>
 </div>
 <br>
 <hr/>
