@@ -90,7 +90,7 @@ Learn how to use HashiCorp Vault to manage secrets <a href="Sam">See More</a>
 <br>
 <br> 
 	<a title="Add to Calendar" class="addeventatc" data-id="by5085447" href="https://www.addevent.com/event/by5085447" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br>
 <hr/>
@@ -104,7 +104,7 @@ With the ever-increasing use of containerized applications, we see a significant
 <br>
 <br> 
 	<a title="Add to Calendar" class="addeventatc" data-id="jA5085462" href="https://www.addevent.com/event/jA5085462" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br>
 <hr/>
@@ -119,7 +119,7 @@ Kubernetes is quickly becoming the standard cloud API for deploying and managing
 <br>
 <br> 
 	<a title="Add to Calendar" class="addeventatc" data-id="Yh5085465" href="https://www.addevent.com/event/Yh5085465" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br> 
 <hr/>
@@ -133,7 +133,7 @@ Do you work with vSphere or VMware Cloud AWS and wish to automate a particular t
 <br>
 <br> 
 <a title="Add to Calendar" class="addeventatc" data-id="Qv5085467" href="https://www.addevent.com/event/Qv5085467" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 
 <br>
@@ -156,7 +156,7 @@ Click see more to download competition instructions: <a href="ScriptCompetition"
 <br>
 <br> 
 <a title="Add to Calendar" class="addeventatc" data-id="ML5085475" href="https://www.addevent.com/event/ML5085475" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br>
 <hr/>
@@ -194,7 +194,7 @@ Serverless is a paradigm for enabling development teams... <a href="Evan">See Mo
 <br>
 <br>
 <a title="Add to Calendar" class="addeventatc" data-id="ZL5085481" href="https://www.addevent.com/event/ZL5085481" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br> 
 <hr/>
@@ -208,7 +208,7 @@ Code is for everybody! As the world moves toward containers and Kubernetes... <a
 <br>
 <br> 
 <a title="Add to Calendar" class="addeventatc" data-id="Rs5085486" href="https://www.addevent.com/event/Rs5085486" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br>
 <hr/>
@@ -222,7 +222,7 @@ Learn how to automate the deployment of Tanzu Kubernetes Grid Clusters to...<a h
 <br>
 <br> 
 <a title="Add to Calendar" class="addeventatc" data-id="pH5085488" href="https://www.addevent.com/event/pH5085488" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br>
 <hr/>
@@ -235,7 +235,7 @@ Learn how to automate the deployment of Tanzu Kubernetes Grid Clusters to...<a h
 Learn how new capabilities in Fusion and Workstation ... <a href="MichaelR">See More</a>
 <br><br> 
 <a title="Add to Calendar" class="addeventatc" data-id="MZ5085491" href="https://www.addevent.com/event/MZ5085491" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br> 
 <hr/>
@@ -248,7 +248,7 @@ Learn how new capabilities in Fusion and Workstation ... <a href="MichaelR">See 
 Get an intro to First Class Disks / Improved Virtual Disks / Managed Virtual Disks... <a href="Chris">See More</a>
 <br><br> 
 <a title="Add to Calendar" class="addeventatc" data-id="TZ5085497" href="https://www.addevent.com/event/TZ5085497" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br> 
 <hr/>
@@ -261,7 +261,7 @@ Get an intro to First Class Disks / Improved Virtual Disks / Managed Virtual Dis
 Learn how to leverage VMware PowerCLI to build your own PowerShell module to manage your VMware vSphere with Tanzu environment. <a href="DavidS">See More</a>
 <br><br> 
 <a title="Add to Calendar" class="addeventatc" data-id="lP5085502" href="https://www.addevent.com/event/lP5085502" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br>
 
@@ -275,7 +275,7 @@ Learn how to leverage VMware PowerCLI to build your own PowerShell module to man
 In this session we’ll look what distributed tracing is and how it can help you manage performance and find bugs in your code. Topics covered will include... <a href="Mark">See More</a>
 <br><br> 
 <a title="Add to Calendar" class="addeventatc" data-id="lq5085504" href="https://www.addevent.com/event/lq5085504" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br> 
 <hr/>
@@ -293,7 +293,7 @@ In this session we’ll look what distributed tracing is and how it can help you
 To up your PowerCLI game, you ultimately can't avoid... <a href="Luc">See More</a>
 <br><br> 
 <a title="Add to Calendar" class="addeventatc" data-id="gO5085507" href="https://www.addevent.com/event/gO5085507" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br> 
 <hr/>
@@ -307,7 +307,7 @@ As a consultant I see a lot of our customers struggling with application packagi
 <br>
 <br> 
 <a title="Add to Calendar" class="addeventatc" data-id="Qb5085509" href="https://www.addevent.com/event/Qb5085509" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br>
 <hr/>
@@ -320,7 +320,7 @@ As a consultant I see a lot of our customers struggling with application packagi
 Virtual Session - Horizon Automation: From 101 to Deepdive will provide... <a href="Wouter">See More</a>
 <br><br> 
 <a title="Add to Calendar" class="addeventatc" data-id="qp5085512" href="https://www.addevent.com/event/qp5085512" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br> 
 <hr/>
@@ -333,7 +333,7 @@ Virtual Session - Horizon Automation: From 101 to Deepdive will provide... <a hr
 Learn how to use HashiCorp Vault to manage secrets for your vRealize Automation environment... <a href="Sam-Traditional">See More</a>
 <br><br>
 <a title="Add to Calendar" class="addeventatc" data-id="VM5085513" href="https://www.addevent.com/event/VM5085513" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br>
 <hr/>
@@ -347,7 +347,7 @@ Join me as I teach you how to migrate your PowerCLI scripts to run in vSphere...
 <br>
 <br> 
 	<a title="Add to Calendar" class="addeventatc" data-id="qy5085518" href="https://www.addevent.com/event/qy5085518" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br>
 <hr/>
@@ -361,7 +361,7 @@ Join us for a Power CLI Code on the Fly Session... <a href="Kyle">See More</a>
 <br>
 <br> 
 <a title="Add to Calendar" class="addeventatc" data-id="On5085521" href="https://www.addevent.com/event/On5085521" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br> 
 <hr/>
@@ -374,7 +374,7 @@ Join us for a Power CLI Code on the Fly Session... <a href="Kyle">See More</a>
 There are many tools and solutions for automating infrastructure, and the choices can... <a href="Jake">See More</a>
 <br><br> 
 <a title="Add to Calendar" class="addeventatc" data-id="OK5085523" href="https://www.addevent.com/event/OK5085523" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br> 
 <hr/>
@@ -388,7 +388,7 @@ Companies are being asked to do more with less and turning to automation to deli
 <br>
 <br> 
 	<a title="Add to Calendar" class="addeventatc" data-id="YC5085530" href="https://www.addevent.com/event/YC5085530" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br> 
 <hr/>
@@ -402,7 +402,7 @@ The traditional approach to IT automation has been to build out an... <a href="M
 <br>
 <br> 
 <a title="Add to Calendar" class="addeventatc" data-id="fu5085532" href="https://www.addevent.com/event/fu5085532" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br> 
 <hr/>
@@ -416,7 +416,7 @@ This would be a revised  session of a talk I gave at my local VMUG but would run
 <br>
 <br> 
 <a title="Add to Calendar" class="addeventatc" data-id="QY5085534" href="https://www.addevent.com/event/QY5085534" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br> 
 <hr/>
@@ -435,7 +435,7 @@ In this session, Johan van Amersfoort will present an introduction into Artifici
 <br>
 <br> 
 <a title="Add to Calendar" class="addeventatc" data-id="qj5085535" href="https://www.addevent.com/event/qj5085535" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br> 
 <hr/>
@@ -449,7 +449,7 @@ By the time of the Conference, I'll have completed my 100DaysOfCode challenge. I
 <br>
 <br> 
 <a title="Add to Calendar" class="addeventatc" data-id="hb5085538" href="https://www.addevent.com/event/hb5085538" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <hr/>
 <br> 
@@ -463,7 +463,7 @@ Effectively managing multi-cloud, multi level application environments can be tr
 <br>
 <br> 
 	<a title="Add to Calendar" class="addeventatc" data-id="kT5085540" href="https://www.addevent.com/event/kT5085540" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br>
 
@@ -478,7 +478,7 @@ End-to-end demonstration of how to build...<a href="Troy1">See More</a>
 <br>
 <br> 
 <a title="Add to Calendar" class="addeventatc" data-id="xR5085542" href="https://www.addevent.com/event/xR5085542" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br> 
 
@@ -518,7 +518,7 @@ Amazon CloudWatch is a monitoring and observability service provides you with da
 <br>
 <br> 
 <a title="Add to Calendar" class="addeventatc" data-id="ZN5088761" href="https://www.addevent.com/event/ZN5088761" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br>
 <hr/>
@@ -532,7 +532,7 @@ End-to-end demonstration of how to build and deploy a LAMP stack in vSphere and.
 <br>
 <br> 
 <a title="Add to Calendar" class="addeventatc" data-id="tb5085543" href="https://www.addevent.com/event/tb5085543" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br>
 <hr/>
@@ -546,7 +546,7 @@ Join Women Who Code, an international non-profit organization that provides serv
 <br>
 <br> 
 <a title="Add to Calendar" class="addeventatc" data-id="Li5085556" href="https://www.addevent.com/event/Li5085556" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br> 
 <hr/>
@@ -560,7 +560,7 @@ This is about showing everyone how quickly they can get up to speed with GitHub 
 <br>
 <br> 
 <a title="Add to Calendar" class="addeventatc" data-id="Dj5085561" href="https://www.addevent.com/event/Dj5085561" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br> 
 <hr/>
@@ -574,7 +574,7 @@ With the advent of IoT devices, it has become essential to utilize their data an
 <br>
 <br> 
 <a title="Add to Calendar" class="addeventatc" data-id="LI5088765" href="https://www.addevent.com/event/LI5088765" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br>
 <hr/>
