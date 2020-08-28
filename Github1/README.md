@@ -19,13 +19,14 @@ In this short presentation you'll learn why GitHub Actions have become the popul
 </div>
 
 <hr/>
-<img src="steve-winton.jpeg" alt="Steve Winton" width="25%" align="right">
+
+<img src="steve_winton.jpeg" alt="Steve Winton" width="25%" align="right">
     
 <p>Steve Winton is a seasoned developer, with a love for openness, transparency, and multi-disciplinary collaborations, seeking to positively impact the world through the craft of software and the adoption of Open Source development practices.</p>
 <br>
 <br> 
 
-<img src="jeremy-adams.jpeg" alt="Jeremy Adams" width="25%" align="right">
+<img src="jeremy_adams.jpeg" alt="Jeremy Adams" width="25%" align="right">
     
 <p>Jeremy Adams is the Senior Manager of Strategic Accounts. He is a senior technologist and strategist with a passion for people and entrepreneurship, integration and automation.</p>
 
