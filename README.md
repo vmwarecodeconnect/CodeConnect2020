@@ -1,5 +1,5 @@
 <style>
-body {background-image :url('https://d1ophd2rlqbanb.cloudfront.net/2020/images/home/bg-track-full.svg')}
+body {background-image:github-site-BG.png}
   section {width:800px!important;}
   .wrapper {margin-top:75px;}
   header {top:20px!important;}
