@@ -25,6 +25,12 @@ In this short presentation you'll learn why GitHub Actions have become the popul
 <p>Steve Winton is a seasoned developer, with a love for openness, transparency, and multi-disciplinary collaborations, seeking to positively impact the world through the craft of software and the adoption of Open Source development practices.</p>
 <br>
 <br> 
+<br>
+<br> 
+<br>
+<br> 
+<br>
+<br> 
 
 <img src="jeremy_adams.jpeg" alt="Jeremy Adams" width="25%" align="right">
     
