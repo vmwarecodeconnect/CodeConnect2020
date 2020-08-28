@@ -178,7 +178,8 @@ Click see more to download competition instructions: <a href="ScriptCompetition"
 How do you control what goes into your Kubernetes cluster? How... <a href="Cora">See More</a>
 <br>
 <br>
-<!--<INSERT CORA'S ADDEVENT HERE/>-->
+<a title="Add to Calendar" class="addeventatc" data-id="Dg5091898" href="https://www.addevent.com/event/Dg5091898" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 </div>
 <br> 
 <hr/>
