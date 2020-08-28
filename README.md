@@ -1,5 +1,5 @@
 <style>
-body {background-image:github-site-BG.png}
+body {background-image:url('github-site-BG.png')}
   section {width:800px!important;}
   .wrapper {margin-top:75px;}
   header {top:20px!important;}
