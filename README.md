@@ -255,7 +255,20 @@ Get an intro to First Class Disks / Improved Virtual Disks / Managed Virtual Dis
 <hr/>
 
 <div class="session-wrapper">
-<span class="left">Session: CODE4217</span><span class="right">Time: 2:00-2:30PM PDT</span>
+<span class="left">Session: CODE4217</span><span class="right">Time: 1:00-1:30PM PDT</span>
+<br><br>
+<h3><a href="Github1">GitHub: GitHub Actions CI/CD 101</a></h3>
+<h4 style="color:white">Presenters: <b>Steven Winton</b>, Staff Partner Engineer at GitHub & <b>Jeremy Adams</b>, Senior Manager of Strategic Accounts</h4>
+In this short presentation you'll learn why GitHub Actions have become the popular CI/CD technology... <a href="Github1">See More</a>
+<br><br> 
+<a title="Add to Calendar" class="addeventatc" data-id="lP5085502" href="https://www.addevent.com/event/lP5085502" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
+</div>
+<br> 
+<hr/>
+
+<div class="session-wrapper">
+<span class="left">Session: CODE4218</span><span class="right">Time: 2:00-2:30PM PDT</span>
 <br><br>
 <h3><a href="DavidS">Managing vSphere with Tanzu with a Custom PowerCLI Module</a></h3>
 <h4 style="color:white">Presenter: <b>David Stamen</b>, Field Solutions Architect at Pure Storage</h4>
@@ -269,7 +282,20 @@ Learn how to leverage VMware PowerCLI to build your own PowerShell module to man
 <hr/>
 
 <div class="session-wrapper">
-<span class="left">Session: CODE4218</span><span class="right">Time: 3:00-4:00PM PDT</span>
+<span class="left">Session: CODE4219</span><span class="right">Time: 2:30-3:00PM PDT</span>
+<br><br>
+<h3><a href="Github2">GitHub: GitHub Actions on Hybrid vSphere Deep Dive</a></h3>
+<h4 style="color:white">Presenters: <b>Steven Winton</b>, Staff Partner Engineer at GitHub & <b>Jeremy Adams</b>, Senior Manager of Strategic Accounts</h4>
+If you know the basics of GitHub Actions and vSphere administration, you'll get a lot out ... <a href="Github2">See More</a>
+<br><br> 
+<a title="Add to Calendar" class="addeventatc" data-id="Bq5092727" href="https://www.addevent.com/event/Bq5092727" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
+</div>
+<br> 
+<hr/>
+
+<div class="session-wrapper">
+<span class="left">Session: CODE4210</span><span class="right">Time: 3:00-4:00PM PDT</span>
 <br><br>
 <h3><a href="Mark">Deep dive on Instrumenting your code for distributed tracing</a></h3>
 <h4 style="color:white">Presenter: <b>Mark Foley</b>, Senior System Engineer at VMware</h4>
