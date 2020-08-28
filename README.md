@@ -1,5 +1,5 @@
 <style>
-body {background-image:url('github-site-BG.svg'); background-repeat: repeat-y; opacity:0.2;}
+body {background-image:url('github-site-BG.svg'); background-repeat: repeat-y; }
   section {width:800px!important;}
   .wrapper {margin-top:75px;}
   header {top:20px!important;}
