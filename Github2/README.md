@@ -27,6 +27,9 @@ If you know the basics of GitHub Actions and vSphere administration, you'll get 
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
 <img src="jeremy_adams.jpeg" alt="Jeremy Adams" width="25%" align="right">
     
