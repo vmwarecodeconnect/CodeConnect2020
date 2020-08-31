@@ -518,7 +518,10 @@ End-to-end demonstration of how to build...<a href="Troy1">See More</a>
 <h4 style="color:white">Presenter: <b>JJ Asghar</b>, Developer Advocate at IBM</h4>
 JJ will walk you through deploying a simple python ...<a href="JJ">See More</a>
 <br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br> 
+<a title="Add to Calendar" class="addeventatc" data-id="Rm5098378" href="https://www.addevent.com/event/Rm5098378" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+<br> 
 </div>
 <br>
 
@@ -531,7 +534,9 @@ Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
 <h4 style="color:white">Presenter: <b>Billy Korando</b>, Developer Advocate at IBM</h4>
 JUnit 5 is the latest version of the popular JUnit testing framework Java. JUnit 5, released in 2017, brought  ...<a href="Billy">See More</a>
 <br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br> 
+<a title="Add to Calendar" class="addeventatc" data-id="rY5098360" href="https://www.addevent.com/event/rY5098360" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br>
 <hr/>
