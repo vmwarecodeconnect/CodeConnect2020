@@ -15,7 +15,7 @@ In the everchanging automation world, VMware has standardized the automation of 
 <br><br> 
 <a title="Add to Calendar" class="addeventatc" data-id="Nf5098547" href="https://www.addevent.com/event/Nf5098547" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
-<br> t
+<br>
 </div>
 <br> 
 <hr/>
