@@ -69,6 +69,20 @@ Partners:
 <hr/>
 
 <div class="session-wrapper">
+<span class="left">Session: CODE4100</span><span class="right">Time: 9:00-9:30AM PDT</span>
+<br><br> 
+<h3><a href="Kit">Keynote Session</a></h3>
+<h4 style="color:white">Presenter: Kit Colbert, VP & CTO, Cloud Platform BU at VMware</h4>
+In the everchanging automation world, VMware has standardized the automation of Kubernetes by... <a href="Kit">See More</a>
+<br>
+<br>
+<a title="Add to Calendar" class="addeventatc" data-id="Nf5098547" href="https://www.addevent.com/event/Nf5098547" target="_blank" rel="nofollow">Add to Calendar</a>
+	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+</div>
+<br>
+<hr/>
+
+<div class="session-wrapper">
 <span class="left">Session: CODE4101</span><span class="right">Time: 9:30-10:00AM PDT</span>
 <br><br> 
 <h3><a href="Wayne">Octant - An open source platform for building Kubernetes UIs</a></h3>
