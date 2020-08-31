@@ -12,7 +12,10 @@
 JJ will walk you through deploying a simple python application to Kubernetes. We'll start from the ground up, then get a complete automated build. The goal is to enable your developers to focus on code not the infrastructure!
  
 <br>
-Zoom Link: <a href="vmware.zoom.us/jsdkfslf">vmware.zoom.us/jsdkfslf</a>
+<br> 
+<a title="Add to Calendar" class="addeventatc" data-id="Rm5098378" href="https://www.addevent.com/event/Rm5098378" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
+<br> 
 </div>
 
 
