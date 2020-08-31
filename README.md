@@ -255,7 +255,7 @@ Get an intro to First Class Disks / Improved Virtual Disks / Managed Virtual Dis
 <hr/>
 
 <div class="session-wrapper">
-<span class="left">Session: CODE4217</span><span class="right">Time: 1:00-1:30PM PDT</span>
+<span class="left">Session: CODE4217</span><span class="right">Time: 1:30-2:00PM PDT</span>
 <br><br>
 <h3><a href="Github1">GitHub: GitHub Actions CI/CD 101</a></h3>
 <h4 style="color:white">Presenters: <b>Steven Winton</b>, Staff Partner Engineer at GitHub & <b>Jeremy Adams</b>, Senior Manager of Strategic Accounts at GitHub</h4>
