@@ -8,7 +8,7 @@
 <hr/>
 
 ### **GitHub Actions to Automate Multi-Cloud Deployments w/ Joe Hughes**
-### **Time: 1:30-2:00PM PDT**
+### **Time: 3:00-3:30PM PDT**
 <div class="session-wrapper">
 This is about showing everyone how quickly they can get up to speed with GitHub Actions, to run their existing Terraform configurations for vSphere, VMC on AWS, or public cloud all within this CI/CD tool.
 <br><br>
