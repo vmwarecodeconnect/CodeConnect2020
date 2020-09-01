@@ -644,4 +644,15 @@ With the advent of IoT devices, it has become essential to utilize their data an
 ## Hackathon
 <hr/>
 
+<div class="session-wrapper">
+<h3><a href="Hackathon">Hackathon</a></h3>
+<a href="Hackathon">Click here for more details on the Hackathon format and awards</a>
+<br>
+<br> 
+<a title="Add to Calendar" class="addeventatc" data-id="hx5102175" href="https://www.addevent.com/event/hx5102175" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
+<i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+</div>
+<br>
+<hr/>
 
