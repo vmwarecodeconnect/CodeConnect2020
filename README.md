@@ -587,7 +587,7 @@ End-to-end demonstration of how to build and deploy a LAMP stack in vSphere and.
 <span class="left">Session: CODE4239</span><span class="right">Time: 2:00-2:30PM PDT</span>
 <br><br>
 <h3><a href="Kylie">A tour of tools for integrating Carbon Black Cloud into your Security Stack </a></h3>
-<h4 style="color:white">Presenter: <b>Kylie Ebringer</b>, Engineering Manager of VMWare Carbon Black Developer Relations</h4>
+<h4 style="color:white">Presenter: <b>Kylie Ebringer</b>, Engineering Manager of VMware Carbon Black Developer Relations</h4>
 In this talk, you will get a rundown of the available Developer Tools for the Carbon Black Cloud product suite...<a href="Kylie">See More</a>
 <br>
 <br> 
