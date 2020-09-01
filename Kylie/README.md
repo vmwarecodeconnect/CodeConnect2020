@@ -19,6 +19,6 @@ In this talk, you will get a rundown of the available Developer Tools for the Ca
 </div>
 
 <hr/>
-<img src="archana.jpeg" alt="Kylie Ebringer" width="25%" align="right">
+<img src="kylie.jpeg" alt="Kylie Ebringer" width="25%" align="right">
     
 <p>Kylie is the Engineering Manager of Developer Relations for VMWare Carbon Black. Prior to joining Carbon Black, Kylie worked in the Australian Government in several spooky roles including coordinating international project teams and as an information architect focusing on cyber security. Before moving to architecture and management roles, Kylie developed an expertise in data modeling and data warehouse implementation.</p>
