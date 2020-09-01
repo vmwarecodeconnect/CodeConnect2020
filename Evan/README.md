@@ -8,7 +8,7 @@
 <hr/>
 
 ### **Serverless on your own terms with Knative w/ Evan Anderson**
-### **Time: 9:00-9:30AM PDT**
+### **Time: 10:00-11:00AM PDT**
 <div class="session-wrapper">
 Serverless is a paradigm for enabling development teams to focus on delivering value without getting bogged down in implementation details. Kubernetes provides cross-platform infrastructure foundations to build a serverless environment, but is more of a "construction set" than a polished experience. Knative provides a serverless, event-driven runtime environment which runs on environments from your laptop or a Raspberry Pi to cloud providers or on-premises SDDC. Evan Anderson will provide an overview of the Knative components and tips on getting up and running with Knative as well as a tour of some of the more advanced features like traffic splitting and content-based routing.<br>
 <br> 
