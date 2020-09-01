@@ -258,7 +258,7 @@ Learn how new capabilities in Fusion and Workstation ... <a href="MichaelR">See 
 <div class="session-wrapper">
 <span class="left">Session: CODE4216</span><span class="right">Time: 1:00-1:30PM PDT</span>
 <br><br>
-<h3><a href="Chris">Exploring API-only Features of First Class Disks w/ Chris Arceneaux</a></h3>
+<h3><a href="Chris">Exploring API-only Features of First Class Disks</a></h3>
 <h4 style="color:white">Presenter: <b>Chris Arceneaux</b>, Solutions Architect at Veeam Software</h4>
 Get an intro to First Class Disks / Improved Virtual Disks / Managed Virtual Disks... <a href="Chris">See More</a>
 <br><br> 
