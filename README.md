@@ -584,7 +584,21 @@ End-to-end demonstration of how to build and deploy a LAMP stack in vSphere and.
 <hr/>
 
 <div class="session-wrapper">
-<span class="left">Session: CODE4239</span><span class="right">Time: 2:30-3:00PM PDT</span>
+<span class="left">Session: CODE4239</span><span class="right">Time: 2:00-2:30PM PDT</span>
+<br><br>
+<h3><a href="Kylie">A tour of tools for integrating Carbon Black Cloud into your Security Stack </a></h3>
+<h4 style="color:white">Presenter: <b>Kylie Ebringer</b>, Engineering Manager of VMWare Carbon Black Developer Relations</h4>
+In this talk, you will get a rundown of the available Developer Tools for the Carbon Black Cloud product suite...<a href="Kylie">See More</a>
+<br>
+<br> 
+<a title="Add to Calendar" class="addeventatc" data-id="Ew5102127" href="https://www.addevent.com/event/Ew5102127" target="_blank" rel="nofollow">Add to Calendar</a>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
+</div>
+<br>
+<hr/>
+
+<div class="session-wrapper">
+<span class="left">Session: CODE4230</span><span class="right">Time: 2:30-3:00PM PDT</span>
 <br><br>
 <h3><a href="WWC">Women Who Code Leaders Panel </a></h3>
 <h4 style="color:white">Moderator: <b>Joey Rosenberg</b>, Chief Leadership Officer at Women Who Code</h4>
@@ -598,7 +612,7 @@ Join Women Who Code, an international non-profit organization that provides serv
 <hr/>
 
 <div class="session-wrapper">
-<span class="left">Session: CODE4230</span><span class="right">Time: 3:00-3:30PM PDT</span>
+<span class="left">Session: CODE42311</span><span class="right">Time: 3:00-3:30PM PDT</span>
 <br><br>
 <h3><a href="Joe">GitHub Actions to Automate Multi-Cloud Deployments</a></h3>
 <h4 style="color:white">Moderator: <b>Joe Houghes</b>, Solutions Architect at Veeam Software</h4>
@@ -612,7 +626,7 @@ This is about showing everyone how quickly they can get up to speed with GitHub 
 <hr/>
 
 <div class="session-wrapper">
-<span class="left">Session: CODE4237</span><span class="right">Time: 3:30-4:00PM PDT</span>
+<span class="left">Session: CODE42312</span><span class="right">Time: 3:30-4:00PM PDT</span>
 <br><br>
 <h3><a href="Archana">TinyML for Solar Panels: Bringing Edge Computing Applications to Solar Energy Systems</a></h3>
 <h4 style="color:white">Presenter: <b>Archana Vaidheeswaran</b>, Fellow at Women Who Code</h4>
