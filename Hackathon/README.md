@@ -1,4 +1,5 @@
 <style>
+  body {background-image:url('github-site-BG.png'); background-repeat: repeat-y; }
   .wrapper {margin-top:75px;}
   header {top:20px!important;
   .session-wrapper{border:1px solid #36373b; border-radius:5px; padding:20px; background-color:##D3D3D3;}
@@ -38,6 +39,12 @@ Twitter handle: @mikeroySoft
 <img src="michael_roy.jpg" alt="Michael Roy" width="25%" align="left">
 In his own words, “By day I manage the VMware Fusion and Workstation product line, by night I am a cancan dancer.” Michael has been a part of the VMware family for over 10 years now and is Responsible for Product Management of VMware Desktop Hypervisor technology products including VMware Fusion, Workstation and Player. He focuses on developer productivity, Kubernetes, and cloud native application development.
 <br><br> 
+<br>
+<br>
+<br>
+<br>
+ <br>
+  
 <b>Justin Sider, Chief Information Officer, Belay Technologies</b><br>
 Twitter handle: @jpsider
 <br><br> 
