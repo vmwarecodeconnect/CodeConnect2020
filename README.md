@@ -29,27 +29,6 @@ body {background-image:url('github-site-BG.png'); background-repeat: repeat-y; }
 <div class="header-code"><img src="github-banner.jpg" class="header-banner"></div>
 <div class="header-code"><img src="welcome-banner.png" class="header-banner"></div>
 
-<table>
-  <tr>
-    <th>Time (PDT/GMT)</th>
-    <th>Oct 1</th>
-    <th>Oct 2 (Kubernetes/Tanzu Track)</th>
-		<th>Oct 2 (IT Automation Track)</th>
-		<th>Oct 2 (Community Track)</th> 
-  </tr>
-  <tr>
-    <td>9:00AM PDT/4:00PM GMT</td>
-    <td><a href="Kit">Keynote Session <br> <h4>Presenter: Kit Colbert<h4><a></td>
-  </tr>
-  <tr>
-    <td>9:30AM PDT/4:30PM GMT</td>
-    <td><a href="Wayne">Octant - An open source platform for building Kubernetes UIs<br><h4>Presenter: Wayne Witzel III<h4><a></td>
-		<td><a href="Cora">Writing a Kubernetes Validating Admission Controller<br><h4>Presenter: Cora Iberkleid<h4><a></td>
-		<td><a href="Luc"PowerCLI and the Art of the API<br><h4>Presenter: Luc Dekens<h4><a></td>
-		<td><a href="Johan"An introduction to AI/ML<br><h4>Presenter: Johan van Amersfoort<h4><a></td>
-  </tr>
-</table>
-
 <!--<img src="codeconlogo_light.png" class="lrg-logo"/>-->
 Partners:
 <div class="row">
