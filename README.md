@@ -63,7 +63,7 @@ Partners:
 
 <div class="session-wrapper">
 	<h2><a href="calendar">Sessions at a Glance</a></h2>
-	<h4>View our full calendar of sessions</h4> 
+	<h3 style="color:white">View our full calendar of sessions</h3> 
 </div>
 <br>
 <hr/>
