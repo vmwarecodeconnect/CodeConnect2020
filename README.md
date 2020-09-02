@@ -60,16 +60,15 @@ Partners:
     <td colspan="4" width="100%">Tracks: <a href="#kubernetes">Kubernetes</a>, <a href="#automation">IT Automation</a>, <a href="#community">Community</a></td>
   </tr>
   </table>
-  
-<hr/>
 
 <div class="session-wrapper">
 	<h2><a href="calendar">Sessions at a Glance</a></h2>
+	<h4>View our full calendar of sessions</h4> 
 </div>
 <br>
 <hr/>
 
-<br><br>
+<br>
 <a name="day1"></a>
 # Day 1 (10/1/20):
 <hr/>
