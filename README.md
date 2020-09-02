@@ -66,7 +66,6 @@ Partners:
 	<h2><a href="calendar">Sessions at a Glance</a></h2>
 	<h3 style="color:white">View our full calendar of sessions</h3> 
 </div>
-<br>
 <hr/>
 
 <br>
