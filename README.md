@@ -60,6 +60,7 @@ Partners:
     <td colspan="4" width="100%">Tracks: <a href="#kubernetes">Kubernetes</a>, <a href="#automation">IT Automation</a>, <a href="#community">Community</a></td>
   </tr>
   </table>
+<hr/>
 
 <div class="session-wrapper">
 	<h2><a href="calendar">Sessions at a Glance</a></h2>
