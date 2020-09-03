@@ -17,10 +17,10 @@ Unlike past years, we unfortunately cannot be together in the same room for one 
 
 <strong>Key Dates:</strong>
 
-<strong>• September 7th- Hackathon Registration Opens</strong>
-<strong>• September 20th- Captains are sent their teams</strong>
-<strong>• September 21st- October 2nd- Teams work on their projects</strong>
-<strong>• October 2nd- Project final presentations, judging and awards</strong>
+<strong>• September 7th- Hackathon Registration Opens</strong><br>
+<strong>• September 20th- Captains are sent their teams</strong><br>
+<strong>• September 21st- October 2nd- Teams work on their projects</strong><br>
+<strong>• October 2nd- Project final presentations, judging and awards</strong><br>
 
 <img class="alignnone wp-image-2303 size-large" src="http://blogs.vmware.com/code/files/2020/08/IMG_0093-1024x768.jpg" alt="" width="580" height="435" />
 
