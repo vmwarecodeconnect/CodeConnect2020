@@ -62,8 +62,8 @@ Partners:
   </table>
 <hr/>
 
-	<h2><a href="calendar">Agenda at a Glance</a></h2>
-	<h3 style="color:white">View our full calendar of sessions</h3> 
+<h2><a href="calendar">Agenda at a Glance</a></h2>
+<h3 style="color:white">View our full calendar of sessions</h3> 
 
 <hr/>
 
