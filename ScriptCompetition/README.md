@@ -1,3 +1,10 @@
+<style>
+  body {background-image:url('github-site-BG.png'); background-repeat: repeat-y; }
+  .wrapper {margin-top:75px;}
+  header {top:20px!important;
+  .session-wrapper{border:1px solid #36373b; border-radius:5px; padding:20px; background-color:##D3D3D3;}
+  
+</style>
 <a href="https://www.retouw.nl/wp-content/uploads/2020/08/Synatx-with-Logos_Black.png"><img class="aligncenter wp-image-2450 size-large" src="logocontrol.png" alt="" width="930" height="143" /></a>
 
 When the idea was pitched to the <a href="https://code.vmware.com/home">VMware{Code}</a> <a href="https://blogs.vmware.com/code/2020/03/25/introducing-vmware-code-coaches-2020/">Code Coaches</a> for a <a href="https://blogs.vmware.com/code/2020/08/20/vmware-code-connect-2020/">Code Connect</a> event I thought it would be fun to have a small scripting contest of the main Hackathon. Since I am employed by <a href="https://www.controlup.com/">ControlUp</a> the idea is to combine this with the script actions that are available in our very own Real-Time Console. I will show a bit later how this works but for me this functionality is super-cool and was on of the the main reasons I wanted to work with ControlUp.
