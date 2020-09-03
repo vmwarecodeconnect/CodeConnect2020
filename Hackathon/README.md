@@ -7,54 +7,51 @@
 </style>
 <hr/>
 
-### <h2>Hackathon<h2>
-</hr>
-<h3>It’s not a VMware {code} event if there isn’t a Hackathon! And this year will be no different. Our 5th annual Hackathon is right around the corner. On October 1 and 2nd, VMware {code} will be hosting a 2-day virtual, live, conference. You can read more about the conference here and register here.</h3>
-<br>
-Unlike past years, we unfortunately cannot be together in the same room for one of my favorite events so this year’s logistics will be a little different.
-<br><br> 
-<b>Don’t know how to code? Don’t worry, there’s something to do on every team regardless of skill level!</b>
-<br><br> 
-<hr/>
-<h3>Captains:</h3>
-<br>
-This year, we’re recruiting captains for the Hackathon. A captain will be responsible for providing the team’s hackathon idea. Their idea will be added to our registration page (to open on Sept 7th) so that prospective participants can choose the captain whose idea & time zone suits their needs best! On Sept 20, Captains will be mailed the list of team members who signed up for their idea and it’s their responsibility to set up teams calls over the next few weeks. On October 2nd the captain or one of their team members will present their work to our judges who will score projects and award prizes! Interested or know someone interested? Please fill out <a href="URLHERE">this google form</a>!
-<br><br>
-<b>PLEASE NOTE: As a thank you for being a captain, we may or may not be sending a “thank you” gift to captains who sign up 😉</b>
-<br><br>
-<b>Key Dates:</b>
-<br> 
-<ul>
-  <li> September 7th- Hackathon Registration Opens </li>
-  <li> September 20th- Captains are sent their teams </li>
-  <li> September 21st- October 2nd- Teams work on their projects </li>
-  <li> October 2nd- Project final presentations, judging and awards </li>
-</ul> 
-<hr/>
-<h3>Judges:</h3>
-<br>
-<b>Michael Roy, Product Line Marketing Manager, VMware Inc.</b><br>
+It’s not a VMware {code} event if there isn’t a Hackathon! And this year will be no different. Our 5th annual Hackathon is right around the corner. On October 1 and 2nd, VMware {code} will be hosting a 2-day virtual, live, conference. <a href="https://blogs.vmware.com/code/2020/08/20/vmware-code-connect-2020/">You can read more about the conference here</a> and <a href="https://code.vmware.com/home">register here.</a>
+
+Unlike past years, we unfortunately cannot be together in the same room for one of my favorite events so this year’s logistics will be a little different. You will register for a topic and select your country/time zone once registration opens and you and your teams will be notified on September 20th and be allowed to work together on your project until October 2nd, where you will have your chance to present your project at CodeConnect to our judges!
+
+<strong>Don’t know how to code? Don’t worry, there’s something to do on every team regardless of skill level!</strong>
+
+<img class="alignnone wp-image-2265 size-large" src="http://blogs.vmware.com/code/files/2020/08/VMworld_Monday_Hackathon_4349-1024x683.jpg" alt="" width="580" height="387" />
+
+<strong>Key Dates:</strong>
+
+<strong>• September 7th- Hackathon Registration Opens</strong>
+<strong>• September 20th- Captains are sent their teams</strong>
+<strong>• September 21st- October 2nd- Teams work on their projects</strong>
+<strong>• October 2nd- Project final presentations, judging and awards</strong>
+
+<img class="alignnone wp-image-2303 size-large" src="http://blogs.vmware.com/code/files/2020/08/IMG_0093-1024x768.jpg" alt="" width="580" height="435" />
+
+<strong>Judges:</strong>
+
+<strong>Michael Roy</strong>, <em>Product Line Marketing Manager, VMware Inc.</em>
+
 Twitter handle: @mikeroySoft
-<br><br> 
-<img src="michael_roy.jpg" alt="Michael Roy" width="25%" align="left">
-In his own words, “By day I manage the VMware Fusion and Workstation product line, by night I am a cancan dancer.” Michael has been a part of the VMware family for over 10 years now and is Responsible for Product Management of VMware Desktop Hypervisor technology products including VMware Fusion, Workstation and Player. He focuses on developer productivity, Kubernetes, and cloud native application development.
-<br><br> 
-<br>
-<br>
-<br>
-<br>
- <br>
-  
-<b>Justin Sider, Chief Information Officer, Belay Technologies</b><br>
+
+<img class="alignnone size-medium wp-image-1945" src="http://blogs.vmware.com/code/files/2020/03/mike_beardy_smile-170x170.jpg" alt="" />
+
+In his own words, “By day I manage the VMware Fusion and Workstation product line, by night I am a cancan dancer.” Michael has been a part of the VMware family for over 10 years now and is Responsible for Product Management of VMware Desktop Hypervisor technology products including VMware Fusion, Workstation and Player. He focuses on developer productivity, Kubernetes, and cloud native application development
+
+&nbsp;
+
+<strong>Justin Sider, </strong><em>Chief Information Officer, Belay Technologies</em>
+
 Twitter handle: @jpsider
-<br><br> 
-<img src="justin_sider.png" alt="Justin Sider" width="25%" align="left">
-Justin leads the development and implementation of a tool for his current company utilizing VMware, Google Cloud Platform, and Microsoft Azure for an automated provisioning & testing solution. He is a strong advocate for PowerShell and using it to automate as much as possible. Justin’s github repository and blog can be found here:
-<br>https://github.com/jpsider?tab=repositories  
-<br>https://invoke-automation.blog
-<br>In his free time Justin loves to play golf and travel!
-</hr>
-<h3>Summary:</h3>
+
+<img class="alignnone size-medium wp-image-1953" src="http://blogs.vmware.com/code/files/2020/03/sider_head-195x170.png" alt="" />
+
+Justin leads the development and implementation of a tool for his current company utilizing VMware, Google Cloud Platform, and Microsoft Azure for an automated provisioning &amp; testing solution. He is a strong advocate for PowerShell and using it to automate as much as possible. Justin’s github repository and blog can be found here:
+
+<a href="https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2Fjpsider%3Ftab%3Drepositories&amp;data=02%7C01%7Cskripa%40vmware.com%7C352439d27d0a4cdcb51608d7cf7cb2b0%7Cb39138ca3cee4b4aa4d6cd83d9dd62f0%7C0%7C0%7C637206006808881994&amp;sdata=BpbXvHPTg23XCdVPo5HmYe1YTcrAGGx4gpkB%2F2Hy8jE%3D&amp;reserved=0">https://github.com/jpsider?tab=repositories  </a>
+
+<a href="https://invoke-automation.blog/">https://invoke-automation.blog</a>
+
+In his free time Justin loves to play golf and travel!
+
+<strong>Summary:</strong>
+
 In the words of Kyle Ruddy: Please join us for one of the most interesting extra-curricular events at VMworld, the fourth fifth annual VMware Code Hackathon! It doesn’t matter what your skill level is, there’s a team for you, just come excited to learn and connect! If you have any comments or questions, let us know in the comments or in the #vmworld-hackathon channel that’s part of the VMware Code Slack group.
-<br><br>
-<b>Make sure you’ve registered for CodeConnect, we hope to see you there!</b> 
+
+Make sure you’ve registered for CodeConnect, we hope to see you there!
