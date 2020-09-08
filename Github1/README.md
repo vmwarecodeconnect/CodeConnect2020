@@ -7,7 +7,7 @@
 </style>
 <hr/>
 
-### **GitHub Actions CI/CD 101 w/ Steven Winton & Jeremy Adams**
+### **GitHub Actions CI/CD 101 w/ Steve Winton & Jeremy Adams**
 ### **Time: 1:30-2:00PM PDT**
 <div class="session-wrapper">
 In this short presentation you'll learn why GitHub Actions have become the popular CI/CD technology on top of GitHub by diving into the architecture and key use-cases around code quality, testing, security, package builds, and deployment to targets like VMs and Kubernetes. You'll walk away knowing how to run your first Actions workflow and where to go to get more Actions created by developer-focused companies and the huge community of developers who have adopted GitHub Actions.
