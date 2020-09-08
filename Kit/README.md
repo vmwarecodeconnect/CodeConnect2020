@@ -11,7 +11,7 @@
 ### **Time: 9:00-9:30AM PDT**
 <div class="session-wrapper">
 
-In the everchanging automation world, VMware has standardized the automation of Kubernetes by allowing you to automate like you always have. We're approaching Kubernetes from a vSphere automation perspective and embracing the merging of the two. At this keynote session, Kit Colbert will introduce our two-day live VMware {code} Connect conference and chat about the future of vSphere automation. Tune in for an exciting start to our conference! 
+In the everchanging automation world, VMware has standardized the automation of Kubernetes by allowing you to automate like you always have. We're approaching Kubernetes from a vSphere automation perspective, viewing Kubernetes as the consumption layer for vSphere and embracing the merging of two. He'll discuss some new announcements around SmartNIC and remind the audience of the importance of vSphere and its adjacent opportunities. At this keynote session, we're pleased to have Kit Colbert  introduce our two-day live VMware {code} Connect conference. Tune in for an exciting start to our conference! 
 
 <br><br> 
 <a title="Add to Calendar" class="addeventatc" data-id="Nf5098547" href="https://www.addevent.com/event/Nf5098547" target="_blank" rel="nofollow">Add to Calendar</a>
