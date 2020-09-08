@@ -20,4 +20,4 @@ Serverless is a paradigm for enabling development teams to focus on delivering v
 <hr/>
 <img src="evan.jpeg" alt="Evan Anderson" width="25%" align="right">
     
-<p>Evan Anderson is a Staff Software Engineer at VMware, Inc.</p>
+<p>Evan Anderson is a Staff Software Engineer at VMware, Inc. and a founding member of the <a href="https://knative.dev/">Knative Project</a>.</p>
