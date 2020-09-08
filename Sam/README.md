@@ -7,10 +7,10 @@
 </style>
 <hr/>
 
-### **Automating Secrets with HashiCorp Vault and vRealize Automation w/ Sam McGeown**
+### **Managing Application Upgrades in Kubernetes with Code Stream w/ Sam McGeown**
 ### **Time: 10:00-10:30AM PDT**
 <div class="session-wrapper">
-Learn how to use HashiCorp Vault to manage secrets for your vRealize Automation environment. I will demonstrate how to leverage response wrapping, cubbyholes, approles and policies to ensure your secrets stay that way!
+In this session I will demonstrate managing application upgrades using vRealize Automation’s pipelining tool, Code Stream, using strategies such as Canary and Blue/Green.
   
 <br>
 <br>
