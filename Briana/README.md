@@ -21,5 +21,6 @@ Effectively managing multi-cloud, multi level application environments can be tr
 <hr/>
 <img src="briana_augenreich.jpeg" alt="Briana Augenreich" width="25%" align="right">
     
-<p>Briana Augenreich is a Master Software Engineer at Capital One, and current Director of WWCode Richmond, that helped found the Network and grow it to over 600 members in less than a year. An avid problem solver that enjoys working with teams to overcome unique challenges, she is also an advocate for inclusion and diversity in tech that engages with the media to raise awareness and keep the community informed.
+<p>Bri is a determined and energetic software developer with a passion for engineering excellence and increasing diversity in technology. She wears many hats in the software development lifecycle but officially calls herself a backend and infrastructure engineer.  She has extensive experience delivering cloud native backend systems to service core enterprise functions and migrating legacy on-prem solutions to the cloud. She is currently a Master Software Engineer for Capital One and leads the Cloud and Python tracks for Women Who Code as a 2020 Leadership Fellow. 
+
 </p>
