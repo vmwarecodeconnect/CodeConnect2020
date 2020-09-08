@@ -7,7 +7,7 @@
 </style>
 <hr/>
 
-### **GitHub Actions on Hybrid vSphere Deep Dive w/ Steven Winton & Jeremy Adams**
+### **GitHub Actions on Hybrid vSphere Deep Dive w/ Steve Winton & Jeremy Adams**
 ### **Time: 2:30-3:00PM PDT**
 <div class="session-wrapper">
 If you know the basics of GitHub Actions and vSphere administration, you'll get a lot out of the deep dive session into getting GitHub Enterprise Server and GitHub Actions set up on vSphere. We'll hit on the nuances of hybrid cloud environments like the Azure VMware Solution (AVS) and VMware Cloud (VMC). We'll also discuss how to use automation to generate images for your Actions runners including customizing your runners with the tools your developers need. A perfect follow-on to our GitHub Actions 101 talk for the VI Admin with interest in developer automation
