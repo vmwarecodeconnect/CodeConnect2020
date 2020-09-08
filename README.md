@@ -103,9 +103,9 @@ With so many different resources and custom resources within a Kubernetes cluste
 <div class="session-wrapper">
 <span class="left">Session: CODE4102</span><span class="right">Time: 10:00-10:30AM PDT</span>
 <br><br> 
-<h3><a href="Sam">Automating Secrets with HashiCorp Vault and vRealize Automation</a></h3>
+<h3><a href="Sam">Managing Application Upgrades in Kubernetes with Code Stream</a></h3>
 <h4 style="color:white">Presenter: <b>Sam McGeown</b>, Senior Technical Marketing Manager at VMware</h4>
-Learn how to use HashiCorp Vault to manage secrets <a href="Sam">See More</a>
+In this session I will demonstrate managing application upgrades using <a href="Sam">See More</a>
 <br>
 <br> 
 	<a title="Add to Calendar" class="addeventatc" data-id="by5085447" href="https://www.addevent.com/event/by5085447" target="_blank" rel="nofollow">Add to Calendar</a>
