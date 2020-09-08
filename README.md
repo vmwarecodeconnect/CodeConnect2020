@@ -276,7 +276,7 @@ Get an intro to First Class Disks / Improved Virtual Disks / Managed Virtual Dis
 <span class="left">Session: CODE4217</span><span class="right">Time: 1:30-2:00PM PDT</span>
 <br><br>
 <h3><a href="Github1">GitHub: GitHub Actions CI/CD 101</a></h3>
-<h4 style="color:white">Presenters: <b>Steven Winton</b>, Staff Partner Engineer at GitHub & <b>Jeremy Adams</b>, Senior Manager of Strategic Accounts at GitHub</h4>
+<h4 style="color:white">Presenters: <b>Steve Winton</b>, Staff Partner Engineer at GitHub & <b>Jeremy Adams</b>, Senior Manager of Strategic Accounts at GitHub</h4>
 In this short presentation you'll learn why GitHub Actions have become the popular CI/CD technology... <a href="Github1">See More</a>
 <br><br> 
 <a title="Add to Calendar" class="addeventatc" data-id="lP5085502" href="https://www.addevent.com/event/lP5085502" target="_blank" rel="nofollow">Add to Calendar</a>
@@ -303,7 +303,7 @@ Learn how to leverage VMware PowerCLI to build your own PowerShell module to man
 <span class="left">Session: CODE4219</span><span class="right">Time: 2:30-3:00PM PDT</span>
 <br><br>
 <h3><a href="Github2">GitHub: GitHub Actions on Hybrid vSphere Deep Dive</a></h3>
-<h4 style="color:white">Presenters: <b>Steven Winton</b>, Staff Partner Engineer at GitHub & <b>Jeremy Adams</b>, Senior Manager of Strategic Accounts at GitHub</h4>
+<h4 style="color:white">Presenters: <b>Steve Winton</b>, Staff Partner Engineer at GitHub & <b>Jeremy Adams</b>, Senior Manager of Strategic Accounts at GitHub</h4>
 If you know the basics of GitHub Actions and vSphere administration, you'll get a lot out ... <a href="Github2">See More</a>
 <br><br> 
 <a title="Add to Calendar" class="addeventatc" data-id="Bq5092727" href="https://www.addevent.com/event/Bq5092727" target="_blank" rel="nofollow">Add to Calendar</a>
