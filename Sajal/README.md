@@ -26,7 +26,7 @@ This session will provide answers to all these questions. It will guide to what 
 <hr/>
 <img src="sajal_debnath.jpg" alt="Sajal Debnath" width="300" height="300" align="right">
     
-<p>Sajal Debnath is a highly certified Cloud computing technocrat with more than 12 years of experience in virtualized data center design, Cloud computing, and BC/DR solutions. He is an EMCISA, VCAP-DCD/DCA, VCAP-CID/CIA, RHCE 4/5/6, RHCVA, Openstack, and ITIL certified person. Sajal Debnath is presently associated with VMware India Pvt. Ltd. as a senior system engineer. Previously, he worked with France Telecom, Hewlett Packard, and many more in multiple roles. He is involved in prestigious Indian government projects, such as National Cloud, Digital Locker, and so on. You can find his book, "Mastering PowerCLI" on google books!</p>
+<p>Sajal Debnath is a highly certified Cloud computing professional with more than 17 years of experience in Cloud computing and related technologies. He is an EMCISA, VCIX-DCV/CMA, RHCE 4/5/6, RHCVA, Openstack, and ITIL certified person. Sajal Debnath is presently associated with VMware Inc. as Staff Architect for last 9 years. He has couple patents pending on Cloud Scale Storage and Storage file system. You can find his book, "Mastering PowerCLI" on google books!</p>
 
 
 
