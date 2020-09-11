@@ -1,12 +1,12 @@
 # vCenter Info
-$vcuser = "administrator"
-$vcpass = "VMware1!"
-$vcenter = "192.168.2.220"
+$vcuser = $env:vcuser #= "administrator"
+$vcpass = $env:vcpass #= "VMware1!"
+$vcenter = $env:vcenter #= "192.168.2.220"
 
 # Mail Info
-$username = "1ba94cf337ecbc"
-$pass = '6abf4561456fe0' 
-$smtpServer = "smtp.mailtrap.io"
+$smptuser = $env:smptuser #= "1ba94cf337ecbc"
+$smptpass = $env:smtppass #= '6abf4561456fe0' 
+$smptServer = $env:smtpServer #= "smtp.mailtrap.io"
 $Port = "587"
 
 # Just an FYI, never save passwords in plain text in scripts, this is just for a demo. :-D
@@ -42,10 +42,10 @@ do {
         $Subject = "Hey, VMware Code Connect! Email number: $Count"
 
         # Create a Credential Object
-        [securestring]$secStringPassword = ConvertTo-SecureString $pass -AsPlainText -Force
-        [pscredential]$credOject = New-Object System.Management.Automation.PSCredential ($userName, $secStringPassword)
+        [securestring]$secStringPassword = ConvertTo-SecureString $smptpass -AsPlainText -Force
+        [pscredential]$credOject = New-Object System.Management.Automation.PSCredential ($smptuser, $secStringPassword)
         # Send the Mail Message
-        Send-MailMessage -To 'whocares@mail.com' -From 'my@container.com'  -Subject "$Subject" -Body "$ReportHTML" -Credential $credOject -SmtpServer "$smtpServer" -Port "$Port"
+        Send-MailMessage -To 'whocares@mail.com' -From 'my@container.com'  -Subject "$Subject" -Body "$ReportHTML" -Credential $credOject -SmtpServer "$smptServer" -Port "$Port"
         
     } 
     Catch {

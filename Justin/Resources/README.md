@@ -1,12 +1,3 @@
-<style>
-  body {background-image:url('github-site-BG.png'); background-repeat: repeat-y; }
-  .wrapper {margin-top:75px;}
-  header {top:20px!important;
-  .session-wrapper{border:1px solid #36373b; border-radius:5px; padding:20px; background-color:##D3D3D3;}
-  
-</style>
-<hr/>
-
 ### **Administration Modernization: Building and Deploying Containers to vSphere Integrated Containers w/ Justin Sider**
 
 <div class="session-wrapper">
