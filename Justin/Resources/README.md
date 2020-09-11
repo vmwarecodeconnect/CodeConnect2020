@@ -13,8 +13,9 @@ Links from the PowerPoint
 <hr/>
 
 <p>
-Commands used:
-<br>
+
+## **Commands used**
+
 docker build . -t codeconnect01
 
 docker run -it codeconnect01
