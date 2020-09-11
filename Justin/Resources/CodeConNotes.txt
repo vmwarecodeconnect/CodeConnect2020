@@ -1,0 +1,17 @@
+https://vmware.github.io/vic-product/assets/files/html/1.5/
+https://docs.docker.com/registry/insecure/
+https://docs.docker.com/registry/insecure/#use-self-signed-certificates
+https://blog.mailtrap.io/powershell-send-email/
+
+
+
+
+docker build . -t codeconnect01
+
+docker run -it codeconnect01
+
+docker login 192.168.2.230
+
+docker tag codeconnect01 192.168.2.230/default-project/codeconnect01
+
+docker push 192.168.2.230/default-project/codeconnect01
