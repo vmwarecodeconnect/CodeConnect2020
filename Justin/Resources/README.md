@@ -18,7 +18,7 @@ Links from the PowerPoint
 
 docker build . -t codeconnect01
 
-docker run -it codeconnect01
+docker run -i codeconnect01
 
 docker login 192.168.2.230
 

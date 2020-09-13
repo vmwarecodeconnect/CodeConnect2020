@@ -1,0 +1,24 @@
+---
+name: "predemodocker02"
+components:
+  predemodocker02:
+    type: "App.Container"
+    data:
+      name: "predemodocker02"
+      image: "192.168.2.230:443/default-project/predemodocker02"
+      _cluster: 1
+      env:
+      - var: "vcuser"
+        value: "administrator"
+      - var: "vcpass"
+        value: "VMware1!"
+      - var: "vcenter"
+        value: "192.168.2.220"
+      - var: "smptuser"
+        value: "1ba94cf337ecbc"
+      - var: "smtppass"
+        value: "6abf4561456fe0"
+      - var: "smtpServer"
+        value: "smtp.mailtrap.io"
+      publish_all: true
+      restart_policy: "no"
