@@ -65,7 +65,6 @@ Partners:
 <h3 style="color:white">View our full calendar of sessions</h3> 
 <hr/>
 
-<hr/>
 <h2><a href="swag">Order VMware{code} Swag!</a></h2>
 <h3 style="color:white">Check out our conference shirt & VMware {code} hoodie</h3> 
 
