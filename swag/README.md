@@ -1,1 +1,1 @@
-<img src="code-conference-schedule.png" alt="Conference Schedule" width="800">
+<img src="swag.jpg" alt="Order VMware {code} Swag!" width="800">
