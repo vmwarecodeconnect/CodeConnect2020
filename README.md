@@ -213,7 +213,7 @@ How do you control what goes into your Kubernetes cluster? How... <a href="Cora"
 <br>
 <br>
 <a title="Add to Calendar" class="addeventatc" data-id="Dg5091898" href="https://www.addevent.com/event/Dg5091898" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br> 
 <hr/>
@@ -611,7 +611,7 @@ In this talk, you will get a rundown of the available Developer Tools for the Ca
 <br>
 <br> 
 <a title="Add to Calendar" class="addeventatc" data-id="Ew5102127" href="https://www.addevent.com/event/Ew5102127" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br>
 <hr/>
