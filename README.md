@@ -51,6 +51,7 @@ Partners:
 
 <table>
    <tr>
+     <td><a href="#Keynotes" width="33%">Keynotes</a></td>
      <td><a href="#day1" width="33%">Day 1 Sessions</a></td>
      <td><a href="#day2" width="33%">Day 2 Sessions</a></td>
      <td><a href="#ScriptCompetition" width="33%">Script Competition</a></td>
@@ -68,12 +69,9 @@ Partners:
 <h2><a href="swag">Order VMware{code} Swag!</a></h2>
 <h3 style="color:white">Check out our conference shirt & VMware {code} hoodie</h3> 
 
-
-
-<br>
-
 <hr/>
-
+<a name="Keynotes"></a>
+# Keynotes:
 <div class="session-wrapper">
 <span class="left">Session: CODE4100</span><span class="right">Time: 9:00-9:30AM PDT</span>
 <br><br> 
