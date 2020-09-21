@@ -93,7 +93,7 @@ In the everchanging automation world, VMware has standardized the automation of 
 <br><br> 
 <h3><a href="Pat">Day 2 Keynote Session</a></h3>
 <h4 style="color:white">Presenter: Pat Gelsinger, CEO, VMware Inc</h4>
-In the everchanging automation world, VMware has standardized the automation of Kubernetes by... <a href="Pat">See More</a>
+To kick off our second and final day of VMware {code} Connect, Pat will be chatting about the importance... <a href="Pat">See More</a>
 <br>
 <br>
 <a title="Add to Calendar" class="addeventatc" data-id="AN5220345" href="https://www.addevent.com/event/AN5220345" target="_blank" rel="nofollow">Add to Calendar</a>
