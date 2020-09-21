@@ -68,7 +68,7 @@ Partners:
 <h2><a href="swag">Order VMware{code} Swag!</a></h2>
 <h3 style="color:white">Check out our conference shirt & VMware {code} hoodie</h3> 
 
-<hr/>
+
 
 <br>
 
@@ -97,7 +97,7 @@ In the everchanging automation world, VMware has standardized the automation of 
 <br>
 <br>
 <a title="Add to Calendar" class="addeventatc" data-id="AN5220345" href="https://www.addevent.com/event/AN5220345" target="_blank" rel="nofollow">Add to Calendar</a>
-	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
+	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br>
 <hr/>
