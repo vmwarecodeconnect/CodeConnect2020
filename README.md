@@ -89,9 +89,9 @@ In the everchanging automation world, VMware has standardized the automation of 
 <div class="session-wrapper">
 <span class="left">Session: CODE4200</span><span class="right">Time: 9:00-9:30AM PDT</span>
 <br><br> 
-<h3><a href="Pat">Day 2 Keynote Session</a></h3>
-<h4 style="color:white">Presenter: Pat Gelsinger, CEO, VMware Inc</h4>
-To kick off our second and final day of VMware {code} Connect, Pat will be chatting about the importance... <a href="Pat">See More</a>
+<h3><a href="Pat2">Day 2 Keynote Session</a></h3>
+<h4 style="color:white">Presenter: tbd</h4>
+To kick off our second and final day of VMware {code} Connect, tbd will be chatting about the importance... <a href="Pat2">See More</a>
 <br>
 <br>
 <a title="Add to Calendar" class="addeventatc" data-id="AN5220345" href="https://www.addevent.com/event/AN5220345" target="_blank" rel="nofollow">Add to Calendar</a>
