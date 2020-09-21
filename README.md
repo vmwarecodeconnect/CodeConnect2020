@@ -282,8 +282,8 @@ Get an intro to First Class Disks / Improved Virtual Disks / Managed Virtual Dis
 <h4 style="color:white">Presenters: <b>Steve Winton</b>, Staff Partner Engineer at GitHub & <b>Jeremy Adams</b>, Senior Manager of Strategic Accounts at GitHub</h4>
 In this short presentation you'll learn why GitHub Actions have become the popular CI/CD technology... <a href="Github1">See More</a>
 <br><br> 
-<a title="Add to Calendar" class="addeventatc" data-id="lP5085502" href="https://www.addevent.com/event/lP5085502" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
+<a title="Add to Calendar" class="addeventatc" data-id="oJ5092723" href="https://www.addevent.com/event/oJ5092723" target="_blank" rel="nofollow">Add to Calendar</a>
+	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br> 
 <hr/>
@@ -296,7 +296,7 @@ In this short presentation you'll learn why GitHub Actions have become the popul
 Learn how to leverage VMware PowerCLI to build your own PowerShell module to manage your VMware vSphere with Tanzu environment. <a href="DavidS">See More</a>
 <br><br> 
 <a title="Add to Calendar" class="addeventatc" data-id="lP5085502" href="https://www.addevent.com/event/lP5085502" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br>
 
