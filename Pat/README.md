@@ -17,7 +17,6 @@ To kick off our second and final day of {code} Connect, Pat will be giving us an
 <br> 
 </div>
 <br>
-<br>
 <a title="Add to Calendar" class="addeventatc" data-id="AN5220345" href="https://www.addevent.com/event/AN5220345" target="_blank" rel="nofollow">Add to Calendar</a>
 	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 <br>
