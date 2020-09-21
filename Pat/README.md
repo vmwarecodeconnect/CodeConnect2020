@@ -16,8 +16,12 @@ To kick off our second and final day of {code} Connect, Pat will be chatting abo
 To kick off our second and final day of {code} Connect, Pat will be giving us an overview of the new vSphere and chatting about the importance of our developer community. He'll then open up the second half of his keynote to answer some Q&A from the audience. You don't want to miss this event! 
 <br> 
 </div>
-
-
+<br>
+<br>
+<a title="Add to Calendar" class="addeventatc" data-id="AN5220345" href="https://www.addevent.com/event/AN5220345" target="_blank" rel="nofollow">Add to Calendar</a>
+	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
+<br>
+<br>
 <hr/>
 <img src="pat-gelsinger.jpg" alt="Pat Gelsinger" width="25%" align="right">
     
