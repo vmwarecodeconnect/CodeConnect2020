@@ -310,7 +310,7 @@ Learn how to leverage VMware PowerCLI to build your own PowerShell module to man
 If you know the basics of GitHub Actions and vSphere administration, you'll get a lot out ... <a href="Github2">See More</a>
 <br><br> 
 <a title="Add to Calendar" class="addeventatc" data-id="Bq5092727" href="https://www.addevent.com/event/Bq5092727" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br> 
 <hr/>
