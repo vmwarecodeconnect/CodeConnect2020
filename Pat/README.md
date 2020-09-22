@@ -24,4 +24,4 @@ To kick off our second and final day of {code} Connect, Pat will be giving us an
 <hr/>
 <img src="pat-gelsinger.jpg" alt="Pat Gelsinger" width="25%" align="right">
     
-<p>Pat Gelsinger has been serving as CEO of VMware since September 2012, doubling the size of the company during his tenure. He brings over 40 years of technology and leadership experience. Before joining VMware, Gelsinger led EMC's Information Infrastructure Products business as president and COO. A respected IT industry veteran, he was at Intel for 30 years becoming the company’s first CTO and driving the creation of key industry technologies including USB and Wi-Fi.</p>
+<p>Pat Gelsinger has been serving as CEO of VMware since September 2012, doubling<br> the size of the company during his tenure. He brings over 40 years of technology and leadership experience. Before joining VMware, Gelsinger led EMC's Information Infrastructure Products business as president and COO. A respected IT industry veteran, he was at Intel for 30 years becoming the company’s first CTO and driving the creation of key industry technologies including USB and Wi-Fi.</p>
