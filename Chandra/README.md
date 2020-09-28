@@ -20,6 +20,6 @@ Amazon CloudWatch is a monitoring and observability service provides you with da
 </div>
 
 <hr/>
-<img src="chandra.jpg" alt="Chandra Avutu" width="25%" align="right">
+<img src="me.png" alt="Chandra Avutu" width="25%" align="right">
     
-<p>Chandra Avutu is a Sr. Specialist Solutions Architect at AWS.</p>
+<p>Chandra Avutu had worked as Staff engineer for VMware and his experience include vStorage API for storage awareness, software defined storage and distributed systems. Chandra had over twenty years of experience in system development include virtual center development from 2.0 onwards. Chandra worked on enterprise data protection systems development, open stack, VMware cloud on AWS cloud development teams. Chandra worked with CTO office people in developing software defined storage, and other projects at VMware to define storage API. In his current position at AWS Chandra work on VMware cloud on AWS.</p>
