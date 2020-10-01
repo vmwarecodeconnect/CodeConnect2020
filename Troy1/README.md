@@ -11,10 +11,10 @@
 ### **Time: 11:00-11:30AM PDT**
 <div class="session-wrapper">
 End-to-end demonstration of how to build Linux and Windows VM templates programmatically with Packer.
-
-* Code: [github.com/aws-samples/vmware-cloud-on-aws-packer-examples/](https://github.com/aws-samples/vmware-cloud-on-aws-packer-examples/)
-* Documentation: [aws-samples.github.io/vmware-cloud-on-aws-packer-examples/](https://aws-samples.github.io/vmware-cloud-on-aws-packer-examples/)
-
+<ul>
+<li>Code: <a href="https://github.com/aws-samples/vmware-cloud-on-aws-packer-examples/" target="_blank" rel="nofollow">github.com/aws-samples/vmware-cloud-on-aws-packer-examples/</a></li>
+<li>Documentation: <a href="https://aws-samples.github.io/vmware-cloud-on-aws-packer-examples/" target="_blank" rel="nofollow">aws-samples.github.io/vmware-cloud-on-aws-packer-examples/</a></li>
+</ul>
 <br>
 <br> 
 <a title="Add to Calendar" class="addeventatc" data-id="xR5085542" href="https://www.addevent.com/event/xR5085542" target="_blank" rel="nofollow">Add to Calendar</a>
