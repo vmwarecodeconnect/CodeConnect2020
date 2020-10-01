@@ -10,7 +10,7 @@
 ### **Building hybrid solutions with VMware, AWS, & Terraform w/ Troy Lindsay**
 ### **Time: 1:30-2:00PM PDT**
 <div class="session-wrapper">
-End-to-end demonstration of how to build and deploy a LAMP stack in vSphere and an AWS Storage Gateway VM + Amazon S3 bucket for storing backups using Terraform.
+End-to-end demonstration of how to build and deploy a MySQL Server VM in vSphere and an AWS Storage Gateway VM + Amazon S3 bucket for storing backups using Terraform.
 <br>
 <br> 
 <a title="Add to Calendar" class="addeventatc" data-id="tb5085543" href="https://www.addevent.com/event/tb5085543" target="_blank" rel="nofollow">Add to Calendar</a>
