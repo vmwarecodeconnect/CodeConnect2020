@@ -23,9 +23,9 @@ body {background-image:url('github-site-BG.png'); background-repeat: repeat-y; }
 	display:inline-block;
 	cursor:pointer;
 	color:#666666;
-	font-family:Arial;
+	font-family:Helvetica;
 	font-size:15px;
-	font-weight:bold;
+	font-weight:100;
 	padding:6px 24px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #ffffff;
