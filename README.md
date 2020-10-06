@@ -14,6 +14,30 @@ body {background-image:url('github-site-BG.png'); background-repeat: repeat-y; }
   width: 18%;
   padding: 5px;
 }
+.myButton {
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+	background-color:#ffffff;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
+	background-color:#f6f6f6;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
 
 .row::after {
   content: "";
@@ -82,7 +106,7 @@ In the everchanging automation world, VMware has standardized the automation of 
 <br>
 <!-- <a title="Add to Calendar" class="addeventatc" data-id="Nf5098547" href="https://www.addevent.com/event/Nf5098547" target="_blank" rel="nofollow">Add to Calendar</a>
 	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i> -->
-<a title="Add to Calendar" class="addeventatc" href="https://www.youtube.com/watch?v=flmowTgnaMs&list=PLnopqt07fPn2w8nCad1VeSnwhfsB9aMXZ&index=8&ab_channel=VMware%7Bcode%7D" target="_blank" rel="nofollow">Watch the recorded session</a>
+<a href="https://www.youtube.com/watch?v=flmowTgnaMs&list=PLnopqt07fPn2w8nCad1VeSnwhfsB9aMXZ&index=8&ab_channel=VMware%7Bcode%7D" class="myButton">Watch the recorded session</a>
 </div>
 <br>
 <hr/>
