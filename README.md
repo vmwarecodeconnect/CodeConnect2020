@@ -80,8 +80,9 @@ Partners:
 In the everchanging automation world, VMware has standardized the automation of Kubernetes by... <a href="Kit">See More</a>
 <br>
 <br>
-<a title="Add to Calendar" class="addeventatc" data-id="Nf5098547" href="https://www.addevent.com/event/Nf5098547" target="_blank" rel="nofollow">Add to Calendar</a>
-	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+<!-- <a title="Add to Calendar" class="addeventatc" data-id="Nf5098547" href="https://www.addevent.com/event/Nf5098547" target="_blank" rel="nofollow">Add to Calendar</a>
+	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i> -->
+<a title="Add to Calendar" class="addeventatc" href="https://www.youtube.com/watch?v=flmowTgnaMs&list=PLnopqt07fPn2w8nCad1VeSnwhfsB9aMXZ&index=8&ab_channel=VMware%7Bcode%7D" target="_blank" rel="nofollow">Watch the recorded session</a>
 </div>
 <br>
 <hr/>
@@ -109,8 +110,9 @@ To kick off our second and final day of VMware {code} Connect, Pat will be chatt
 With so many different resources and custom resources within a Kubernetes cluster... <a href="Wayne">See More</a>
 <br>
 <br>
+<!--
 <a title="Add to Calendar" class="addeventatc" data-id="GS5085426" href="https://www.addevent.com/event/GS5085426" target="_blank" rel="nofollow">Add to Calendar</a>
-	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i> -->
 </div>
 <br>
 <hr/>
