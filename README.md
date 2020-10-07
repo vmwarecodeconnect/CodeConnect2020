@@ -25,7 +25,7 @@ body {background-image:url('github-site-BG.png'); background-repeat: repeat-y; }
 	color:#666666;
 	font-family:Helvetica;
 	font-size:15px;
-	font-weight:100;
+	font-weight:normal;
 	padding:6px 24px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #ffffff;
@@ -119,11 +119,14 @@ In the everchanging automation world, VMware has standardized the automation of 
 To kick off our second and final day of VMware {code} Connect, Pat will be chatting about the importance... <a href="Pat">See More</a>
 <br>
 <br>
+<!--
 <a title="Add to Calendar" class="addeventatc" data-id="AN5220345" href="https://www.addevent.com/event/AN5220345" target="_blank" rel="nofollow">Add to Calendar</a>
 	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
 </div>
 <br>
 <hr/>
+
 <a name="day1"></a>
 # Day 1 (10/1/20):
 <div class="session-wrapper">
@@ -137,6 +140,7 @@ With so many different resources and custom resources within a Kubernetes cluste
 <!--
 <a title="Add to Calendar" class="addeventatc" data-id="GS5085426" href="https://www.addevent.com/event/GS5085426" target="_blank" rel="nofollow">Add to Calendar</a>
 	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i> -->
+<a href="https://www.youtube.com/watch?v=dnmF9syesYY&list=PLnopqt07fPn2w8nCad1VeSnwhfsB9aMXZ&index=19&ab_channel=VMware%7Bcode%7D" class="myButton">Watch the recorded session</a>
 </div>
 <br>
 <hr/>
@@ -149,8 +153,11 @@ With so many different resources and custom resources within a Kubernetes cluste
 In this session I will demonstrate managing application upgrades using <a href="Sam">See More</a>
 <br>
 <br> 
+<!--
 	<a title="Add to Calendar" class="addeventatc" data-id="by5085447" href="https://www.addevent.com/event/by5085447" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
+<a href="https://www.youtube.com/watch?v=PnooSVXwt2c&ab_channel=VMware%7Bcode%7D" class="myButton">Watch the recorded session</a>
 </div>
 <br>
 <hr/>
@@ -163,8 +170,11 @@ In this session I will demonstrate managing application upgrades using <a href="
 With the ever-increasing use of containerized applications, we see a significant proliferation of related technologies in modern datacenters...<a href="Sajal">See More</a>
 <br>
 <br> 
+<!--
 	<a title="Add to Calendar" class="addeventatc" data-id="jA5085462" href="https://www.addevent.com/event/jA5085462" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
+<a href="https://www.youtube.com/watch?v=E0iUdrXoQjs&ab_channel=VMware%7Bcode%7D" class="myButton">Watch the recorded session</a>
 </div>
 <br>
 <hr/>
@@ -177,9 +187,12 @@ With the ever-increasing use of containerized applications, we see a significant
 Kubernetes is quickly becoming the standard cloud API for deploying and managing modern workloads...
 <a href="MichaelG">See More</a>
 <br>
-<br> 
+<br>
+<!--
 	<a title="Add to Calendar" class="addeventatc" data-id="Yh5085465" href="https://www.addevent.com/event/Yh5085465" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
+<a href="https://www.youtube.com/watch?v=8Ex7ybi273g&ab_channel=VMware%7Bcode%7D" class="myButton">Watch the recorded session</a>
 </div>
 <br> 
 <hr/>
@@ -192,8 +205,11 @@ Kubernetes is quickly becoming the standard cloud API for deploying and managing
 Do you work with vSphere or VMware Cloud AWS and wish to automate a particular task that you have not been able to figure out? ... <a href="William">See More</a>
 <br>
 <br> 
+<!--
 <a title="Add to Calendar" class="addeventatc" data-id="Qv5085467" href="https://www.addevent.com/event/Qv5085467" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
+<a href="https://www.youtube.com/watch?v=bnDjW5wcRDo&t=8s&ab_channel=VMware%7Bcode%7D" class="myButton">Watch the recorded session</a>
 </div>
 
 <br>
@@ -215,8 +231,10 @@ Do you work with vSphere or VMware Cloud AWS and wish to automate a particular t
 Click see more to download competition instructions: <a href="ScriptCompetition">See More</a>
 <br>
 <br> 
+<!--
 <a title="Add to Calendar" class="addeventatc" data-id="ML5085475" href="https://www.addevent.com/event/ML5085475" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
 </div>
 <br>
 <hr/>
@@ -238,8 +256,10 @@ Click see more to download competition instructions: <a href="ScriptCompetition"
 How do you control what goes into your Kubernetes cluster? How... <a href="Cora">See More</a>
 <br>
 <br>
+<!--
 <a title="Add to Calendar" class="addeventatc" data-id="Dg5091898" href="https://www.addevent.com/event/Dg5091898" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
 </div>
 <br> 
 <hr/>
@@ -253,8 +273,11 @@ How do you control what goes into your Kubernetes cluster? How... <a href="Cora"
 Serverless is a paradigm for enabling development teams... <a href="Evan">See More</a>
 <br>
 <br>
+<!--
 <a title="Add to Calendar" class="addeventatc" data-id="ZL5085481" href="https://www.addevent.com/event/ZL5085481" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
+<a href="https://www.youtube.com/watch?v=1sMu_bmio2A&t=51s&ab_channel=VMware%7Bcode%7D" class="myButton">Watch the recorded session</a>
 </div>
 <br> 
 <hr/>
@@ -267,8 +290,11 @@ Serverless is a paradigm for enabling development teams... <a href="Evan">See Mo
 Code is for everybody! As the world moves toward containers and Kubernetes... <a href="Patrick">See More</a>
 <br>
 <br> 
+<!--
 <a title="Add to Calendar" class="addeventatc" data-id="Rs5085486" href="https://www.addevent.com/event/Rs5085486" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
+<a href="https://www.youtube.com/watch?v=xkTta5oDVl4&ab_channel=VMware%7Bcode%7D" class="myButton">Watch the recorded session</a>
 </div>
 <br>
 <hr/>
@@ -281,8 +307,11 @@ Code is for everybody! As the world moves toward containers and Kubernetes... <a
 Learn how to automate the deployment of Tanzu Kubernetes Grid Clusters to...<a href="Sam-Tanzu">See More</a>
 <br>
 <br> 
+<!--
 <a title="Add to Calendar" class="addeventatc" data-id="pH5085488" href="https://www.addevent.com/event/pH5085488" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
+<a href="https://www.youtube.com/watch?v=uN-4Qje25x8&ab_channel=VMware%7Bcode%7D" class="myButton">Watch the recorded session</a>
 </div>
 <br>
 <hr/>
@@ -294,8 +323,10 @@ Learn how to automate the deployment of Tanzu Kubernetes Grid Clusters to...<a h
 <h4 style="color:white">Presenter: <b>Michael Roy</b>, Product Line Manager at VMware</h4>
 Learn how new capabilities in Fusion and Workstation ... <a href="MichaelR">See More</a>
 <br><br> 
+<!--
 <a title="Add to Calendar" class="addeventatc" data-id="MZ5085491" href="https://www.addevent.com/event/MZ5085491" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
 </div>
 <br> 
 <hr/>
@@ -307,8 +338,11 @@ Learn how new capabilities in Fusion and Workstation ... <a href="MichaelR">See 
 <h4 style="color:white">Presenter: <b>Chris Arceneaux</b>, Solutions Architect at Veeam Software</h4>
 Get an intro to First Class Disks / Improved Virtual Disks / Managed Virtual Disks... <a href="Chris">See More</a>
 <br><br> 
+<!--
 <a title="Add to Calendar" class="addeventatc" data-id="TZ5085497" href="https://www.addevent.com/event/TZ5085497" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
+<a href="https://www.youtube.com/watch?v=kFtAnF6BzN4&t=10s&ab_channel=VMware%7Bcode%7D" class="myButton">Watch the recorded session</a>
 </div>
 <br> 
 <hr/>
@@ -320,8 +354,10 @@ Get an intro to First Class Disks / Improved Virtual Disks / Managed Virtual Dis
 <h4 style="color:white">Presenters: <b>Steve Winton</b>, Staff Partner Engineer at GitHub & <b>Jeremy Adams</b>, Senior Manager of Strategic Accounts at GitHub</h4>
 In this short presentation you'll learn why GitHub Actions have become the popular CI/CD technology... <a href="Github1">See More</a>
 <br><br> 
+<!--
 <a title="Add to Calendar" class="addeventatc" data-id="oJ5092723" href="https://www.addevent.com/event/oJ5092723" target="_blank" rel="nofollow">Add to Calendar</a>
 	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
 </div>
 <br> 
 <hr/>
@@ -333,8 +369,10 @@ In this short presentation you'll learn why GitHub Actions have become the popul
 <h4 style="color:white">Presenter: <b>David Stamen</b>, Field Solutions Architect at Pure Storage</h4>
 Learn how to leverage VMware PowerCLI to build your own PowerShell module to manage your VMware vSphere with Tanzu environment. <a href="DavidS">See More</a>
 <br><br> 
+<!--
 <a title="Add to Calendar" class="addeventatc" data-id="lP5085502" href="https://www.addevent.com/event/lP5085502" target="_blank" rel="nofollow">Add to Calendar</a>
 	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
 </div>
 <br>
 
@@ -347,8 +385,11 @@ Learn how to leverage VMware PowerCLI to build your own PowerShell module to man
 <h4 style="color:white">Presenters: <b>Steve Winton</b>, Staff Partner Engineer at GitHub & <b>Jeremy Adams</b>, Senior Manager of Strategic Accounts at GitHub</h4>
 If you know the basics of GitHub Actions and vSphere administration, you'll get a lot out ... <a href="Github2">See More</a>
 <br><br> 
+<!--
 <a title="Add to Calendar" class="addeventatc" data-id="Bq5092727" href="https://www.addevent.com/event/Bq5092727" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
+<a href="https://www.youtube.com/watch?v=AQSMGfMu_WY&ab_channel=VMware%7Bcode%7D" class="myButton">Watch the recorded session</a>
 </div>
 <br> 
 <hr/>
@@ -360,8 +401,10 @@ If you know the basics of GitHub Actions and vSphere administration, you'll get 
 <h4 style="color:white">Presenter: <b>Mark Foley</b>, Senior System Engineer at VMware</h4>
 In this session we’ll look what distributed tracing is and how it can help you manage performance and find bugs in your code. Topics covered will include... <a href="Mark">See More</a>
 <br><br> 
+<!--
 <a title="Add to Calendar" class="addeventatc" data-id="lq5085504" href="https://www.addevent.com/event/lq5085504" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
 </div>
 <br> 
 <hr/>
@@ -378,8 +421,10 @@ In this session we’ll look what distributed tracing is and how it can help you
 <h4 style="color:white">Presenter: <b>Luc Dekens</b>, Former Systems Engineer at Eurocontrol</h4>
 To up your PowerCLI game, you ultimately can't avoid... <a href="Luc">See More</a>
 <br><br> 
+<!--
 <a title="Add to Calendar" class="addeventatc" data-id="gO5085507" href="https://www.addevent.com/event/gO5085507" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
 </div>
 <br> 
 <hr/>
@@ -392,8 +437,11 @@ To up your PowerCLI game, you ultimately can't avoid... <a href="Luc">See More</
 As a consultant I see a lot of our customers struggling with application packaging for their VDI environment... <a href="Sidney">See More</a>
 <br>
 <br> 
+<!--
 <a title="Add to Calendar" class="addeventatc" data-id="Qb5085509" href="https://www.addevent.com/event/Qb5085509" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
+<a href="https://www.youtube.com/watch?v=NbERAIkky-s&ab_channel=VMware%7Bcode%7D" class="myButton">Watch the recorded session</a>
 </div>
 <br>
 <hr/>
@@ -405,8 +453,10 @@ As a consultant I see a lot of our customers struggling with application packagi
 <h4 style="color:white">Presenter: <b>Wouter Kursten</b>, Professional Services Engineer at ControlUp</h4>
 Virtual Session - Horizon Automation: From 101 to Deepdive will provide... <a href="Wouter">See More</a>
 <br><br> 
+<!--
 <a title="Add to Calendar" class="addeventatc" data-id="qp5085512" href="https://www.addevent.com/event/qp5085512" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
 </div>
 <br> 
 <hr/>
@@ -418,8 +468,11 @@ Virtual Session - Horizon Automation: From 101 to Deepdive will provide... <a hr
 <h4 style="color:white">Presenter: <b>Sam McGeown</b>, Senior Technical Marketing Manager at VMware</h4>
 Learn how to use HashiCorp Vault to manage secrets for your vRealize Automation environment... <a href="Sam-Traditional">See More</a>
 <br><br>
+<!--
 <a title="Add to Calendar" class="addeventatc" data-id="VM5085513" href="https://www.addevent.com/event/VM5085513" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
+<a href="https://www.youtube.com/watch?v=srY3vJVZU1s&ab_channel=VMware%7Bcode%7D" class="myButton">Watch the recorded session</a>
 </div>
 <br>
 <hr/>
@@ -432,8 +485,11 @@ Learn how to use HashiCorp Vault to manage secrets for your vRealize Automation 
 Join me as I teach you how to migrate your PowerCLI scripts to run in vSphere... <a href="Justin">See More</a>
 <br>
 <br> 
+<!--
 	<a title="Add to Calendar" class="addeventatc" data-id="qy5085518" href="https://www.addevent.com/event/qy5085518" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
+<a href="https://www.youtube.com/watch?v=fzajt1Sxhpw&ab_channel=VMware%7Bcode%7D" class="myButton">Watch the recorded session</a>
 </div>
 <br>
 <hr/>
@@ -446,8 +502,10 @@ Join me as I teach you how to migrate your PowerCLI scripts to run in vSphere...
 Join us for a Power CLI Code on the Fly Session... <a href="Kyle">See More</a>
 <br>
 <br> 
+<!--
 <a title="Add to Calendar" class="addeventatc" data-id="On5085521" href="https://www.addevent.com/event/On5085521" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
 </div>
 <br> 
 <hr/>
@@ -459,8 +517,10 @@ Join us for a Power CLI Code on the Fly Session... <a href="Kyle">See More</a>
 <h4 style="color:white">Presenter: <b>Jake Robinson</b>, Senior Product Manager at VMware</h4>
 There are many tools and solutions for automating infrastructure, and the choices can... <a href="Jake">See More</a>
 <br><br> 
+<!--
 <a title="Add to Calendar" class="addeventatc" data-id="OK5085523" href="https://www.addevent.com/event/OK5085523" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
 </div>
 <br> 
 <hr/>
@@ -473,8 +533,10 @@ There are many tools and solutions for automating infrastructure, and the choice
 Companies are being asked to do more with less and turning to automation to deliver on those requests... <a href="AJ">See More</a>
 <br>
 <br> 
+<!--
 	<a title="Add to Calendar" class="addeventatc" data-id="YC5085530" href="https://www.addevent.com/event/YC5085530" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
 </div>
 <br> 
 <hr/>
@@ -487,8 +549,10 @@ Companies are being asked to do more with less and turning to automation to deli
 The traditional approach to IT automation has been to build out an... <a href="Mike">See More</a>
 <br>
 <br> 
+<!--
 <a title="Add to Calendar" class="addeventatc" data-id="fu5085532" href="https://www.addevent.com/event/fu5085532" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
 </div>
 <br> 
 <hr/>
@@ -501,8 +565,11 @@ The traditional approach to IT automation has been to build out an... <a href="M
 This would be a revised  session of a talk I gave at my local VMUG but would run through more VMware focused testing using Pester. ... <a href="Bill">See More</a>
 <br>
 <br> 
+<!--
 <a title="Add to Calendar" class="addeventatc" data-id="QY5085534" href="https://www.addevent.com/event/QY5085534" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
+<a href="https://www.youtube.com/watch?v=ZUNNa1t7bPM&ab_channel=VMware%7Bcode%7D" class="myButton">Watch the recorded session</a>
 </div>
 <br> 
 <hr/>
@@ -520,8 +587,10 @@ This would be a revised  session of a talk I gave at my local VMUG but would run
 In this session, Johan van Amersfoort will present an introduction into Artificial Intelligence, Machine Learning and Deep Learning...<a href="Johan">See More</a>
 <br>
 <br> 
+<!--
 <a title="Add to Calendar" class="addeventatc" data-id="qj5085535" href="https://www.addevent.com/event/qj5085535" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
 </div>
 <br> 
 <hr/>
@@ -534,8 +603,11 @@ In this session, Johan van Amersfoort will present an introduction into Artifici
 By the time of the Conference, I'll have completed my 100DaysOfCode challenge. I would like to share... <a href="Ivaylo">See More</a>
 <br>
 <br> 
+<!--
 <a title="Add to Calendar" class="addeventatc" data-id="hb5085538" href="https://www.addevent.com/event/hb5085538" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
+<a href="https://www.youtube.com/watch?v=2lqi4IZO6RA&ab_channel=VMware%7Bcode%7D" class="myButton">Watch the recorded session</a>
 </div>
 <hr/>
 <br> 
@@ -547,9 +619,11 @@ By the time of the Conference, I'll have completed my 100DaysOfCode challenge. I
 <h4 style="color:white">Presenter: <b>Briana Augenreich</b>, Master Software Engineer at Capital One</h4>
 Effectively managing multi-cloud, multi level application environments can be tricky...<a href="Briana">See More</a>
 <br>
-<br> 
+<br>
+<!--
 	<a title="Add to Calendar" class="addeventatc" data-id="kT5085540" href="https://www.addevent.com/event/kT5085540" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
 </div>
 <br>
 
@@ -563,8 +637,10 @@ Effectively managing multi-cloud, multi level application environments can be tr
 End-to-end demonstration of how to build...<a href="Troy1">See More</a>
 <br>
 <br> 
+<!--
 <a title="Add to Calendar" class="addeventatc" data-id="xR5085542" href="https://www.addevent.com/event/xR5085542" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
 </div>
 <br> 
 
@@ -578,8 +654,11 @@ End-to-end demonstration of how to build...<a href="Troy1">See More</a>
 JJ will walk you through deploying a simple python ...<a href="JJ">See More</a>
 <br>
 <br> 
+<!--
 <a title="Add to Calendar" class="addeventatc" data-id="Rm5098378" href="https://www.addevent.com/event/Rm5098378" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
+<a href="https://www.youtube.com/watch?v=aBzJ6wrE6xA&t=42s&ab_channel=VMware%7Bcode%7D" class="myButton">Watch the recorded session</a>
 <br> 
 </div>
 <br>
@@ -594,8 +673,10 @@ JJ will walk you through deploying a simple python ...<a href="JJ">See More</a>
 JUnit 5 is the latest version of the popular JUnit testing framework Java. JUnit 5, released in 2017, brought  ...<a href="Billy">See More</a>
 <br>
 <br> 
+<!--
 <a title="Add to Calendar" class="addeventatc" data-id="rY5098360" href="https://www.addevent.com/event/rY5098360" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
 </div>
 <br>
 <hr/>
@@ -608,8 +689,10 @@ JUnit 5 is the latest version of the popular JUnit testing framework Java. JUnit
 Amazon CloudWatch is a monitoring and observability service provides you with data and actionable insights to...<a href="Chandra">See More</a>
 <br>
 <br> 
+<!--
 <a title="Add to Calendar" class="addeventatc" data-id="ZN5088761" href="https://www.addevent.com/event/ZN5088761" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
 </div>
 <br>
 <hr/>
@@ -622,8 +705,10 @@ Amazon CloudWatch is a monitoring and observability service provides you with da
 End-to-end demonstration of how to build and deploy a LAMP stack in vSphere and...<a href="Troy2">See More</a>
 <br>
 <br> 
+<!--
 <a title="Add to Calendar" class="addeventatc" data-id="tb5085543" href="https://www.addevent.com/event/tb5085543" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
 </div>
 <br>
 <hr/>
@@ -636,8 +721,10 @@ End-to-end demonstration of how to build and deploy a LAMP stack in vSphere and.
 In this talk, you will get a rundown of the available Developer Tools for the Carbon Black Cloud product suite...<a href="Kylie">See More</a>
 <br>
 <br> 
+<!--
 <a title="Add to Calendar" class="addeventatc" data-id="Ew5102127" href="https://www.addevent.com/event/Ew5102127" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
 </div>
 <br>
 <hr/>
@@ -650,8 +737,10 @@ In this talk, you will get a rundown of the available Developer Tools for the Ca
 Join Women Who Code, an international non-profit organization that provides services for women pursuing technology careers and a job board for companies seeking coding professionals....<a href="WWC">See More</a>
 <br>
 <br> 
+<!--
 <a title="Add to Calendar" class="addeventatc" data-id="Li5085556" href="https://www.addevent.com/event/Li5085556" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
 </div>
 <br> 
 <hr/>
@@ -664,8 +753,11 @@ Join Women Who Code, an international non-profit organization that provides serv
 This is about showing everyone how quickly they can get up to speed with GitHub Actions...<a href="Joe">See More</a>
 <br>
 <br> 
+<!--
 <a title="Add to Calendar" class="addeventatc" data-id="Dj5085561" href="https://www.addevent.com/event/Dj5085561" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
+<a href="https://www.youtube.com/watch?v=tPJoN_QLMTc&ab_channel=VMware%7Bcode%7D" class="myButton">Watch the recorded session</a>
 </div>
 <br> 
 <hr/>
@@ -678,8 +770,10 @@ This is about showing everyone how quickly they can get up to speed with GitHub 
 With the advent of IoT devices, it has become essential to utilize their data and run inference on the edge...<a href="Archana">See More</a>
 <br>
 <br> 
+<!--
 <a title="Add to Calendar" class="addeventatc" data-id="LI5088765" href="https://www.addevent.com/event/LI5088765" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
+-->
 </div>
 <br>
 <hr/>
@@ -697,9 +791,6 @@ With the advent of IoT devices, it has become essential to utilize their data an
 <a href="Registration">Click here to register for the Hackathon</a>
 <br>
 <br> 
-<a title="Add to Calendar" class="addeventatc" data-id="hx5102175" href="https://www.addevent.com/event/hx5102175" target="_blank" rel="nofollow">Add to Calendar</a>
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
-<i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 </div>
 <br>
 <hr/>
