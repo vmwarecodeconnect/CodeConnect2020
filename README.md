@@ -260,6 +260,7 @@ How do you control what goes into your Kubernetes cluster? How... <a href="Cora"
 <a title="Add to Calendar" class="addeventatc" data-id="Dg5091898" href="https://www.addevent.com/event/Dg5091898" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 -->
+<a href="https://youtu.be/RFQ30mhdf3c" class="myButton">Watch the recorded session</a>
 </div>
 <br> 
 <hr/>
@@ -373,6 +374,7 @@ Learn how to leverage VMware PowerCLI to build your own PowerShell module to man
 <a title="Add to Calendar" class="addeventatc" data-id="lP5085502" href="https://www.addevent.com/event/lP5085502" target="_blank" rel="nofollow">Add to Calendar</a>
 	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 -->
+<a href="https://youtu.be/GiifLsw14Mo" class="myButton">Watch the recorded session</a>
 </div>
 <br>
 
@@ -425,6 +427,7 @@ To up your PowerCLI game, you ultimately can't avoid... <a href="Luc">See More</
 <a title="Add to Calendar" class="addeventatc" data-id="gO5085507" href="https://www.addevent.com/event/gO5085507" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 -->
+<a href="https://youtu.be/LR85ei4PLZM" class="myButton">Watch the recorded session</a>
 </div>
 <br> 
 <hr/>
@@ -457,6 +460,7 @@ Virtual Session - Horizon Automation: From 101 to Deepdive will provide... <a hr
 <a title="Add to Calendar" class="addeventatc" data-id="qp5085512" href="https://www.addevent.com/event/qp5085512" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 -->
+<a href="https://youtu.be/s3dv4wXZt2E" class="myButton">Watch the recorded session</a>
 </div>
 <br> 
 <hr/>
@@ -521,6 +525,7 @@ There are many tools and solutions for automating infrastructure, and the choice
 <a title="Add to Calendar" class="addeventatc" data-id="OK5085523" href="https://www.addevent.com/event/OK5085523" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 -->
+<a href="https://youtu.be/llOe2-CLuD0" class="myButton">Watch the recorded session</a>
 </div>
 <br> 
 <hr/>
@@ -641,6 +646,7 @@ End-to-end demonstration of how to build...<a href="Troy1">See More</a>
 <a title="Add to Calendar" class="addeventatc" data-id="xR5085542" href="https://www.addevent.com/event/xR5085542" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 -->
+<a href="https://youtu.be/mO0oeCAjeO8" class="myButton">Watch the recorded session</a>
 </div>
 <br> 
 
@@ -709,6 +715,7 @@ End-to-end demonstration of how to build and deploy a LAMP stack in vSphere and.
 <a title="Add to Calendar" class="addeventatc" data-id="tb5085543" href="https://www.addevent.com/event/tb5085543" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
 -->
+<a href="https://youtu.be/fxRMV80_DTE" class="myButton">Watch the recorded session</a>
 </div>
 <br>
 <hr/>
