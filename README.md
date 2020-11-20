@@ -682,8 +682,7 @@ JUnit 5 is the latest version of the popular JUnit testing framework Java. JUnit
 <!--
 <a title="Add to Calendar" class="addeventatc" data-id="rY5098360" href="https://www.addevent.com/event/rY5098360" target="_blank" rel="nofollow">Add to Calendar</a>
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script><i> <font size="-2">&nbsp;&nbsp;Add to calendar to register for this session</font></i>
--->
-<a href="https://youtu.be/HBA6sVZCHh0" class="myButton">Watch the recorded session</a>	
+-->	
 </div>
 <br>
 <hr/>
